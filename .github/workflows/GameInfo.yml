@@ -1,15 +1,17 @@
 name: Extract GameInformation
 
+on:
+  schedule:
+    - cron: '0 0,30 17 * * ?' #每日17点00,17点30，两个时间点执行任务
+  push:
+    branches:
+      - main
+
 env:
   PYTHONIOENCODING: utf-8
 
 # Allow Release
 permissions: write-all
-
-on:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -17,6 +19,10 @@ jobs:
     runs-on: "windows-latest"
 
     steps:
+     - uses: szenius/set-timezone@v1.0 # 设置执行环境的时区
+        with:
+          timezoneWindows: "Asia/Shanghai"
+
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
