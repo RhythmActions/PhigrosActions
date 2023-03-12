@@ -1,0 +1,50 @@
+name: Extract GameInformation
+
+env:
+  PYTHONIOENCODING: utf-8
+
+# Allow Release
+permissions: write-all
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: 'Extract GameInformation Operations'
+    runs-on: "windows-latest"
+
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.10
+
+      - name: Checkout private repo
+        uses: actions/checkout@v2
+
+      - name: Setup Extractor  
+        run: |
+          git clone -b main https://${{ secrets.GIT_AUTH_TOKEN }}:x-oauth-basic@github.com//yuhao7370/Phigros_Extractor.git
+          pip3 install -r Phigros_Extractor/requirements.txt
+        shell: bash  
+
+      - name: Execute Extractor
+        id: operation
+        run:  python3 Phigros_Extractor/GithubActions.py 
+
+      - name: Pushing to release
+        uses: ncipollo/release-action@v1
+        with:
+          name: "Phigros Gameinformation"
+          body: >-
+            Phigros Gameinformation
+          commit: ${{ github.sha }}
+          tag: "info"
+          artifacts: Phigros_Extractor\Assets\GameInformation\*
+
+          allowUpdates: true
+          removeArtifacts: true
+          replacesArtifacts: true
