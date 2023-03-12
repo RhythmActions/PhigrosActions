@@ -19,7 +19,7 @@ jobs:
     runs-on: "windows-latest"
 
     steps:
-     - uses: szenius/set-timezone@v1.0 # 设置执行环境的时区
+      - uses: szenius/set-timezone@v1.0 # 设置执行环境的时区
         with:
           timezoneWindows: "Asia/Shanghai"
 
