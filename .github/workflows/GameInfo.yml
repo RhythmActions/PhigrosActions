@@ -2,7 +2,7 @@ name: Extract GameInformation
 
 on:
   schedule:
-    - cron: '0 0,30 17 * * ?' #每日17点00,17点30，两个时间点执行任务
+    - cron: '10, 40 17 * * *' #每日17点10,17点40，两个时间点执行任务
   push:
     branches:
       - main
