@@ -2,7 +2,7 @@ name: Extract GameInformation
 
 on:
   schedule:
-    - cron: '10,50 10 * * *' #每日17点10,17点40，两个时间点执行任务
+    - cron: '0,30 19 * * *' #大约每日17点10,17点40，两个时间点执行任务(gh服务器时区和延迟问题)
   watch:
       types: [started]
   workflow_dispatch:
