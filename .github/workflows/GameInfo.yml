@@ -57,3 +57,17 @@ jobs:
           allowUpdates: true
           removeArtifacts: true
           replacesArtifacts: true
+      
+      - name: Pushing to release2
+        uses: ncipollo/release-action@v1
+        with:
+          name: "Phigros Gameinformation"
+          body: >-
+            Phigros Gameinformation
+          commit: ${{ github.sha }}
+          tag: "ConstantTable"
+          artifacts: Phigros_Extractor\Assets\ConstantTable\Generated*
+
+          allowUpdates: true
+          removeArtifacts: true
+          replacesArtifacts: true
