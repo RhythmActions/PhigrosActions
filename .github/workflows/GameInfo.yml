@@ -51,7 +51,7 @@ jobs:
           body: >-
             Phigros Gameinformation
           commit: ${{ github.sha }}
-          tag: "info"
+          tag: "main"
           artifacts: Phigros_Extractor\Assets\GameInformation\*
 
           allowUpdates: true
@@ -65,7 +65,7 @@ jobs:
           body: >-
             Phigros Gameinformation
           commit: ${{ github.sha }}
-          tag: "ConstantTable"
+          tag: "main"
           artifacts: Phigros_Extractor\Assets\ConstantTable\Generated\*
 
           allowUpdates: true
