@@ -48,7 +48,8 @@ jobs:
             Phigros Illustration
           commit: ${{ github.sha }}
           tag: "illu"
-          artifacts: Phigros_Extractor\Assets\ConstantTable\Generated\*
+          # artifacts: Phigros_Extractor\prehandle\*
+          artifacts: Phigros_Extractor\Illustrations.zip
 
           allowUpdates: true
           removeArtifacts: true
@@ -62,7 +63,7 @@ jobs:
             Phigros Constant Table
           commit: ${{ github.sha }}
           tag: "table"
-          artifacts: Phigros_Extractor\prehandle\*
+          artifacts: Phigros_Extractor\Assets\ConstantTable\Generated\*
 
           allowUpdates: true
           removeArtifacts: true
