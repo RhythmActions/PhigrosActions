@@ -6,9 +6,9 @@ on:
   watch:
       types: [started]
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 env:
   PYTHONIOENCODING: utf-8
@@ -22,10 +22,6 @@ jobs:
     runs-on: "windows-latest"
 
     steps:
-      - uses: szenius/set-timezone@v1.0 # 设置执行环境的时区
-        with:
-          timezoneWindows: "Asia/Shanghai"
-
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
@@ -43,6 +39,34 @@ jobs:
       - name: Execute Extractor
         id: operation
         run:  python3 Phigros_Extractor/GithubActions.py 
+
+      - name: Pushing illu
+        uses: ncipollo/release-action@v1
+        with:
+          name: "Phigros Illustration"
+          body: >-
+            Phigros Illustration
+          commit: ${{ github.sha }}
+          tag: "illu"
+          artifacts: Phigros_Extractor\Assets\ConstantTable\Generated\*
+
+          allowUpdates: true
+          removeArtifacts: true
+          replacesArtifacts: true
+
+      - name: Pushing CT
+        uses: ncipollo/release-action@v1
+        with:
+          name: "Phigros Constant Table"
+          body: >-
+            Phigros Constant Table
+          commit: ${{ github.sha }}
+          tag: "table"
+          artifacts: Phigros_Extractor\prehandle\*
+
+          allowUpdates: true
+          removeArtifacts: true
+          replacesArtifacts: true
 
       - name: Pushing to release
         uses: ncipollo/release-action@v1
