@@ -39,47 +39,67 @@ jobs:
       - name: Execute Extractor
         id: operation
         run:  python3 Phigros_Extractor/GithubActions.py 
+      
+      - name: Cleanind
+        id: operation
+        run:  python3 clean.py 
 
-      - name: Pushing illu
-        uses: ncipollo/release-action@v1
+      - name: commit
+        env:
+          useremail: ${{ secrets.GH_EMAIL }}
+        run: |
+          git config --global user.email useremail
+          git config --global user.name GithubActionBot
+          if [ -n "$(git status -s)" ];then
+              git add .
+              git commit -m "仓库更新" -a
+          fi
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          name: "Phigros Illustration"
-          body: >-
-            Phigros Illustration
-          commit: ${{ github.sha }}
-          tag: "illu"
-          # artifacts: Phigros_Extractor\prehandle\*
-          artifacts: Phigros_Extractor\Illustrations.zip
+          github_token: ${{ secrets.GIT_AUTH_TOKEN }}
+  
+      # - name: Pushing illu
+      #   uses: ncipollo/release-action@v1
+      #   with:
+      #     name: "Phigros Illustration"
+      #     body: >-
+      #       Phigros Illustration
+      #     commit: ${{ github.sha }}
+      #     tag: "illu"
+      #     # artifacts: Phigros_Extractor\prehandle\*
+      #     artifacts: Phigros_Extractor\Illustrations.zip
 
-          allowUpdates: true
-          removeArtifacts: true
-          replacesArtifacts: true
+      #     allowUpdates: true
+      #     removeArtifacts: true
+      #     replacesArtifacts: true
 
-      - name: Pushing CT
-        uses: ncipollo/release-action@v1
-        with:
-          name: "Phigros Constant Table"
-          body: >-
-            Phigros Constant Table
-          commit: ${{ github.sha }}
-          tag: "table"
-          artifacts: Phigros_Extractor\Assets\ConstantTable\Generated\*
+      # - name: Pushing CT
+      #   uses: ncipollo/release-action@v1
+      #   with:
+      #     name: "Phigros Constant Table"
+      #     body: >-
+      #       Phigros Constant Table
+      #     commit: ${{ github.sha }}
+      #     tag: "table"
+      #     artifacts: Phigros_Extractor\Assets\ConstantTable\Generated\*
 
-          allowUpdates: true
-          removeArtifacts: true
-          replacesArtifacts: true
+      #     allowUpdates: true
+      #     removeArtifacts: true
+      #     replacesArtifacts: true
 
-      - name: Pushing to release
-        uses: ncipollo/release-action@v1
-        with:
-          name: "Phigros Gameinformation"
-          body: >-
-            Phigros Gameinformation
-          commit: ${{ github.sha }}
-          tag: "info"
-          artifacts: Phigros_Extractor\Assets\GameInformation\*
+      # - name: Pushing to release
+      #   uses: ncipollo/release-action@v1
+      #   with:
+      #     name: "Phigros Gameinformation"
+      #     body: >-
+      #       Phigros Gameinformation
+      #     commit: ${{ github.sha }}
+      #     tag: "info"
+      #     artifacts: Phigros_Extractor\Assets\GameInformation\*
 
-          allowUpdates: true
-          removeArtifacts: true
-          replacesArtifacts: true
+      #     allowUpdates: true
+      #     removeArtifacts: true
+      #     replacesArtifacts: true
 
