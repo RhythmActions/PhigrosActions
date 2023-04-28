@@ -41,7 +41,7 @@ jobs:
         run:  python3 Phigros_Extractor/GithubActions.py 
       
       - name: Cleanind
-        id: operation
+        id: clean
         run:  python3 clean.py 
 
       - name: commit
