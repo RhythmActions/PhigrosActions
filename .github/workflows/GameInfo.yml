@@ -6,9 +6,9 @@ on:
   watch:
       types: [started]
   workflow_dispatch:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 
 env:
   PYTHONIOENCODING: utf-8
@@ -50,10 +50,8 @@ jobs:
         run: |
           git config --global user.email useremail
           git config --global user.name GithubActionBot
-          if [ -n "$(git status -s)" ];then
-              git add .
-              git commit -m "仓库更新" -a
-          fi
+          git add .
+          git commit -m "仓库更新" -a
       
       - name: Push changes
         uses: ad-m/github-push-action@master
