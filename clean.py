@@ -15,3 +15,11 @@ if __name__ == "__main__":
     print("正在移动定数表")
     shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/ConstantTable/Generated"), os.path.join(cur_path, "ConstantTable"))
     print("移动完成")
+    
+    print("正在移动头像")
+    shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/avatar"), os.path.join(cur_path, "Avatar"))
+    print("移动完成")
+    
+    print("正在移动裁切后曲绘")
+    shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/prehandle"), os.path.join(cur_path, "PrehandledIllu"))
+    print("移动完成")
