@@ -4,11 +4,14 @@ import os
 cur_path = os.path.dirname(__file__)
 
 if __name__ == "__main__":
-    shutil.rmtree(os.path.join(cur_path, "Tracks"))
-    shutil.rmtree(os.path.join(cur_path, "GameInformation"))
-    shutil.rmtree(os.path.join(cur_path, "ConstantTable"))
-    shutil.rmtree(os.path.join(cur_path, "Avatar"))
-    shutil.rmtree(os.path.join(cur_path, "PrehandledIllu"))
+    try:
+        shutil.rmtree(os.path.join(cur_path, "Tracks"))
+        shutil.rmtree(os.path.join(cur_path, "GameInformation"))
+        shutil.rmtree(os.path.join(cur_path, "ConstantTable"))
+        shutil.rmtree(os.path.join(cur_path, "Avatar"))
+        shutil.rmtree(os.path.join(cur_path, "PrehandledIllu"))
+    except:
+        pass
 
     print("正在移动曲绘文件")
     shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/Tracks"), os.path.join(cur_path, "Tracks"), ignore=shutil.ignore_patterns('*.json', '*.wav', "IllustrationBlur*"))
