@@ -1,5 +1,10 @@
 import shutil
 import os
+import json
+import datetime 
+from datetime import datetime
+from datetime import timezone
+from datetime import timedelta
 
 cur_path = os.path.dirname(__file__)
 
@@ -32,3 +37,19 @@ if __name__ == "__main__":
     print("正在移动裁切后曲绘")
     shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/prehandle"), os.path.join(cur_path, "PrehandledIllu"))
     print("移动完成")
+
+    with open(os.path.join(cur_path, "Phigros_Extractor/config.json"), 'r', encoding='utf-8') as f:
+        config = json.load(f)
+    ver = config["version"]
+
+    t = datetime.utcnow().replace(tzinfo=timezone.utc)
+    SHA_TZ = timezone(
+        timedelta(hours=8),
+        name='Asia/Shanghai',
+    )
+    beijing_now = t.astimezone(SHA_TZ)
+    beijing_now = beijing_now.strftime("%Y-%m-%d %H:%M:%S") 
+
+    status = {"version": ver, "updateTime": beijing_now}
+    with open(os.path.join(cur_path, "status.json"), 'w', encoding='utf8') as f:
+        json.dump(status, f, indent=4, ensure_ascii=False)
