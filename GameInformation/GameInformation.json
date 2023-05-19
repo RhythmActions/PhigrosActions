@@ -8,6 +8,24 @@
                 "banner": "Single",
                 "songs": [
                     {
+                        "unlockInfo": [
+                            "4"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "NowIsTheTimeDoIt.RoyMikelate.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Bougainvillea.Jade.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "零號車輛.seatrus.0",
@@ -11847,6 +11865,130 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "NowIsTheTimeDoIt.RoyMikelate.0",
+                "songsKey": "Now Is The Time, Do It",
+                "songsName": "Now Is The Time, Do It",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    10.7,
+                    14.3,
+                    0.0
+                ],
+                "illustrator": "青鸟",
+                "charter": [
+                    "M3d1uM",
+                    "M3d1uM",
+                    "Pat Brick Man Mr.N feat. Ner of Time",
+                    ""
+                ],
+                "composer": "Roy Mikelate",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 86.58200073242188,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Bougainvillea.Jade.0",
+                "songsKey": "Bougainvillea",
+                "songsName": "Bougainvillea",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    8.3,
+                    13.4,
+                    0.0
+                ],
+                "illustrator": "TNiK",
+                "charter": [
+                    "Barbarvillea",
+                    "Barbarvillea",
+                    "Barbarvillea",
+                    ""
+                ],
+                "composer": "Jade",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 48.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -12605,6 +12747,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Now Is The Time, Do It",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bougainvillea",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "零號車輛",
             "unlockedTimes": 0,
@@ -15181,6 +15335,18 @@
         },
         {
             "keyName": "零號車輛",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Now Is The Time, Do It",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bougainvillea",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "NowIsTheTimeDoIt.RoyMikelate.0",
+        "Bougainvillea.Jade.0",
         "零號車輛.seatrus.0",
         "Random.SobremSilentroom.0",
         "PoisonANDORAffection.LeaF.0",
@@ -178,6 +180,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "NowIsTheTimeDoIt.RoyMikelate.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Now Is The Time, Do It",
+            "composer": "Roy Mikelate",
+            "illustrator": "青鸟",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "M3d1uM",
+                    "numOfNotes": 246
+                },
+                "HD": {
+                    "rating": 10.7,
+                    "charter": "M3d1uM",
+                    "numOfNotes": 777
+                },
+                "IN": {
+                    "rating": 14.3,
+                    "charter": "Pat Brick Man Mr.N feat. Ner of Time",
+                    "numOfNotes": 795
+                }
+            }
+        },
+        "Bougainvillea.Jade.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Bougainvillea",
+            "composer": "Jade",
+            "illustrator": "TNiK",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Barbarvillea",
+                    "numOfNotes": 300
+                },
+                "HD": {
+                    "rating": 8.3,
+                    "charter": "Barbarvillea",
+                    "numOfNotes": 347
+                },
+                "IN": {
+                    "rating": 13.4,
+                    "charter": "Barbarvillea",
+                    "numOfNotes": 662
+                }
+            }
+        },
         "零號車輛.seatrus.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -5404,5 +5464,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.0.1"
+    "ver": "3.0.2"
 }
