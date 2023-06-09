@@ -1154,6 +1154,78 @@
             }
         },
         {
+            "chapterCode": "OverRapid",
+            "songInfo": {
+                "title": "\\ChapterOverRapidTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "OverRapid",
+                "songs": [
+                    {
+                        "unlockInfo": [
+                            "prev@6/9/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "神話.PicaM2U.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@6/9/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Elúltimobaile.Θ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@6/9/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Trojan.litmus.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@6/9/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "TemporalShifting.LureRabbitVC.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@6/9/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Adastraperaspera.RabbitHouse.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@6/9/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Ajourneytothemoonlight.Yesod.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
+                "unlockTip": "prev@6/9/2023 17:00:00 +8:00",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
             "chapterCode": "TEA12",
             "songInfo": {
                 "title": "\\ChapterTEA12Title",
@@ -11989,6 +12061,378 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "神話.PicaM2U.0",
+                "songsKey": "神話",
+                "songsName": "神話",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    9.2,
+                    13.6,
+                    0.0
+                ],
+                "illustrator": "mology (青鸟&V17AMax Modified)",
+                "charter": [
+                    "雑",
+                    "波",
+                    "P & U",
+                    ""
+                ],
+                "composer": "Pica & M2U",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 45.69200134277344,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Elúltimobaile.Θ.0",
+                "songsKey": "El último baile",
+                "songsName": "El último baile",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    10.4,
+                    14.3,
+                    0.0
+                ],
+                "illustrator": "mology (青鸟&V17AMax Modified)",
+                "charter": [
+                    "Barbarianerman",
+                    "Barbarianerman",
+                    "百九十八 feat. Likey",
+                    ""
+                ],
+                "composer": "Θ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 41.513999938964844,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Trojan.litmus.0",
+                "songsKey": "Trojan",
+                "songsName": "Trojan",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    10.8,
+                    14.8,
+                    0.0
+                ],
+                "illustrator": "Lapelristar (青鸟&V17AMax Modified)",
+                "charter": [
+                    "M3d1uM",
+                    "M3d1uM",
+                    "Warning: XMT is infected by Trojan!!",
+                    ""
+                ],
+                "composer": "litmus*",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 87.18699645996094,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "TemporalShifting.LureRabbitVC.0",
+                "songsKey": "Temporal Shifting",
+                "songsName": "Temporal Shifting",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    11.5,
+                    15.2,
+                    0.0
+                ],
+                "illustrator": "mology (青鸟&V17AMax Modified)",
+                "charter": [
+                    "Su1fuR",
+                    "Su1fuR",
+                    "Gausbon vs. 阿爽",
+                    ""
+                ],
+                "composer": "Lure Rabbit & V!C",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 99.5,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Adastraperaspera.RabbitHouse.0",
+                "songsKey": "Ad astra per aspera",
+                "songsName": "Ad astra per aspera",
+                "songsTitle": "",
+                "difficulty": [
+                    6.0,
+                    12.1,
+                    15.8,
+                    0.0
+                ],
+                "illustrator": "Lyrebird Ferdinant (青鸟&V17AMax Modified)",
+                "charter": [
+                    "Barbarianerman",
+                    "XMT小咩兔",
+                    "Hara小兔组",
+                    ""
+                ],
+                "composer": "Rabbit House",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 60.30400085449219,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Ajourneytothemoonlight.Yesod.0",
+                "songsKey": "A journey to the moonlight",
+                "songsName": "A journey to the moonlight",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    10.7,
+                    14.5,
+                    0.0
+                ],
+                "illustrator": "汉堡",
+                "charter": [
+                    "Rikko from「PHIGROS MOON」",
+                    "Rikko from「PHIGROS MOON」",
+                    "Ner & 198 from 「PHIGROS MOON」",
+                    ""
+                ],
+                "composer": "Yesod",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 55.895999908447266,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -12686,7 +13130,7 @@
                 "songsName": "Introduction",
                 "songsTitle": "",
                 "difficulty": [
-                    2.0,
+                    1.0,
                     0.0,
                     0.0,
                     0.0
@@ -15347,6 +15791,42 @@
         },
         {
             "keyName": "Bougainvillea",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "神話",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "El último baile",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Trojan",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Temporal Shifting",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Ad astra per aspera",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "A journey to the moonlight",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

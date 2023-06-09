@@ -141,6 +141,12 @@
         "Ark.kanoryo.0",
         "AfterDawn.S9ryne.0",
         "INFiNiTEENERZYOverdoze.RekuMochizuki.0",
+        "神話.PicaM2U.0",
+        "Elúltimobaile.Θ.0",
+        "Trojan.litmus.0",
+        "TemporalShifting.LureRabbitVC.0",
+        "Adastraperaspera.RabbitHouse.0",
+        "Ajourneytothemoonlight.Yesod.0",
         "盏茗.茶鸣拾贰律.0",
         "青芽.茶鸣拾贰律.0",
         "瓷岁.茶鸣拾贰律.0",
@@ -4353,6 +4359,180 @@
                 }
             }
         },
+        "神話.PicaM2U.0": {
+            "chapterCode": "OverRapid",
+            "unlockType": 0,
+            "songsName": "神話",
+            "composer": "Pica & M2U",
+            "illustrator": "mology (青鸟&V17AMax Modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "雑",
+                    "numOfNotes": 289
+                },
+                "HD": {
+                    "rating": 9.2,
+                    "charter": "波",
+                    "numOfNotes": 433
+                },
+                "IN": {
+                    "rating": 13.6,
+                    "charter": "P & U",
+                    "numOfNotes": 735
+                }
+            }
+        },
+        "Elúltimobaile.Θ.0": {
+            "chapterCode": "OverRapid",
+            "unlockType": 0,
+            "songsName": "El último baile",
+            "composer": "Θ",
+            "illustrator": "mology (青鸟&V17AMax Modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Barbarianerman",
+                    "numOfNotes": 261
+                },
+                "HD": {
+                    "rating": 10.4,
+                    "charter": "Barbarianerman",
+                    "numOfNotes": 480
+                },
+                "IN": {
+                    "rating": 14.3,
+                    "charter": "百九十八 feat. Likey",
+                    "numOfNotes": 610
+                }
+            }
+        },
+        "Trojan.litmus.0": {
+            "chapterCode": "OverRapid",
+            "unlockType": 0,
+            "songsName": "Trojan",
+            "composer": "litmus*",
+            "illustrator": "Lapelristar (青鸟&V17AMax Modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "M3d1uM",
+                    "numOfNotes": 345
+                },
+                "HD": {
+                    "rating": 10.8,
+                    "charter": "M3d1uM",
+                    "numOfNotes": 741
+                },
+                "IN": {
+                    "rating": 14.8,
+                    "charter": "Warning: XMT is infected by Trojan!!",
+                    "numOfNotes": 1305
+                }
+            }
+        },
+        "TemporalShifting.LureRabbitVC.0": {
+            "chapterCode": "OverRapid",
+            "unlockType": 0,
+            "songsName": "Temporal Shifting",
+            "composer": "Lure Rabbit & V!C",
+            "illustrator": "mology (青鸟&V17AMax Modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 127
+                },
+                "HD": {
+                    "rating": 11.5,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 465
+                },
+                "IN": {
+                    "rating": 15.2,
+                    "charter": "Gausbon vs. 阿爽",
+                    "numOfNotes": 959
+                }
+            }
+        },
+        "Adastraperaspera.RabbitHouse.0": {
+            "chapterCode": "OverRapid",
+            "unlockType": 0,
+            "songsName": "Ad astra per aspera",
+            "composer": "Rabbit House",
+            "illustrator": "Lyrebird Ferdinant (青鸟&V17AMax Modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 6.0,
+                    "charter": "Barbarianerman",
+                    "numOfNotes": 696
+                },
+                "HD": {
+                    "rating": 12.1,
+                    "charter": "XMT小咩兔",
+                    "numOfNotes": 924
+                },
+                "IN": {
+                    "rating": 15.8,
+                    "charter": "Hara小兔组",
+                    "numOfNotes": 1454
+                }
+            }
+        },
+        "Ajourneytothemoonlight.Yesod.0": {
+            "chapterCode": "OverRapid",
+            "unlockType": 0,
+            "songsName": "A journey to the moonlight",
+            "composer": "Yesod",
+            "illustrator": "汉堡",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "Rikko from「PHIGROS MOON」",
+                    "numOfNotes": 242
+                },
+                "HD": {
+                    "rating": 10.7,
+                    "charter": "Rikko from「PHIGROS MOON」",
+                    "numOfNotes": 555
+                },
+                "IN": {
+                    "rating": 14.5,
+                    "charter": "Ner & 198 from 「PHIGROS MOON」",
+                    "numOfNotes": 1181
+                }
+            }
+        },
         "盏茗.茶鸣拾贰律.0": {
             "chapterCode": "TEA12",
             "unlockType": 0,
@@ -5464,5 +5644,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.0.3"
+    "ver": "3.1.0"
 }
