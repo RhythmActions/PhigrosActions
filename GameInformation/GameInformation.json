@@ -12,7 +12,7 @@
                             "4"
                         ],
                         "secretInfo": [],
-                        "songsId": "NowIsTheTimeDoIt.RoyMikelate.0",
+                        "songsId": "Realms.HinkikAHimitsu.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
@@ -20,6 +20,20 @@
                         "unlockInfo": [
                             "4"
                         ],
+                        "secretInfo": [],
+                        "songsId": "RainyHeart.BelieverInYou阿卡姆巫师.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "NowIsTheTimeDoIt.RoyMikelate.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Bougainvillea.Jade.0",
                         "unlockType": 1,
@@ -1161,54 +1175,42 @@
                 "banner": "OverRapid",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "prev@6/9/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "神話.PicaM2U.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@6/9/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Elúltimobaile.Θ.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@6/9/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Trojan.litmus.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@6/9/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "TemporalShifting.LureRabbitVC.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@6/9/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Adastraperaspera.RabbitHouse.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@6/9/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Ajourneytothemoonlight.Yesod.0",
                         "unlockType": 0,
@@ -1219,7 +1221,7 @@
             "unlockInfo": {
                 "unlockMode": 0,
                 "unlockFlag": "",
-                "unlockTip": "prev@6/9/2023 17:00:00 +8:00",
+                "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
                 "fakeCoverBlurCode": ""
@@ -12433,6 +12435,130 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "RainyHeart.BelieverInYou阿卡姆巫师.0",
+                "songsKey": "Rainy Heart",
+                "songsName": "Rainy Heart",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    10.2,
+                    12.9,
+                    0.0
+                ],
+                "illustrator": "Sodhelium",
+                "charter": [
+                    "Su1fuR",
+                    "Barbarianerman",
+                    "HaraKuma",
+                    ""
+                ],
+                "composer": "BelieverInYou(阿卡姆巫师)",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 29.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Realms.HinkikAHimitsu.0",
+                "songsKey": "Realms",
+                "songsName": "Realms",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    10.8,
+                    14.1,
+                    0.0
+                ],
+                "illustrator": "圆规compasses",
+                "charter": [
+                    "Barbarianerman",
+                    "Barbarianerman",
+                    "NerSAN",
+                    ""
+                ],
+                "composer": "Hinkik & A Himitsu",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 47.06800079345703,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -13191,6 +13317,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Realms",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Rainy Heart",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Now Is The Time, Do It",
             "unlockedTimes": 0,
@@ -15827,6 +15965,18 @@
         },
         {
             "keyName": "A journey to the moonlight",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Rainy Heart",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Realms",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "Realms.HinkikAHimitsu.0",
+        "RainyHeart.BelieverInYou阿卡姆巫师.0",
         "NowIsTheTimeDoIt.RoyMikelate.0",
         "Bougainvillea.Jade.0",
         "零號車輛.seatrus.0",
@@ -186,6 +188,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "Realms.HinkikAHimitsu.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Realms",
+            "composer": "Hinkik & A Himitsu",
+            "illustrator": "圆规compasses",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "Barbarianerman",
+                    "numOfNotes": 216
+                },
+                "HD": {
+                    "rating": 10.8,
+                    "charter": "Barbarianerman",
+                    "numOfNotes": 562
+                },
+                "IN": {
+                    "rating": 14.1,
+                    "charter": "NerSAN",
+                    "numOfNotes": 673
+                }
+            }
+        },
+        "RainyHeart.BelieverInYou阿卡姆巫师.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Rainy Heart",
+            "composer": "BelieverInYou(阿卡姆巫师)",
+            "illustrator": "Sodhelium",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 194
+                },
+                "HD": {
+                    "rating": 10.2,
+                    "charter": "Barbarianerman",
+                    "numOfNotes": 331
+                },
+                "IN": {
+                    "rating": 12.9,
+                    "charter": "HaraKuma",
+                    "numOfNotes": 440
+                }
+            }
+        },
         "NowIsTheTimeDoIt.RoyMikelate.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -565,7 +625,7 @@
                 "IN": {
                     "rating": 14.4,
                     "charter": "Raiky Season",
-                    "numOfNotes": 660
+                    "numOfNotes": 440
                 }
             }
         },
@@ -5644,5 +5704,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.1.0"
+    "ver": "3.1.1"
 }
