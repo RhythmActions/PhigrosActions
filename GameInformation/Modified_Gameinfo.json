@@ -625,7 +625,7 @@
                 "IN": {
                     "rating": 14.4,
                     "charter": "Raiky Season",
-                    "numOfNotes": 440
+                    "numOfNotes": 660
                 }
             }
         },
@@ -5704,5 +5704,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.1.1"
+    "ver": "3.1.2"
 }
