@@ -19,7 +19,7 @@ if __name__ == "__main__":
         pass
 
     print("正在移动曲绘文件")
-    shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/Tracks"), os.path.join(cur_path, "Tracks"), ignore=shutil.ignore_patterns('*.json', '*.wav', "IllustrationBlur*"))
+    shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/Tracks"), os.path.join(cur_path, "Tracks"), ignore=shutil.ignore_patterns('*.wav', "IllustrationBlur*"))
     print("移动完成")
 
     print("正在移动GameInformation")
