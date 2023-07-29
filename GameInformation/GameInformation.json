@@ -12,14 +12,19 @@
                             "4"
                         ],
                         "secretInfo": [],
+                        "songsId": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
                         "songsId": "Realms.HinkikAHimitsu.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "RainyHeart.BelieverInYou阿卡姆巫师.0",
                         "unlockType": 1,
@@ -12559,6 +12564,68 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
+                "songsKey": "ぱぴぷぴぷぴぱ",
+                "songsName": "ぱぴぷぴぷぴぱ",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    11.3,
+                    15.3,
+                    0.0
+                ],
+                "illustrator": "上倉エク",
+                "charter": [
+                    "ParParianerman",
+                    "ParParianerman",
+                    "さるふるふるさ",
+                    ""
+                ],
+                "composer": "ころねぽち With 立秋",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 92.5999984741211,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -13317,6 +13384,12 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "ぱぴぷぴぷぴぱ",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Realms",
             "unlockedTimes": 0,
@@ -15977,6 +16050,12 @@
         },
         {
             "keyName": "Realms",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ぱぴぷぴぷぴぱ",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

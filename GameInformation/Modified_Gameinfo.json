@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
         "Realms.HinkikAHimitsu.0",
         "RainyHeart.BelieverInYou阿卡姆巫师.0",
         "NowIsTheTimeDoIt.RoyMikelate.0",
@@ -188,6 +189,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "ぱぴぷぴぷぴぱ",
+            "composer": "ころねぽち With 立秋",
+            "illustrator": "上倉エク",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "ParParianerman",
+                    "numOfNotes": 637
+                },
+                "HD": {
+                    "rating": 11.3,
+                    "charter": "ParParianerman",
+                    "numOfNotes": 1290
+                },
+                "IN": {
+                    "rating": 15.3,
+                    "charter": "さるふるふるさ",
+                    "numOfNotes": 1243
+                }
+            }
+        },
         "Realms.HinkikAHimitsu.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -4589,7 +4619,7 @@
                 "IN": {
                     "rating": 14.5,
                     "charter": "Ner & 198 from 「PHIGROS MOON」",
-                    "numOfNotes": 1181
+                    "numOfNotes": 1199
                 }
             }
         },
@@ -5704,5 +5734,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.1.2"
+    "ver": "3.1.3"
 }
