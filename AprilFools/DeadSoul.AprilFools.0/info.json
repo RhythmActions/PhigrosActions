@@ -1,0 +1,15 @@
+{
+    "songsName": "Dead Soul",
+    "composer": "Sound Souler",
+    "illustrator": "Photonskyto",
+    "chartDetail": {
+        "level_list": [
+            "SP"
+        ],
+        "SP": {
+            "rating": -1,
+            "charter": "Phigros Charting Team",
+            "numOfNotes": 564
+        }
+    }
+}

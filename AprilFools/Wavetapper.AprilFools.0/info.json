@@ -1,0 +1,15 @@
+{
+    "songsName": "Wavetapper",
+    "composer": "Frums",
+    "illustrator": "百九十八",
+    "chartDetail": {
+        "level_list": [
+            "SP"
+        ],
+        "SP": {
+            "rating": -1,
+            "charter": ".---- ----. ---.. / -. . .-.",
+            "numOfNotes": 344
+        }
+    }
+}

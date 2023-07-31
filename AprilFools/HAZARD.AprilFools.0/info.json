@@ -1,0 +1,15 @@
+{
+    "songsName": "HAZARD",
+    "composer": "Limpid",
+    "illustrator": "ZG",
+    "chartDetail": {
+        "level_list": [
+            "SP"
+        ],
+        "SP": {
+            "rating": -1,
+            "charter": "G U B N",
+            "numOfNotes": 541
+        }
+    }
+}

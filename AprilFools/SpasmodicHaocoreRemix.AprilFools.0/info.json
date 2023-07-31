@@ -1,0 +1,15 @@
+{
+    "songsName": "Spasmodic(Haocore Mix)",
+    "composer": "姜米條-天利",
+    "illustrator": "笔记RE",
+    "chartDetail": {
+        "level_list": [
+            "SP"
+        ],
+        "SP": {
+            "rating": -1,
+            "charter": "Phigros Spasming Team \"無極病院\"",
+            "numOfNotes": 2500
+        }
+    }
+}
