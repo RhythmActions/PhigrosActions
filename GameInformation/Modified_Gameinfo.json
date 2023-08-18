@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "TriumphRegret.typeMARS.0",
         "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
         "Realms.HinkikAHimitsu.0",
         "RainyHeart.BelieverInYou阿卡姆巫师.0",
@@ -189,6 +190,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "TriumphRegret.typeMARS.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Triumph & Regret",
+            "composer": "typeMARS",
+            "illustrator": "何呵",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Barbarianerman & Regret",
+                    "numOfNotes": 423
+                },
+                "HD": {
+                    "rating": 9.4,
+                    "charter": "Barbarianerman & Regret",
+                    "numOfNotes": 694
+                },
+                "IN": {
+                    "rating": 14.7,
+                    "charter": "TimiTini & HaraKuma",
+                    "numOfNotes": 1014
+                }
+            }
+        },
         "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -5734,5 +5764,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.1.3"
+    "ver": "3.1.4"
 }

@@ -12,6 +12,13 @@
                             "4"
                         ],
                         "secretInfo": [],
+                        "songsId": "TriumphRegret.typeMARS.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
                         "songsId": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
                         "unlockType": 1,
                         "secretType": 0
@@ -12626,6 +12633,68 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "TriumphRegret.typeMARS.0",
+                "songsKey": "Triumph & Regret",
+                "songsName": "Triumph & Regret",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    9.4,
+                    14.7,
+                    0.0
+                ],
+                "illustrator": "何呵",
+                "charter": [
+                    "Barbarianerman & Regret",
+                    "Barbarianerman & Regret",
+                    "TimiTini & HaraKuma",
+                    ""
+                ],
+                "composer": "typeMARS",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 76.79299926757812,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -13384,6 +13453,12 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Triumph & Regret",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "ぱぴぷぴぷぴぱ",
             "unlockedTimes": 0,
@@ -16056,6 +16131,12 @@
         },
         {
             "keyName": "ぱぴぷぴぷぴぱ",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Triumph & Regret",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
