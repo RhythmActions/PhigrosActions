@@ -145,6 +145,11 @@
         "Ark.kanoryo.0",
         "AfterDawn.S9ryne.0",
         "INFiNiTEENERZYOverdoze.RekuMochizuki.0",
+        "SATELLITE.かめりあ.0",
+        "DancewithSilence.かめりあ.0",
+        "LabyrinthinKowloonWalledWorld.かめりあ.0",
+        "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
+        "ERABYECONNEC10N.かめりあ.0",
         "神話.PicaM2U.0",
         "Elúltimobaile.Θ.0",
         "Trojan.litmus.0",
@@ -242,7 +247,7 @@
                     "numOfNotes": 1290
                 },
                 "IN": {
-                    "rating": 15.3,
+                    "rating": 15.5,
                     "charter": "さるふるふるさ",
                     "numOfNotes": 1243
                 }
@@ -382,7 +387,7 @@
                     "numOfNotes": 594
                 },
                 "HD": {
-                    "rating": 12.8,
+                    "rating": 12.3,
                     "charter": "壹號阿爽",
                     "numOfNotes": 1058
                 },
@@ -503,7 +508,7 @@
                     "numOfNotes": 578
                 },
                 "IN": {
-                    "rating": 15.7,
+                    "rating": 15.6,
                     "charter": "Alloces",
                     "numOfNotes": 1275
                 }
@@ -1002,7 +1007,7 @@
                     "numOfNotes": 608
                 },
                 "IN": {
-                    "rating": 14.4,
+                    "rating": 14.5,
                     "charter": "百九十八",
                     "numOfNotes": 650
                 }
@@ -1263,7 +1268,7 @@
                     "numOfNotes": 454
                 },
                 "IN": {
-                    "rating": 12.1,
+                    "rating": 12.6,
                     "charter": "-JKy-",
                     "numOfNotes": 644
                 }
@@ -1379,7 +1384,7 @@
                     "numOfNotes": 329
                 },
                 "IN": {
-                    "rating": 13.6,
+                    "rating": 13.8,
                     "charter": "NerSAN vs. 阿爽",
                     "numOfNotes": 676
                 }
@@ -1988,7 +1993,7 @@
                     "numOfNotes": 550
                 },
                 "IN": {
-                    "rating": 13.8,
+                    "rating": 14.1,
                     "charter": "JKy",
                     "numOfNotes": 708
                 }
@@ -2104,7 +2109,7 @@
                     "numOfNotes": 475
                 },
                 "IN": {
-                    "rating": 12.8,
+                    "rating": 13.2,
                     "charter": "阿爽 vs. Ctymax -Haose 垃圾-",
                     "numOfNotes": 613
                 }
@@ -2197,7 +2202,7 @@
                     "numOfNotes": 497
                 },
                 "IN": {
-                    "rating": 14.8,
+                    "rating": 14.9,
                     "charter": "Burn Full Catcats VS Ctymatch Girl",
                     "numOfNotes": 707
                 }
@@ -2309,12 +2314,12 @@
                     "numOfNotes": 472
                 },
                 "HD": {
-                    "rating": 10.8,
+                    "rating": 11.7,
                     "charter": "Catcats a.k.a. 無極 VS H.C.C. fixed by Pcat",
                     "numOfNotes": 651
                 },
                 "IN": {
-                    "rating": 14.4,
+                    "rating": 14.5,
                     "charter": "晨",
                     "numOfNotes": 968
                 },
@@ -2875,7 +2880,8 @@
                 "level_list": [
                     "EZ",
                     "HD",
-                    "IN"
+                    "IN",
+                    "AT"
                 ],
                 "EZ": {
                     "rating": 4.5,
@@ -2891,6 +2897,11 @@
                     "rating": 13.7,
                     "charter": "Ctymax",
                     "numOfNotes": 535
+                },
+                "AT": {
+                    "rating": 15.5,
+                    "charter": "_鉄 (Isotope 59)",
+                    "numOfNotes": 638
                 }
             }
         },
@@ -4479,6 +4490,163 @@
                 }
             }
         },
+        "SATELLITE.かめりあ.0": {
+            "chapterCode": "Camellia",
+            "unlockType": 0,
+            "songsName": "S.A.T.E.L.L.I.T.E.",
+            "composer": "かめりあ",
+            "illustrator": "青鸟",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "XMT wishing upon a satellite",
+                    "numOfNotes": 345
+                },
+                "HD": {
+                    "rating": 9.9,
+                    "charter": "B.A.R.B.A.R.I.A.N.E.R.M.A.N.",
+                    "numOfNotes": 600
+                },
+                "IN": {
+                    "rating": 14.6,
+                    "charter": "L.I.K.E.Y.",
+                    "numOfNotes": 897
+                },
+                "AT": {
+                    "rating": 15.8,
+                    "charter": "N.E.R.1.9.8.",
+                    "numOfNotes": 1098
+                }
+            }
+        },
+        "DancewithSilence.かめりあ.0": {
+            "chapterCode": "Camellia",
+            "unlockType": 0,
+            "songsName": "Dance with Silence",
+            "composer": "かめりあ",
+            "illustrator": "林语",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 7.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 170
+                },
+                "HD": {
+                    "rating": 10.9,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 552
+                },
+                "IN": {
+                    "rating": 15.2,
+                    "charter": "晨_鉄",
+                    "numOfNotes": 1125
+                }
+            }
+        },
+        "LabyrinthinKowloonWalledWorld.かめりあ.0": {
+            "chapterCode": "Camellia",
+            "unlockType": 0,
+            "songsName": "Labyrinth in Kowloon: Walled World",
+            "composer": "かめりあ",
+            "illustrator": "鲸弑",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 6.0,
+                    "charter": "VikingNexus",
+                    "numOfNotes": 491
+                },
+                "HD": {
+                    "rating": 11.6,
+                    "charter": "VikingNexus",
+                    "numOfNotes": 968
+                },
+                "IN": {
+                    "rating": 15.4,
+                    "charter": "198 in Kowloon",
+                    "numOfNotes": 1150
+                }
+            }
+        },
+        "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0": {
+            "chapterCode": "Camellia",
+            "unlockType": 0,
+            "songsName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+            "composer": "かめりあ",
+            "illustrator": "山崎团",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.5,
+                    "charter": "Clutter",
+                    "numOfNotes": 330
+                },
+                "HD": {
+                    "rating": 10.6,
+                    "charter": "Clutter",
+                    "numOfNotes": 723
+                },
+                "IN": {
+                    "rating": 15.6,
+                    "charter": "Gausbon vs. XMT小咩兔",
+                    "numOfNotes": 1213
+                }
+            }
+        },
+        "ERABYECONNEC10N.かめりあ.0": {
+            "chapterCode": "Camellia",
+            "unlockType": 0,
+            "songsName": "+ERABY+E CONNEC+10N",
+            "composer": "かめりあ",
+            "illustrator": "猫箱Catbox feat. 祈莲",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 5.5,
+                    "charter": "4B314C3042592B45",
+                    "numOfNotes": 492
+                },
+                "HD": {
+                    "rating": 11.5,
+                    "charter": "4D45474142592B45",
+                    "numOfNotes": 904
+                },
+                "IN": {
+                    "rating": 15.8,
+                    "charter": "4731474142592B45",
+                    "numOfNotes": 1530
+                },
+                "AT": {
+                    "rating": 16.5,
+                    "charter": "2B45524142592B45",
+                    "numOfNotes": 1579
+                }
+            }
+        },
         "神話.PicaM2U.0": {
             "chapterCode": "OverRapid",
             "unlockType": 0,
@@ -5008,7 +5176,7 @@
                     "numOfNotes": 902
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.4,
                     "charter": "ST AS is XMT",
                     "numOfNotes": 1322
                 },
@@ -5100,7 +5268,7 @@
                     "numOfNotes": 715
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.4,
                     "charter": "NerSAN vs. Ctymax as \"泥头鱼\"",
                     "numOfNotes": 1449
                 }
@@ -5764,5 +5932,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.1.4"
+    "ver": "3.2.0"
 }

@@ -8,9 +8,7 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "TriumphRegret.typeMARS.0",
                         "unlockType": 1,
@@ -1180,6 +1178,69 @@
             }
         },
         {
+            "chapterCode": "Camellia",
+            "songInfo": {
+                "title": "\\ChapterCamelliaTitle",
+                "subTitle": "\\ChapterCamelliaSubTitle",
+                "banner": "かめりあ",
+                "songs": [
+                    {
+                        "unlockInfo": [
+                            "prev@8/31/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "SATELLITE.かめりあ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@8/31/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "DancewithSilence.かめりあ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@8/31/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "LabyrinthinKowloonWalledWorld.かめりあ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@8/31/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@8/31/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "ERABYECONNEC10N.かめりあ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
+                "unlockTip": "",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
             "chapterCode": "OverRapid",
             "songInfo": {
                 "title": "\\ChapterOverRapidTitle",
@@ -1800,14 +1861,14 @@
                     4.5,
                     10.4,
                     13.7,
-                    0.0
+                    15.5
                 ],
                 "illustrator": "Ctymax",
                 "charter": [
                     "Ctymax",
                     "Ctymax",
                     "Ctymax",
-                    ""
+                    "_鉄 (Isotope 59)"
                 ],
                 "composer": "Frums",
                 "levels": [
@@ -5485,8 +5546,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.0,
-                    10.8,
-                    14.4,
+                    11.7,
+                    14.5,
                     16.1
                 ],
                 "illustrator": "DoublePian",
@@ -5734,7 +5795,7 @@
                 "difficulty": [
                     4.0,
                     10.6,
-                    14.8,
+                    14.9,
                     0.0
                 ],
                 "illustrator": "knife美工刀",
@@ -5927,7 +5988,7 @@
                 "difficulty": [
                     3.5,
                     9.4,
-                    12.8,
+                    13.2,
                     0.0
                 ],
                 "illustrator": "knife美工刀",
@@ -6678,7 +6739,7 @@
                 "difficulty": [
                     6.5,
                     11.4,
-                    13.8,
+                    14.1,
                     0.0
                 ],
                 "illustrator": "TNiK",
@@ -8724,7 +8785,7 @@
                 "difficulty": [
                     3.0,
                     9.6,
-                    13.6,
+                    13.8,
                     0.0
                 ],
                 "illustrator": "佑木いずみ & Ctymax",
@@ -8972,7 +9033,7 @@
                 "difficulty": [
                     5.5,
                     9.7,
-                    12.1,
+                    12.6,
                     0.0
                 ],
                 "illustrator": "Hachimitsu☆Boy",
@@ -9406,7 +9467,7 @@
                 "difficulty": [
                     5.0,
                     9.2,
-                    15.5,
+                    15.4,
                     0.0
                 ],
                 "illustrator": "ZG",
@@ -9840,7 +9901,7 @@
                 "difficulty": [
                     5.5,
                     9.3,
-                    14.4,
+                    14.5,
                     0.0
                 ],
                 "illustrator": "鲸弑",
@@ -10341,7 +10402,7 @@
                 "difficulty": [
                     5.0,
                     11.1,
-                    15.5,
+                    15.4,
                     16.4
                 ],
                 "illustrator": "Lanota © Noxy Games Inc. ",
@@ -11650,7 +11711,7 @@
                 "difficulty": [
                     5.0,
                     11.2,
-                    15.7,
+                    15.6,
                     0.0
                 ],
                 "illustrator": "LESYEF & 藍瀬 まなみ",
@@ -11897,7 +11958,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.0,
-                    12.8,
+                    12.3,
                     15.8,
                     0.0
                 ],
@@ -12580,7 +12641,7 @@
                 "difficulty": [
                     5.0,
                     11.3,
-                    15.3,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "上倉エク",
@@ -12660,6 +12721,318 @@
                     "AT"
                 ],
                 "previewTime": 76.79299926757812,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "SATELLITE.かめりあ.0",
+                "songsKey": "S.A.T.E.L.L.I.T.E.",
+                "songsName": "S.A.T.E.L.L.I.T.E.",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    9.9,
+                    14.6,
+                    15.8
+                ],
+                "illustrator": "青鸟",
+                "charter": [
+                    "XMT wishing upon a satellite",
+                    "B.A.R.B.A.R.I.A.N.E.R.M.A.N.",
+                    "L.I.K.E.Y.",
+                    "N.E.R.1.9.8."
+                ],
+                "composer": "かめりあ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 81.19999694824219,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 2,
+                        "unlockInfo": [
+                            "ReadbassareusEgg"
+                        ]
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "DancewithSilence.かめりあ.0",
+                "songsKey": "Dance with Silence",
+                "songsName": "Dance with Silence",
+                "songsTitle": "",
+                "difficulty": [
+                    7.0,
+                    10.9,
+                    15.2,
+                    0.0
+                ],
+                "illustrator": "林语",
+                "charter": [
+                    "Su1fuR",
+                    "Su1fuR",
+                    "晨_鉄",
+                    ""
+                ],
+                "composer": "かめりあ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 114.4000015258789,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "LabyrinthinKowloonWalledWorld.かめりあ.0",
+                "songsKey": "Labyrinth in Kowloon: Walled World",
+                "songsName": "Labyrinth in Kowloon: Walled World",
+                "songsTitle": "",
+                "difficulty": [
+                    6.0,
+                    11.6,
+                    15.4,
+                    0.0
+                ],
+                "illustrator": "鲸弑",
+                "charter": [
+                    "VikingNexus",
+                    "VikingNexus",
+                    "198 in Kowloon",
+                    ""
+                ],
+                "composer": "かめりあ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 41.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
+                "songsKey": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+                "songsName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+                "songsTitle": "",
+                "difficulty": [
+                    5.5,
+                    10.6,
+                    15.6,
+                    0.0
+                ],
+                "illustrator": "山崎团",
+                "charter": [
+                    "Clutter",
+                    "Clutter",
+                    "Gausbon vs. XMT小咩兔",
+                    ""
+                ],
+                "composer": "かめりあ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 112.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "ERABYECONNEC10N.かめりあ.0",
+                "songsKey": "+ERABY+E CONNEC+10N",
+                "songsName": "+ERABY+E CONNEC+10N",
+                "songsTitle": "",
+                "difficulty": [
+                    5.5,
+                    11.5,
+                    15.8,
+                    16.5
+                ],
+                "illustrator": "猫箱Catbox feat. 祈莲",
+                "charter": [
+                    "4B314C3042592B45",
+                    "4D45474142592B45",
+                    "4731474142592B45",
+                    "2B45524142592B45"
+                ],
+                "composer": "かめりあ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 75.12999725341797,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -15080,6 +15453,228 @@
             "unlockTimes": 4
         },
         {
+            "keyName": "bassareusEgg",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ReMobiusi",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus0",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus1",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus2",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus3",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus4",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus5",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus6",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus7",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus8",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus9",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus10",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus11",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus12",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus13",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus14",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus15",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus16",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus17",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus18",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus19",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus20",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus21",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus22",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus23",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus24",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus25",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus26",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus27",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus28",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus29",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus30",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus31",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus32",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus33",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bassareus34",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
             "keyName": "Glaciaxion",
             "unlockedTimes": 0,
             "kindOfKey": 2,
@@ -16137,6 +16732,36 @@
         },
         {
             "keyName": "Triumph & Regret",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "S.A.T.E.L.L.I.T.E.",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Dance with Silence",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Labyrinth in Kowloon: Walled World",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "+ERABY+E CONNEC+10N",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
