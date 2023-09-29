@@ -8,6 +8,24 @@
                 "banner": "Single",
                 "songs": [
                     {
+                        "unlockInfo": [
+                            "4"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Bitterblossom.imvi.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "DiamondEyes.SYNTHETIC.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "TriumphRegret.typeMARS.0",
@@ -13068,6 +13086,130 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "DiamondEyes.SYNTHETIC.0",
+                "songsKey": "Diamond Eyes",
+                "songsName": "Diamond Eyes",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    8.2,
+                    13.4,
+                    0.0
+                ],
+                "illustrator": "彗星 feat. 祈莲",
+                "charter": [
+                    "Su1fuR",
+                    "Su1fuR",
+                    "Clutter",
+                    ""
+                ],
+                "composer": "SYNTHETIC",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 97.28500366210938,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Bitterblossom.imvi.0",
+                "songsKey": "Bitterblossom",
+                "songsName": "Bitterblossom",
+                "songsTitle": "",
+                "difficulty": [
+                    3.0,
+                    9.6,
+                    13.7,
+                    0.0
+                ],
+                "illustrator": "鲸弑",
+                "charter": [
+                    "Su1fuR",
+                    "Barbarianerman",
+                    "百九十八",
+                    ""
+                ],
+                "composer": "imvi",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 21.33300018310547,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -13826,6 +13968,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Bitterblossom",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Diamond Eyes",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Triumph & Regret",
             "unlockedTimes": 0,
@@ -16762,6 +16916,18 @@
         },
         {
             "keyName": "+ERABY+E CONNEC+10N",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Diamond Eyes",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bitterblossom",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

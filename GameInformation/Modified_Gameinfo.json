@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "Bitterblossom.imvi.0",
+        "DiamondEyes.SYNTHETIC.0",
         "TriumphRegret.typeMARS.0",
         "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
         "Realms.HinkikAHimitsu.0",
@@ -195,6 +197,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "Bitterblossom.imvi.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Bitterblossom",
+            "composer": "imvi",
+            "illustrator": "鲸弑",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 152
+                },
+                "HD": {
+                    "rating": 9.6,
+                    "charter": "Barbarianerman",
+                    "numOfNotes": 581
+                },
+                "IN": {
+                    "rating": 13.7,
+                    "charter": "百九十八",
+                    "numOfNotes": 597
+                }
+            }
+        },
+        "DiamondEyes.SYNTHETIC.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Diamond Eyes",
+            "composer": "SYNTHETIC",
+            "illustrator": "彗星 feat. 祈莲",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 340
+                },
+                "HD": {
+                    "rating": 8.2,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 429
+                },
+                "IN": {
+                    "rating": 13.4,
+                    "charter": "Clutter",
+                    "numOfNotes": 774
+                }
+            }
+        },
         "TriumphRegret.typeMARS.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -5932,5 +5992,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.2.0"
+    "ver": "3.2.1"
 }
