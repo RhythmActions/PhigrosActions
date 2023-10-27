@@ -12,7 +12,7 @@
                             "4"
                         ],
                         "secretInfo": [],
-                        "songsId": "Bitterblossom.imvi.0",
+                        "songsId": "FracturedAngel.DJRaisei.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
@@ -20,6 +20,20 @@
                         "unlockInfo": [
                             "4"
                         ],
+                        "secretInfo": [],
+                        "songsId": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "Bitterblossom.imvi.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "DiamondEyes.SYNTHETIC.0",
                         "unlockType": 1,
@@ -13210,6 +13224,130 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
+                "songsKey": "Silence is Golden, Speech is Golden",
+                "songsName": "Silence is Golden, Speech is Golden",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    9.7,
+                    15.5,
+                    0.0
+                ],
+                "illustrator": "Jerry & OsuMe65",
+                "charter": [
+                    "Clutter is coppery，Tumult is coppery",
+                    "XMT is silvery, 小咩兔 is silvery",
+                    "Hara is golden, Kuma is golden",
+                    ""
+                ],
+                "composer": "NIWASHI",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 68.98600006103516,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "FracturedAngel.DJRaisei.0",
+                "songsKey": "Fractured Angel",
+                "songsName": "Fractured Angel",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    10.9,
+                    15.9,
+                    0.0
+                ],
+                "illustrator": "OsuMe65",
+                "charter": [
+                    "Su1fuR",
+                    "Su1fuR",
+                    "逆天使の悪魔 【Likey】",
+                    ""
+                ],
+                "composer": "DJ Raisei",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 67.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -13968,6 +14106,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Fractured Angel",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Silence is Golden, Speech is Golden",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Bitterblossom",
             "unlockedTimes": 0,
@@ -16928,6 +17078,18 @@
         },
         {
             "keyName": "Bitterblossom",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Silence is Golden, Speech is Golden",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Fractured Angel",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

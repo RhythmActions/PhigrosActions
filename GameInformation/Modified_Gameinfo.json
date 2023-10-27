@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "FracturedAngel.DJRaisei.0",
+        "SilenceisGoldenSpeechisGolden.NIWASHI.0",
         "Bitterblossom.imvi.0",
         "DiamondEyes.SYNTHETIC.0",
         "TriumphRegret.typeMARS.0",
@@ -197,6 +199,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "FracturedAngel.DJRaisei.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Fractured Angel",
+            "composer": "DJ Raisei",
+            "illustrator": "OsuMe65",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 626
+                },
+                "HD": {
+                    "rating": 10.9,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 796
+                },
+                "IN": {
+                    "rating": 15.9,
+                    "charter": "逆天使の悪魔 【Likey】",
+                    "numOfNotes": 1084
+                }
+            }
+        },
+        "SilenceisGoldenSpeechisGolden.NIWASHI.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Silence is Golden, Speech is Golden",
+            "composer": "NIWASHI",
+            "illustrator": "Jerry & OsuMe65",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Clutter is coppery，Tumult is coppery",
+                    "numOfNotes": 376
+                },
+                "HD": {
+                    "rating": 9.7,
+                    "charter": "XMT is silvery, 小咩兔 is silvery",
+                    "numOfNotes": 795
+                },
+                "IN": {
+                    "rating": 15.5,
+                    "charter": "Hara is golden, Kuma is golden",
+                    "numOfNotes": 1273
+                }
+            }
+        },
         "Bitterblossom.imvi.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -5992,5 +6052,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.2.1"
+    "ver": "3.2.2"
 }
