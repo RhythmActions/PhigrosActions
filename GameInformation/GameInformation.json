@@ -8,18 +8,14 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "FracturedAngel.DJRaisei.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
                         "unlockType": 1,
@@ -1203,6 +1199,45 @@
             "unlockInfo": {
                 "unlockMode": 1,
                 "unlockFlag": "Rrharil.TeamGrimoire.0",
+                "unlockTip": "",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
+            "chapterCode": "Rotaeno",
+            "songInfo": {
+                "title": "\\ChapterRotaenoTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "Rotaeno",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "JourneywithYou.Iris.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "SecretIllumination.Yooh.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "InvertedWorld.ARForest.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
                 "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
@@ -13348,6 +13383,192 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "JourneywithYou.Iris.0",
+                "songsKey": "Journey with You",
+                "songsName": "Journey with You",
+                "songsTitle": "",
+                "difficulty": [
+                    5.5,
+                    10.1,
+                    13.8,
+                    0.0
+                ],
+                "illustrator": "BTKCyber (青鸟 modified)",
+                "charter": [
+                    "jouR.ney with hold",
+                    "jouR.ney to the end【COVERED】",
+                    "Su1fuR -All about YOU & ME-",
+                    ""
+                ],
+                "composer": "Iris",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 40.5,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "SecretIllumination.Yooh.0",
+                "songsKey": "Secret Illumination",
+                "songsName": "Secret Illumination",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    10.5,
+                    14.8,
+                    0.0
+                ],
+                "illustrator": "Juice Black (青鸟 modified)",
+                "charter": [
+                    "Likey ",
+                    "迟戈 vs Likey",
+                    "NerSAN",
+                    ""
+                ],
+                "composer": "Yooh",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 96.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "InvertedWorld.ARForest.0",
+                "songsKey": "Inverted World",
+                "songsName": "Inverted World",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    11.2,
+                    15.4,
+                    0.0
+                ],
+                "illustrator": "Mechari (青鸟 modified)",
+                "charter": [
+                    "Clutter",
+                    "ɹǝʇʇnlƆ",
+                    "ƃuɐnɥs∀ .sʌ uoqsnɐ⅁",
+                    ""
+                ],
+                "composer": "ARForest",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 84.0270004272461,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -15979,6 +16200,24 @@
             "unlockTimes": 1
         },
         {
+            "keyName": "roteano1",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "rotaeno2",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "rotaeno3",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
             "keyName": "Glaciaxion",
             "unlockedTimes": 0,
             "kindOfKey": 2,
@@ -17090,6 +17329,24 @@
         },
         {
             "keyName": "Fractured Angel",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Journey with You",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Secret Illumination",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Inverted World",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

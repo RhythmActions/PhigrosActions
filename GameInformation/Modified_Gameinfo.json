@@ -149,6 +149,9 @@
         "Ark.kanoryo.0",
         "AfterDawn.S9ryne.0",
         "INFiNiTEENERZYOverdoze.RekuMochizuki.0",
+        "JourneywithYou.Iris.0",
+        "SecretIllumination.Yooh.0",
+        "InvertedWorld.ARForest.0",
         "SATELLITE.かめりあ.0",
         "DancewithSilence.かめりあ.0",
         "LabyrinthinKowloonWalledWorld.かめりあ.0",
@@ -4610,6 +4613,93 @@
                 }
             }
         },
+        "JourneywithYou.Iris.0": {
+            "chapterCode": "Rotaeno",
+            "unlockType": 0,
+            "songsName": "Journey with You",
+            "composer": "Iris",
+            "illustrator": "BTKCyber (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.5,
+                    "charter": "jouR.ney with hold",
+                    "numOfNotes": 60
+                },
+                "HD": {
+                    "rating": 10.1,
+                    "charter": "jouR.ney to the end【COVERED】",
+                    "numOfNotes": 175
+                },
+                "IN": {
+                    "rating": 13.8,
+                    "charter": "Su1fuR -All about YOU & ME-",
+                    "numOfNotes": 562
+                }
+            }
+        },
+        "SecretIllumination.Yooh.0": {
+            "chapterCode": "Rotaeno",
+            "unlockType": 0,
+            "songsName": "Secret Illumination",
+            "composer": "Yooh",
+            "illustrator": "Juice Black (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Likey ",
+                    "numOfNotes": 281
+                },
+                "HD": {
+                    "rating": 10.5,
+                    "charter": "迟戈 vs Likey",
+                    "numOfNotes": 863
+                },
+                "IN": {
+                    "rating": 14.8,
+                    "charter": "NerSAN",
+                    "numOfNotes": 901
+                }
+            }
+        },
+        "InvertedWorld.ARForest.0": {
+            "chapterCode": "Rotaeno",
+            "unlockType": 0,
+            "songsName": "Inverted World",
+            "composer": "ARForest",
+            "illustrator": "Mechari (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Clutter",
+                    "numOfNotes": 246
+                },
+                "HD": {
+                    "rating": 11.2,
+                    "charter": "ɹǝʇʇnlƆ",
+                    "numOfNotes": 614
+                },
+                "IN": {
+                    "rating": 15.4,
+                    "charter": "ƃuɐnɥs∀ .sʌ uoqsnɐ⅁",
+                    "numOfNotes": 820
+                }
+            }
+        },
         "SATELLITE.かめりあ.0": {
             "chapterCode": "Camellia",
             "unlockType": 0,
@@ -6052,5 +6142,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.2.2"
+    "ver": "3.3.0"
 }
