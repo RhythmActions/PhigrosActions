@@ -8,6 +8,24 @@
                 "banner": "Single",
                 "songs": [
                     {
+                        "unlockInfo": [
+                            "4"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "聖夜讃歌.A39沙包P.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "bye.DingerBox.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "FracturedAngel.DJRaisei.0",
@@ -1200,6 +1218,51 @@
                 "unlockMode": 1,
                 "unlockFlag": "Rrharil.TeamGrimoire.0",
                 "unlockTip": "",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
+            "chapterCode": "CHUNITHM",
+            "songInfo": {
+                "title": "\\ChapterCHUNITHMTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "CHUNITHM",
+                "songs": [
+                    {
+                        "unlockInfo": [
+                            "prev@12/8/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "テリトリーバトル.ツユ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@12/8/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@12/8/2023 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
+                "unlockTip": "prev@12/8/2023 17:00:00 +8:00",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
                 "fakeCoverBlurCode": ""
@@ -13569,6 +13632,316 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "テリトリーバトル.ツユ.0",
+                "songsKey": "テリトリーバトル",
+                "songsName": "テリトリーバトル",
+                "songsTitle": "",
+                "difficulty": [
+                    3.0,
+                    9.1,
+                    13.8,
+                    15.3
+                ],
+                "illustrator": "SEGA (V17AMax modified)",
+                "charter": [
+                    "返せ！返せ！ボクのSu1fuRを",
+                    "{^-7-^} BATTLE against Su1fuR",
+                    "阿爽 and StupiGGy Seizing Territory",
+                    "JKy feat. 0419_Guardian"
+                ],
+                "composer": "ツユ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 63.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
+                "songsKey": "TECHNOPOLIS 2085",
+                "songsName": "TECHNOPOLIS 2085",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    10.2,
+                    14.4,
+                    15.7
+                ],
+                "illustrator": "SEGA (V17AMax modified)",
+                "charter": [
+                    "dancing\"L\"ine 2085",
+                    "迟戈 vs Likey",
+                    "CTYMAX ????",
+                    "TECHNOXMT vs LATENCYPOLIS"
+                ],
+                "composer": "PRASTIK DANCEFLOOR",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 103.87999725341797,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
+                "songsKey": "祈 -我ら神祖と共に歩む者なり-",
+                "songsName": "祈 -我ら神祖と共に歩む者なり-",
+                "songsTitle": "",
+                "difficulty": [
+                    7.5,
+                    12.9,
+                    15.9,
+                    16.5
+                ],
+                "illustrator": "SEGA (V17AMax modified)",
+                "charter": [
+                    "Su1fuRikko \"SouRce of the metaveRse\"",
+                    "Su1fuRikko × rN \"judgemeNt fRom the cataStRophy\"",
+                    "兔咩小 vs 咩小兔 vs 小兔咩 vs 咩兔小 vs 兔小咩",
+                    "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-"
+                ],
+                "composer": "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 110.95800018310547,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "bye.DingerBox.0",
+                "songsKey": "bye",
+                "songsName": "bye",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    8.3,
+                    14.9,
+                    0.0
+                ],
+                "illustrator": "海产",
+                "charter": [
+                    "Likey",
+                    "Likey",
+                    "Ner ~ See you next time ~",
+                    ""
+                ],
+                "composer": "DingerBox",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 109.5,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "聖夜讃歌.A39沙包P.0",
+                "songsKey": "聖夜讃歌",
+                "songsName": "聖夜讃歌",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    10.1,
+                    15.3,
+                    0.0
+                ],
+                "illustrator": "绀屋",
+                "charter": [
+                    "爽夜讃歌",
+                    "爽夜讃歌",
+                    "NerSANTA & Gausbell",
+                    ""
+                ],
+                "composer": "A-39/沙包P",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 148.8000030517578,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -14327,6 +14700,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "聖夜讃歌",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "bye",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Fractured Angel",
             "unlockedTimes": 0,
@@ -17347,6 +17732,36 @@
         },
         {
             "keyName": "Inverted World",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "テリトリーバトル",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "TECHNOPOLIS 2085",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "祈 -我ら神祖と共に歩む者なり-",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "bye",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "聖夜讃歌",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

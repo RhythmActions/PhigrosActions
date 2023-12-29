@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "聖夜讃歌.A39沙包P.0",
+        "bye.DingerBox.0",
         "FracturedAngel.DJRaisei.0",
         "SilenceisGoldenSpeechisGolden.NIWASHI.0",
         "Bitterblossom.imvi.0",
@@ -149,6 +151,9 @@
         "Ark.kanoryo.0",
         "AfterDawn.S9ryne.0",
         "INFiNiTEENERZYOverdoze.RekuMochizuki.0",
+        "テリトリーバトル.ツユ.0",
+        "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
+        "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
         "JourneywithYou.Iris.0",
         "SecretIllumination.Yooh.0",
         "InvertedWorld.ARForest.0",
@@ -202,6 +207,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "聖夜讃歌.A39沙包P.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "聖夜讃歌",
+            "composer": "A-39/沙包P",
+            "illustrator": "绀屋",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "爽夜讃歌",
+                    "numOfNotes": 402
+                },
+                "HD": {
+                    "rating": 10.1,
+                    "charter": "爽夜讃歌",
+                    "numOfNotes": 593
+                },
+                "IN": {
+                    "rating": 15.3,
+                    "charter": "NerSANTA & Gausbell",
+                    "numOfNotes": 1339
+                }
+            }
+        },
+        "bye.DingerBox.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "bye",
+            "composer": "DingerBox",
+            "illustrator": "海产",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Likey",
+                    "numOfNotes": 186
+                },
+                "HD": {
+                    "rating": 8.3,
+                    "charter": "Likey",
+                    "numOfNotes": 333
+                },
+                "IN": {
+                    "rating": 14.9,
+                    "charter": "Ner ~ See you next time ~",
+                    "numOfNotes": 725
+                }
+            }
+        },
         "FracturedAngel.DJRaisei.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -4613,6 +4676,111 @@
                 }
             }
         },
+        "テリトリーバトル.ツユ.0": {
+            "chapterCode": "CHUNITHM",
+            "unlockType": 0,
+            "songsName": "テリトリーバトル",
+            "composer": "ツユ",
+            "illustrator": "SEGA (V17AMax modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 3.0,
+                    "charter": "返せ！返せ！ボクのSu1fuRを",
+                    "numOfNotes": 172
+                },
+                "HD": {
+                    "rating": 9.1,
+                    "charter": "{^-7-^} BATTLE against Su1fuR",
+                    "numOfNotes": 589
+                },
+                "IN": {
+                    "rating": 13.8,
+                    "charter": "阿爽 and StupiGGy Seizing Territory",
+                    "numOfNotes": 974
+                },
+                "AT": {
+                    "rating": 15.3,
+                    "charter": "JKy feat. 0419_Guardian",
+                    "numOfNotes": 1417
+                }
+            }
+        },
+        "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0": {
+            "chapterCode": "CHUNITHM",
+            "unlockType": 0,
+            "songsName": "TECHNOPOLIS 2085",
+            "composer": "PRASTIK DANCEFLOOR",
+            "illustrator": "SEGA (V17AMax modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "dancing\"L\"ine 2085",
+                    "numOfNotes": 141
+                },
+                "HD": {
+                    "rating": 10.2,
+                    "charter": "迟戈 vs Likey",
+                    "numOfNotes": 443
+                },
+                "IN": {
+                    "rating": 14.4,
+                    "charter": "CTYMAX ????",
+                    "numOfNotes": 820
+                },
+                "AT": {
+                    "rating": 15.7,
+                    "charter": "TECHNOXMT vs LATENCYPOLIS",
+                    "numOfNotes": 824
+                }
+            }
+        },
+        "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0": {
+            "chapterCode": "CHUNITHM",
+            "unlockType": 0,
+            "songsName": "祈 -我ら神祖と共に歩む者なり-",
+            "composer": "光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音",
+            "illustrator": "SEGA (V17AMax modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 7.5,
+                    "charter": "Su1fuRikko \"SouRce of the metaveRse\"",
+                    "numOfNotes": 666
+                },
+                "HD": {
+                    "rating": 12.9,
+                    "charter": "Su1fuRikko × rN \"judgemeNt fRom the cataStRophy\"",
+                    "numOfNotes": 1111
+                },
+                "IN": {
+                    "rating": 15.9,
+                    "charter": "兔咩小 vs 咩小兔 vs 小兔咩 vs 咩兔小 vs 兔小咩",
+                    "numOfNotes": 2222
+                },
+                "AT": {
+                    "rating": 16.5,
+                    "charter": "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-",
+                    "numOfNotes": 2222
+                }
+            }
+        },
         "JourneywithYou.Iris.0": {
             "chapterCode": "Rotaeno",
             "unlockType": 0,
@@ -6142,5 +6310,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.3.0"
+    "ver": "3.4.1"
 }
