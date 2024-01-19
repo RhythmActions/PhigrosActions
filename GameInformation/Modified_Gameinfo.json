@@ -157,6 +157,9 @@
         "JourneywithYou.Iris.0",
         "SecretIllumination.Yooh.0",
         "InvertedWorld.ARForest.0",
+        "ストレイソウルアラウンド.みーに.0",
+        "ManifoldHypothesis.cybermisofeattigerlily.0",
+        "KMoeVIP.ZxNX.0",
         "SATELLITE.かめりあ.0",
         "DancewithSilence.かめりあ.0",
         "LabyrinthinKowloonWalledWorld.かめりあ.0",
@@ -4868,6 +4871,93 @@
                 }
             }
         },
+        "ストレイソウルアラウンド.みーに.0": {
+            "chapterCode": "Rotaeno",
+            "unlockType": 0,
+            "songsName": "ストレイソウル・アラウンド",
+            "composer": "みーに",
+            "illustrator": "伊恩 (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "JKy as \"Stray Cat\"",
+                    "numOfNotes": 324
+                },
+                "HD": {
+                    "rating": 10.4,
+                    "charter": "Stray Cat Around",
+                    "numOfNotes": 486
+                },
+                "IN": {
+                    "rating": 14.5,
+                    "charter": "クラッタ・アナザー・ラウンド",
+                    "numOfNotes": 908
+                }
+            }
+        },
+        "ManifoldHypothesis.cybermisofeattigerlily.0": {
+            "chapterCode": "Rotaeno",
+            "unlockType": 0,
+            "songsName": "Manifold Hypothesis",
+            "composer": "cybermiso feat. tigerlily",
+            "illustrator": "阿清 (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Likey",
+                    "numOfNotes": 187
+                },
+                "HD": {
+                    "rating": 9.9,
+                    "charter": "Likey",
+                    "numOfNotes": 401
+                },
+                "IN": {
+                    "rating": 14.7,
+                    "charter": "Gausbon feat. 迟戈&野从",
+                    "numOfNotes": 895
+                }
+            }
+        },
+        "KMoeVIP.ZxNX.0": {
+            "chapterCode": "Rotaeno",
+            "unlockType": 0,
+            "songsName": "K.Moe (VIP)",
+            "composer": "ZxNX",
+            "illustrator": "BTKCyber (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.0,
+                    "charter": "R:kko (IMD)",
+                    "numOfNotes": 123
+                },
+                "HD": {
+                    "rating": 8.4,
+                    "charter": "R:kko (IMD)",
+                    "numOfNotes": 432
+                },
+                "IN": {
+                    "rating": 15.8,
+                    "charter": "C.Max (PBM)",
+                    "numOfNotes": 1060
+                }
+            }
+        },
         "SATELLITE.かめりあ.0": {
             "chapterCode": "Camellia",
             "unlockType": 0,
@@ -6310,5 +6400,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.4.1"
+    "ver": "3.4.2"
 }

@@ -8,18 +8,14 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "聖夜讃歌.A39沙包P.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "bye.DingerBox.0",
                         "unlockType": 1,
@@ -1262,7 +1258,7 @@
             "unlockInfo": {
                 "unlockMode": 0,
                 "unlockFlag": "",
-                "unlockTip": "prev@12/8/2023 17:00:00 +8:00",
+                "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
                 "fakeCoverBlurCode": ""
@@ -1293,6 +1289,33 @@
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "InvertedWorld.ARForest.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@1/19/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "ストレイソウルアラウンド.みーに.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@1/19/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "ManifoldHypothesis.cybermisofeattigerlily.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@1/19/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "KMoeVIP.ZxNX.0",
                         "unlockType": 0,
                         "secretType": 0
                     }
@@ -13942,6 +13965,192 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "ストレイソウルアラウンド.みーに.0",
+                "songsKey": "ストレイソウル・アラウンド",
+                "songsName": "ストレイソウル・アラウンド",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    10.4,
+                    14.5,
+                    0.0
+                ],
+                "illustrator": "伊恩 (青鸟 modified)",
+                "charter": [
+                    "JKy as \"Stray Cat\"",
+                    "Stray Cat Around",
+                    "クラッタ・アナザー・ラウンド",
+                    ""
+                ],
+                "composer": "みーに",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 22.399999618530273,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "ManifoldHypothesis.cybermisofeattigerlily.0",
+                "songsKey": "Manifold Hypothesis",
+                "songsName": "Manifold Hypothesis",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    9.9,
+                    14.7,
+                    0.0
+                ],
+                "illustrator": "阿清 (青鸟 modified)",
+                "charter": [
+                    "Likey",
+                    "Likey",
+                    "Gausbon feat. 迟戈&野从",
+                    ""
+                ],
+                "composer": "cybermiso feat. tigerlily",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 21.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "KMoeVIP.ZxNX.0",
+                "songsKey": "K.Moe (VIP)",
+                "songsName": "K.Moe (VIP)",
+                "songsTitle": "",
+                "difficulty": [
+                    3.0,
+                    8.4,
+                    15.8,
+                    0.0
+                ],
+                "illustrator": "BTKCyber (青鸟 modified)",
+                "charter": [
+                    "R:kko (IMD)",
+                    "R:kko (IMD)",
+                    "C.Max (PBM)",
+                    ""
+                ],
+                "composer": "ZxNX",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 73.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -16603,6 +16812,24 @@
             "unlockTimes": 1
         },
         {
+            "keyName": "rotaeno4",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "rotaeno5",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "rotaeno6",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
             "keyName": "Glaciaxion",
             "unlockedTimes": 0,
             "kindOfKey": 2,
@@ -17762,6 +17989,24 @@
         },
         {
             "keyName": "聖夜讃歌",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ストレイソウル・アラウンド",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Manifold Hypothesis",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "K.Moe (VIP)",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
