@@ -8,6 +8,26 @@
                 "banner": "Single",
                 "songs": [
                     {
+                        "unlockInfo": [
+                            "4",
+                            "prev@2/2/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "CrushBETA.shadow_bling.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@2/2/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "聖夜讃歌.A39沙包P.0",
@@ -1227,27 +1247,21 @@
                 "banner": "CHUNITHM",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "prev@12/8/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "テリトリーバトル.ツユ.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@12/8/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@12/8/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
                         "unlockType": 0,
@@ -1302,18 +1316,14 @@
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@1/19/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "ManifoldHypothesis.cybermisofeattigerlily.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@1/19/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "KMoeVIP.ZxNX.0",
                         "unlockType": 0,
@@ -14151,6 +14161,130 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
+                "songsKey": "G.V.N. (Glitter,Vomitus and Neon)",
+                "songsName": "G.V.N. (Glitter,Vomitus and Neon)",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    9.5,
+                    15.6,
+                    0.0
+                ],
+                "illustrator": "祈莲",
+                "charter": [
+                    "B.B.M.",
+                    "B.B.M.",
+                    "A.S.H.",
+                    ""
+                ],
+                "composer": "Salty Salt & Unfold33",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 100.80699920654297,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "CrushBETA.shadow_bling.0",
+                "songsKey": "Crush BETA",
+                "songsName": "Crush BETA",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    11.5,
+                    15.3,
+                    0.0
+                ],
+                "illustrator": "笔记RE",
+                "charter": [
+                    "Clutter BETA",
+                    "Crush βETA",
+                    "Timi今天吃神马",
+                    ""
+                ],
+                "composer": "shadow_bling",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 47.8489990234375,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -14909,6 +15043,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Crush BETA",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "G.V.N. (Glitter,Vomitus and Neon)",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "聖夜讃歌",
             "unlockedTimes": 0,
@@ -18007,6 +18153,18 @@
         },
         {
             "keyName": "K.Moe (VIP)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "G.V.N. (Glitter,Vomitus and Neon)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Crush BETA",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

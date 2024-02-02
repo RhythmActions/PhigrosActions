@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "CrushBETA.shadow_bling.0",
+        "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
         "聖夜讃歌.A39沙包P.0",
         "bye.DingerBox.0",
         "FracturedAngel.DJRaisei.0",
@@ -210,6 +212,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "CrushBETA.shadow_bling.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Crush BETA",
+            "composer": "shadow_bling",
+            "illustrator": "笔记RE",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Clutter BETA",
+                    "numOfNotes": 270
+                },
+                "HD": {
+                    "rating": 11.5,
+                    "charter": "Crush βETA",
+                    "numOfNotes": 666
+                },
+                "IN": {
+                    "rating": 15.3,
+                    "charter": "Timi今天吃神马",
+                    "numOfNotes": 977
+                }
+            }
+        },
+        "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "G.V.N. (Glitter,Vomitus and Neon)",
+            "composer": "Salty Salt & Unfold33",
+            "illustrator": "祈莲",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "B.B.M.",
+                    "numOfNotes": 635
+                },
+                "HD": {
+                    "rating": 9.5,
+                    "charter": "B.B.M.",
+                    "numOfNotes": 900
+                },
+                "IN": {
+                    "rating": 15.6,
+                    "charter": "A.S.H.",
+                    "numOfNotes": 1545
+                }
+            }
+        },
         "聖夜讃歌.A39沙包P.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -6400,5 +6460,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.4.2"
+    "ver": "3.4.3"
 }
