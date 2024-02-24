@@ -8,20 +8,14 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@2/2/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "CrushBETA.shadow_bling.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@2/2/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
                         "unlockType": 1,
@@ -1240,6 +1234,59 @@
             }
         },
         {
+            "chapterCode": "SideStory3",
+            "songInfo": {
+                "title": "\\ChapterSideStory3Title",
+                "subTitle": "\\ChapterSideStory3SubTitle",
+                "banner": "Side story 3",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "Khalid.Dolphin.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "QuantumHyperspace.D_AAN.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "PANICPARADISE.DJSHIONY.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "ReEndofaDream.umavsモリモリあつし.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 3,
+                "unlockFlag": "NOONEYESMAN.MYUKKE.0",
+                "unlockTip": "prev@2/23/2024 17:00:00 +8:00",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
             "chapterCode": "CHUNITHM",
             "songInfo": {
                 "title": "\\ChapterCHUNITHMTitle",
@@ -1913,6 +1960,7 @@
                     "AT"
                 ],
                 "previewTime": 15.420000076293945,
+                "previewEndTime": 42.849998474121094,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -1979,6 +2027,7 @@
                     "AT"
                 ],
                 "previewTime": 48.012001037597656,
+                "previewEndTime": 60.013999938964844,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2041,6 +2090,7 @@
                     "AT"
                 ],
                 "previewTime": 32.0,
+                "previewEndTime": 47.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2103,6 +2153,7 @@
                     "AT"
                 ],
                 "previewTime": 23.0,
+                "previewEndTime": 38.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2165,6 +2216,7 @@
                     "AT"
                 ],
                 "previewTime": 47.7400016784668,
+                "previewEndTime": 69.66999816894531,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2207,7 +2259,7 @@
                 "songsName": "光",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
+                    4.0,
                     8.4,
                     12.8,
                     0.0
@@ -2227,6 +2279,7 @@
                     "AT"
                 ],
                 "previewTime": 63.33000183105469,
+                "previewEndTime": 97.33000183105469,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2289,6 +2342,7 @@
                     "AT"
                 ],
                 "previewTime": 9.5,
+                "previewEndTime": 24.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2351,6 +2405,7 @@
                     "AT"
                 ],
                 "previewTime": 37.540000915527344,
+                "previewEndTime": 60.33000183105469,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2413,6 +2468,7 @@
                     "AT"
                 ],
                 "previewTime": 77.33000183105469,
+                "previewEndTime": 100.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2475,6 +2531,7 @@
                     "AT"
                 ],
                 "previewTime": 53.78099822998047,
+                "previewEndTime": 67.86199951171875,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2537,6 +2594,7 @@
                     "AT"
                 ],
                 "previewTime": 84.98899841308594,
+                "previewEndTime": 101.3280029296875,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2599,6 +2657,7 @@
                     "AT"
                 ],
                 "previewTime": 129.13999938964844,
+                "previewEndTime": 149.7100067138672,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2661,6 +2720,7 @@
                     "AT"
                 ],
                 "previewTime": 110.4000015258789,
+                "previewEndTime": 139.1999969482422,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2723,6 +2783,7 @@
                     "AT"
                 ],
                 "previewTime": 57.58000183105469,
+                "previewEndTime": 73.66999816894531,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2767,7 +2828,7 @@
                 "difficulty": [
                     5.5,
                     11.8,
-                    15.8,
+                    15.7,
                     0.0
                 ],
                 "illustrator": "cycats",
@@ -2785,6 +2846,7 @@
                     "AT"
                 ],
                 "previewTime": 63.084999084472656,
+                "previewEndTime": 76.68199920654297,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2828,7 +2890,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    8.5,
+                    7.0,
                     12.5,
                     0.0
                 ],
@@ -2847,6 +2909,7 @@
                     "AT"
                 ],
                 "previewTime": 15.869999885559082,
+                "previewEndTime": 30.8700008392334,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2909,6 +2972,7 @@
                     "AT"
                 ],
                 "previewTime": 73.5,
+                "previewEndTime": 92.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -2971,6 +3035,7 @@
                     "AT"
                 ],
                 "previewTime": 54.66600036621094,
+                "previewEndTime": 68.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3033,6 +3098,7 @@
                     "AT"
                 ],
                 "previewTime": 23.360000610351562,
+                "previewEndTime": 38.36000061035156,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3098,6 +3164,7 @@
                     "Legacy"
                 ],
                 "previewTime": 85.5260009765625,
+                "previewEndTime": 99.12000274658203,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3142,7 +3209,7 @@
                 "difficulty": [
                     2.0,
                     8.6,
-                    12.9,
+                    13.1,
                     0.0
                 ],
                 "illustrator": "NEKO&海产",
@@ -3160,6 +3227,7 @@
                     "AT"
                 ],
                 "previewTime": 39.349998474121094,
+                "previewEndTime": 51.810001373291016,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3222,6 +3290,7 @@
                     "AT"
                 ],
                 "previewTime": 111.21900177001953,
+                "previewEndTime": 126.21900177001953,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3284,6 +3353,7 @@
                     "AT"
                 ],
                 "previewTime": 54.0,
+                "previewEndTime": 69.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3346,6 +3416,7 @@
                     "AT"
                 ],
                 "previewTime": 95.67500305175781,
+                "previewEndTime": 110.67500305175781,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3408,6 +3479,7 @@
                     "AT"
                 ],
                 "previewTime": 91.56900024414062,
+                "previewEndTime": 113.74099731445312,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3451,7 +3523,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.5,
-                    12.6,
+                    13.3,
                     15.2,
                     16.3
                 ],
@@ -3470,6 +3542,7 @@
                     "AT"
                 ],
                 "previewTime": 72.5999984741211,
+                "previewEndTime": 92.4000015258789,
                 "unlockInfo": [
                     {
                         "unlockType": 2,
@@ -3518,8 +3591,8 @@
                 "songsName": "Leave All Behind",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
-                    6.5,
+                    3.0,
+                    7.5,
                     12.7,
                     0.0
                 ],
@@ -3538,6 +3611,7 @@
                     "AT"
                 ],
                 "previewTime": 27.187999725341797,
+                "previewEndTime": 40.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3600,6 +3674,7 @@
                     "AT"
                 ],
                 "previewTime": 47.02000045776367,
+                "previewEndTime": 61.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3662,6 +3737,7 @@
                     "AT"
                 ],
                 "previewTime": 29.30500030517578,
+                "previewEndTime": 46.053001403808594,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3724,6 +3800,7 @@
                     "AT"
                 ],
                 "previewTime": 61.53200149536133,
+                "previewEndTime": 81.23400115966797,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3786,6 +3863,7 @@
                     "AT"
                 ],
                 "previewTime": 28.952999114990234,
+                "previewEndTime": 43.952999114990234,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3829,7 +3907,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.5,
-                    12.9,
+                    12.1,
                     15.7,
                     0.0
                 ],
@@ -3848,6 +3926,7 @@
                     "AT"
                 ],
                 "previewTime": 71.11399841308594,
+                "previewEndTime": 96.51399993896484,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -3910,6 +3989,7 @@
                     "AT"
                 ],
                 "previewTime": 79.82599639892578,
+                "previewEndTime": 94.82599639892578,
                 "unlockInfo": [
                     {
                         "unlockType": 2,
@@ -3978,6 +4058,7 @@
                     "AT"
                 ],
                 "previewTime": 114.4280014038086,
+                "previewEndTime": 142.28500366210938,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4040,6 +4121,7 @@
                     "AT"
                 ],
                 "previewTime": 62.7599983215332,
+                "previewEndTime": 84.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4082,7 +4164,7 @@
                 "songsName": "Nick of Time",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
+                    5.0,
                     8.1,
                     14.4,
                     0.0
@@ -4102,6 +4184,7 @@
                     "AT"
                 ],
                 "previewTime": 68.5999984741211,
+                "previewEndTime": 83.5999984741211,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4164,6 +4247,7 @@
                     "AT"
                 ],
                 "previewTime": 70.38700103759766,
+                "previewEndTime": 87.75299835205078,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4207,7 +4291,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.0,
-                    11.2,
+                    11.5,
                     15.9,
                     0.0
                 ],
@@ -4226,6 +4310,7 @@
                     "AT"
                 ],
                 "previewTime": 12.21399974822998,
+                "previewEndTime": 30.033000946044922,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4288,6 +4373,7 @@
                     "AT"
                 ],
                 "previewTime": 84.62200164794922,
+                "previewEndTime": 99.7969970703125,
                 "unlockInfo": [
                     {
                         "unlockType": 2,
@@ -4356,6 +4442,7 @@
                     "AT"
                 ],
                 "previewTime": 95.0,
+                "previewEndTime": 110.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4399,7 +4486,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    10.2,
+                    9.5,
                     14.4,
                     0.0
                 ],
@@ -4418,6 +4505,7 @@
                     "AT"
                 ],
                 "previewTime": 80.83999633789062,
+                "previewEndTime": 102.13500213623047,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4480,6 +4568,7 @@
                     "AT"
                 ],
                 "previewTime": 106.30400085449219,
+                "previewEndTime": 130.4340057373047,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4542,6 +4631,7 @@
                     "AT"
                 ],
                 "previewTime": 102.31500244140625,
+                "previewEndTime": 122.5260009765625,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4585,8 +4675,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.0,
-                    12.9,
-                    15.9,
+                    13.1,
+                    15.8,
                     16.6
                 ],
                 "illustrator": "rN",
@@ -4604,6 +4694,7 @@
                     "AT"
                 ],
                 "previewTime": 105.31800079345703,
+                "previewEndTime": 123.96099853515625,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4650,7 +4741,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.5,
-                    12.9,
+                    13.5,
                     15.9,
                     16.7
                 ],
@@ -4669,6 +4760,7 @@
                     "AT"
                 ],
                 "previewTime": 99.4000015258789,
+                "previewEndTime": 119.4000015258789,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4736,6 +4828,7 @@
                     "AT"
                 ],
                 "previewTime": 3.869999885559082,
+                "previewEndTime": 16.61400032043457,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4778,8 +4871,8 @@
                 "songsName": "もぺもぺ",
                 "songsTitle": "",
                 "difficulty": [
-                    3.5,
-                    8.5,
+                    2.0,
+                    6.5,
                     11.1,
                     14.9
                 ],
@@ -4798,6 +4891,7 @@
                     "AT"
                 ],
                 "previewTime": 7.199999809265137,
+                "previewEndTime": 21.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4860,6 +4954,7 @@
                     "AT"
                 ],
                 "previewTime": 17.139999389648438,
+                "previewEndTime": 32.56999969482422,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4922,6 +5017,7 @@
                     "AT"
                 ],
                 "previewTime": 102.0,
+                "previewEndTime": 113.4000015258789,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -4984,6 +5080,7 @@
                     "AT"
                 ],
                 "previewTime": 120.0,
+                "previewEndTime": 136.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5046,6 +5143,7 @@
                     "AT"
                 ],
                 "previewTime": 120.0,
+                "previewEndTime": 142.5800018310547,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5108,6 +5206,7 @@
                     "AT"
                 ],
                 "previewTime": 50.619998931884766,
+                "previewEndTime": 68.75,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5170,6 +5269,7 @@
                     "AT"
                 ],
                 "previewTime": 60.03499984741211,
+                "previewEndTime": 76.87200164794922,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5232,6 +5332,7 @@
                     "AT"
                 ],
                 "previewTime": 26.31999969482422,
+                "previewEndTime": 51.09000015258789,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5294,6 +5395,7 @@
                     "AT"
                 ],
                 "previewTime": 60.95000076293945,
+                "previewEndTime": 93.33000183105469,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5356,6 +5458,7 @@
                     "AT"
                 ],
                 "previewTime": 107.19999694824219,
+                "previewEndTime": 132.8000030517578,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5418,6 +5521,7 @@
                     "AT"
                 ],
                 "previewTime": 82.96700286865234,
+                "previewEndTime": 97.96700286865234,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5480,6 +5584,7 @@
                     "AT"
                 ],
                 "previewTime": 31.141000747680664,
+                "previewEndTime": 42.4900016784668,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5542,6 +5647,7 @@
                     "AT"
                 ],
                 "previewTime": 82.0,
+                "previewEndTime": 98.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5604,6 +5710,7 @@
                     "AT"
                 ],
                 "previewTime": 78.76000213623047,
+                "previewEndTime": 93.76000213623047,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5647,7 +5754,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    9.2,
+                    9.8,
                     14.9,
                     0.0
                 ],
@@ -5666,6 +5773,7 @@
                     "AT"
                 ],
                 "previewTime": 37.737998962402344,
+                "previewEndTime": 52.1870002746582,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5728,6 +5836,7 @@
                     "AT"
                 ],
                 "previewTime": 61.560001373291016,
+                "previewEndTime": 79.30000305175781,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5790,6 +5899,7 @@
                     "AT"
                 ],
                 "previewTime": 32.0,
+                "previewEndTime": 47.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5852,6 +5962,7 @@
                     "AT"
                 ],
                 "previewTime": 84.5,
+                "previewEndTime": 100.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5914,6 +6025,7 @@
                     "AT"
                 ],
                 "previewTime": 77.5,
+                "previewEndTime": 92.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -5956,7 +6068,7 @@
                 "songsName": "Burn",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
+                    6.0,
                     10.6,
                     14.9,
                     0.0
@@ -5976,6 +6088,7 @@
                     "AT"
                 ],
                 "previewTime": 81.0,
+                "previewEndTime": 96.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6041,6 +6154,7 @@
                     "Legacy"
                 ],
                 "previewTime": 11.519000053405762,
+                "previewEndTime": 26.45599937438965,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6087,7 +6201,7 @@
                 "songsName": "Next Time",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
+                    6.0,
                     9.2,
                     12.6,
                     0.0
@@ -6107,6 +6221,7 @@
                     "AT"
                 ],
                 "previewTime": 45.24700164794922,
+                "previewEndTime": 67.20999908447266,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6169,6 +6284,7 @@
                     "AT"
                 ],
                 "previewTime": 46.869998931884766,
+                "previewEndTime": 63.7400016784668,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6231,6 +6347,7 @@
                     "AT"
                 ],
                 "previewTime": 76.91600036621094,
+                "previewEndTime": 98.75,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6293,6 +6410,7 @@
                     "AT"
                 ],
                 "previewTime": 83.74099731445312,
+                "previewEndTime": 101.86599731445312,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6355,6 +6473,7 @@
                     "AT"
                 ],
                 "previewTime": 17.972999572753906,
+                "previewEndTime": 33.03900146484375,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6420,6 +6539,7 @@
                     "Legacy"
                 ],
                 "previewTime": 77.72000122070312,
+                "previewEndTime": 99.54000091552734,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6486,6 +6606,7 @@
                     "AT"
                 ],
                 "previewTime": 36.28300094604492,
+                "previewEndTime": 51.51100158691406,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6548,6 +6669,7 @@
                     "AT"
                 ],
                 "previewTime": 14.626999855041504,
+                "previewEndTime": 34.09600067138672,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6592,7 +6714,7 @@
                 "difficulty": [
                     3.5,
                     8.4,
-                    13.6,
+                    13.9,
                     0.0
                 ],
                 "illustrator": "DoublePian",
@@ -6610,6 +6732,7 @@
                     "AT"
                 ],
                 "previewTime": 48.82600021362305,
+                "previewEndTime": 73.44999694824219,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6672,6 +6795,7 @@
                     "AT"
                 ],
                 "previewTime": 27.38599967956543,
+                "previewEndTime": 47.308998107910156,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6734,6 +6858,7 @@
                     "AT"
                 ],
                 "previewTime": 92.4000015258789,
+                "previewEndTime": 111.5999984741211,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6796,6 +6921,7 @@
                     "AT"
                 ],
                 "previewTime": 57.10300064086914,
+                "previewEndTime": 72.10299682617188,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6858,6 +6984,7 @@
                     "AT"
                 ],
                 "previewTime": 28.395000457763672,
+                "previewEndTime": 47.98899841308594,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6920,6 +7047,7 @@
                     "AT"
                 ],
                 "previewTime": 30.0,
+                "previewEndTime": 46.875,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -6963,7 +7091,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    11.8,
+                    12.3,
                     15.7,
                     0.0
                 ],
@@ -6982,6 +7110,7 @@
                     "AT"
                 ],
                 "previewTime": 24.97100067138672,
+                "previewEndTime": 38.49700164794922,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7044,6 +7173,7 @@
                     "AT"
                 ],
                 "previewTime": 91.89299774169922,
+                "previewEndTime": 106.89299774169922,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7086,7 +7216,7 @@
                 "songsName": "GOODBOUNCE",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
+                    6.5,
                     11.6,
                     14.4,
                     0.0
@@ -7106,6 +7236,7 @@
                     "AT"
                 ],
                 "previewTime": 44.0,
+                "previewEndTime": 64.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7168,6 +7299,7 @@
                     "AT"
                 ],
                 "previewTime": 105.82599639892578,
+                "previewEndTime": 123.46299743652344,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7230,6 +7362,7 @@
                     "AT"
                 ],
                 "previewTime": 102.70500183105469,
+                "previewEndTime": 117.70500183105469,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7273,7 +7406,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    7.5,
+                    8.2,
                     15.7,
                     0.0
                 ],
@@ -7292,6 +7425,7 @@
                     "AT"
                 ],
                 "previewTime": 90.80999755859375,
+                "previewEndTime": 109.18000030517578,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7354,6 +7488,7 @@
                     "AT"
                 ],
                 "previewTime": 18.89699935913086,
+                "previewEndTime": 33.89699935913086,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7397,7 +7532,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    10.6,
+                    11.1,
                     14.3,
                     0.0
                 ],
@@ -7416,6 +7551,7 @@
                     "AT"
                 ],
                 "previewTime": 55.44300079345703,
+                "previewEndTime": 70.44300079345703,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7478,6 +7614,7 @@
                     "AT"
                 ],
                 "previewTime": 66.0,
+                "previewEndTime": 86.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7540,6 +7677,7 @@
                     "AT"
                 ],
                 "previewTime": 55.29999923706055,
+                "previewEndTime": 75.30000305175781,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7602,6 +7740,7 @@
                     "AT"
                 ],
                 "previewTime": 63.29999923706055,
+                "previewEndTime": 80.69999694824219,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7664,6 +7803,7 @@
                     "AT"
                 ],
                 "previewTime": 48.0,
+                "previewEndTime": 58.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7726,6 +7866,7 @@
                     "AT"
                 ],
                 "previewTime": 42.2400016784668,
+                "previewEndTime": 62.720001220703125,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7788,6 +7929,7 @@
                     "AT"
                 ],
                 "previewTime": 78.5,
+                "previewEndTime": 91.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7830,7 +7972,7 @@
                 "songsName": "Äventyr",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
+                    3.0,
                     9.4,
                     13.7,
                     0.0
@@ -7850,6 +7992,7 @@
                     "AT"
                 ],
                 "previewTime": 9.199999809265137,
+                "previewEndTime": 31.076000213623047,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7912,6 +8055,7 @@
                     "AT"
                 ],
                 "previewTime": 3.200000047683716,
+                "previewEndTime": 25.24799919128418,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -7955,7 +8099,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    9.3,
+                    10.4,
                     15.3,
                     0.0
                 ],
@@ -7974,6 +8118,7 @@
                     "AT"
                 ],
                 "previewTime": 20.663999557495117,
+                "previewEndTime": 42.0099983215332,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8036,6 +8181,7 @@
                     "AT"
                 ],
                 "previewTime": 99.29499816894531,
+                "previewEndTime": 114.51399993896484,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8098,6 +8244,7 @@
                     "AT"
                 ],
                 "previewTime": 86.0,
+                "previewEndTime": 101.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8141,7 +8288,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    7.0,
+                    8.3,
                     13.8,
                     0.0
                 ],
@@ -8160,6 +8307,7 @@
                     "AT"
                 ],
                 "previewTime": 2.1389999389648438,
+                "previewEndTime": 19.297000885009766,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8222,6 +8370,7 @@
                     "AT"
                 ],
                 "previewTime": 62.0099983215332,
+                "previewEndTime": 79.01100158691406,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8264,7 +8413,7 @@
                 "songsName": "Eltaw",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
+                    6.5,
                     10.5,
                     14.4,
                     0.0
@@ -8284,6 +8433,7 @@
                     "AT"
                 ],
                 "previewTime": 90.01499938964844,
+                "previewEndTime": 110.0510025024414,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8346,6 +8496,7 @@
                     "AT"
                 ],
                 "previewTime": 15.005000114440918,
+                "previewEndTime": 31.889999389648438,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8408,6 +8559,7 @@
                     "AT"
                 ],
                 "previewTime": 107.55500030517578,
+                "previewEndTime": 122.55500030517578,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8450,9 +8602,9 @@
                 "songsName": "Get Ready!! ",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    8.7,
-                    13.7,
+                    5.0,
+                    10.2,
+                    13.8,
                     0.0
                 ],
                 "illustrator": "あおお/A-ZERO, morph",
@@ -8470,6 +8622,7 @@
                     "AT"
                 ],
                 "previewTime": 96.33799743652344,
+                "previewEndTime": 109.85900115966797,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8532,6 +8685,7 @@
                     "AT"
                 ],
                 "previewTime": 111.83200073242188,
+                "previewEndTime": 131.93699645996094,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8594,6 +8748,7 @@
                     "AT"
                 ],
                 "previewTime": 44.0,
+                "previewEndTime": 62.7140007019043,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8638,7 +8793,7 @@
                 "difficulty": [
                     5.5,
                     9.9,
-                    13.8,
+                    13.9,
                     0.0
                 ],
                 "illustrator": "打雷打人（青鸟 modified）",
@@ -8656,6 +8811,7 @@
                     "AT"
                 ],
                 "previewTime": 85.08799743652344,
+                "previewEndTime": 107.12200164794922,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8718,6 +8874,7 @@
                     "AT"
                 ],
                 "previewTime": 110.66000366210938,
+                "previewEndTime": 134.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8761,7 +8918,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.0,
-                    12.3,
+                    11.9,
                     15.6,
                     15.8
                 ],
@@ -8780,6 +8937,7 @@
                     "AT"
                 ],
                 "previewTime": 56.9010009765625,
+                "previewEndTime": 79.43599700927734,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8842,6 +9000,7 @@
                     "AT"
                 ],
                 "previewTime": 109.0999984741211,
+                "previewEndTime": 127.0999984741211,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8884,7 +9043,7 @@
                 "songsName": "Unorthodox Thoughts",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
+                    5.0,
                     11.3,
                     13.9,
                     0.0
@@ -8904,6 +9063,7 @@
                     "AT"
                 ],
                 "previewTime": 108.0,
+                "previewEndTime": 126.57499694824219,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -8966,6 +9126,7 @@
                     "AT"
                 ],
                 "previewTime": 106.74500274658203,
+                "previewEndTime": 119.5469970703125,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9028,6 +9189,7 @@
                     "AT"
                 ],
                 "previewTime": 76.81500244140625,
+                "previewEndTime": 93.75,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9090,6 +9252,7 @@
                     "AT"
                 ],
                 "previewTime": 96.0,
+                "previewEndTime": 111.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9152,6 +9315,7 @@
                     "AT"
                 ],
                 "previewTime": 67.01399993896484,
+                "previewEndTime": 82.01399993896484,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9194,7 +9358,7 @@
                 "songsName": "-Arkhei-",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
+                    6.5,
                     9.7,
                     12.6,
                     0.0
@@ -9214,6 +9378,7 @@
                     "AT"
                 ],
                 "previewTime": 64.0,
+                "previewEndTime": 80.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9276,6 +9441,7 @@
                     "AT"
                 ],
                 "previewTime": 99.89800262451172,
+                "previewEndTime": 115.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9318,7 +9484,7 @@
                 "songsName": "ρars/ey",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
+                    4.0,
                     11.3,
                     14.7,
                     0.0
@@ -9338,6 +9504,7 @@
                     "AT"
                 ],
                 "previewTime": 21.33300018310547,
+                "previewEndTime": 45.33300018310547,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9380,8 +9547,8 @@
                 "songsName": "Concvssion",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
-                    10.2,
+                    5.5,
+                    11.3,
                     15.5,
                     0.0
                 ],
@@ -9400,6 +9567,7 @@
                     "AT"
                 ],
                 "previewTime": 96.0199966430664,
+                "previewEndTime": 117.48200225830078,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9462,6 +9630,7 @@
                     "AT"
                 ],
                 "previewTime": 23.31399917602539,
+                "previewEndTime": 43.8849983215332,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9504,8 +9673,8 @@
                 "songsName": "Time to Night Sky (feat. Lee Yu Jin)",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
-                    9.1,
+                    3.0,
+                    10.1,
                     13.6,
                     0.0
                 ],
@@ -9524,6 +9693,7 @@
                     "AT"
                 ],
                 "previewTime": 61.875999450683594,
+                "previewEndTime": 78.74500274658203,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9566,7 +9736,7 @@
                 "songsName": "HAZARD",
                 "songsTitle": "",
                 "difficulty": [
-                    3.5,
+                    4.5,
                     10.9,
                     14.7,
                     0.0
@@ -9586,6 +9756,7 @@
                     "AT"
                 ],
                 "previewTime": 28.132999420166016,
+                "previewEndTime": 46.888999938964844,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9648,6 +9819,7 @@
                     "AT"
                 ],
                 "previewTime": 24.0,
+                "previewEndTime": 42.28499984741211,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9692,7 +9864,7 @@
                 "difficulty": [
                     4.5,
                     11.7,
-                    15.6,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "Arahosi",
@@ -9710,6 +9882,7 @@
                     "AT"
                 ],
                 "previewTime": 87.77100372314453,
+                "previewEndTime": 110.11399841308594,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9772,6 +9945,7 @@
                     "AT"
                 ],
                 "previewTime": 52.68199920654297,
+                "previewEndTime": 81.95099639892578,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9814,7 +9988,7 @@
                 "songsName": "Dreamland",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
+                    6.0,
                     9.8,
                     13.2,
                     0.0
@@ -9834,6 +10008,7 @@
                     "AT"
                 ],
                 "previewTime": 113.5,
+                "previewEndTime": 128.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9877,7 +10052,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.0,
-                    7.5,
+                    8.7,
                     13.3,
                     0.0
                 ],
@@ -9896,6 +10071,7 @@
                     "AT"
                 ],
                 "previewTime": 46.64099884033203,
+                "previewEndTime": 63.74300003051758,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -9939,7 +10115,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    8.1,
+                    9.1,
                     14.6,
                     0.0
                 ],
@@ -9958,6 +10134,7 @@
                     "AT"
                 ],
                 "previewTime": 48.0,
+                "previewEndTime": 63.428001403808594,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10020,6 +10197,7 @@
                     "AT"
                 ],
                 "previewTime": 65.34700012207031,
+                "previewEndTime": 85.35099792480469,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10082,6 +10260,7 @@
                     "AT"
                 ],
                 "previewTime": 97.44599914550781,
+                "previewEndTime": 112.76499938964844,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10125,7 +10304,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    8.6,
+                    9.3,
                     14.7,
                     0.0
                 ],
@@ -10144,6 +10323,7 @@
                     "AT"
                 ],
                 "previewTime": 79.45099639892578,
+                "previewEndTime": 102.62000274658203,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10206,6 +10386,7 @@
                     "AT"
                 ],
                 "previewTime": 26.055999755859375,
+                "previewEndTime": 49.400001525878906,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10268,6 +10449,7 @@
                     "AT"
                 ],
                 "previewTime": 28.60099983215332,
+                "previewEndTime": 43.52299880981445,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10330,6 +10512,7 @@
                     "AT"
                 ],
                 "previewTime": 54.81800079345703,
+                "previewEndTime": 69.54499816894531,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10392,6 +10575,7 @@
                     "AT"
                 ],
                 "previewTime": 96.03199768066406,
+                "previewEndTime": 118.29499816894531,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10454,6 +10638,7 @@
                     "AT"
                 ],
                 "previewTime": 41.0989990234375,
+                "previewEndTime": 56.0989990234375,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10499,7 +10684,7 @@
                     6.0,
                     11.7,
                     14.6,
-                    15.8
+                    15.6
                 ],
                 "illustrator": "Lanota © Noxy Games Inc. ",
                 "charter": [
@@ -10516,6 +10701,7 @@
                     "AT"
                 ],
                 "previewTime": 117.7979965209961,
+                "previewEndTime": 131.04800415039062,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10583,6 +10769,7 @@
                     "AT"
                 ],
                 "previewTime": 42.66600036621094,
+                "previewEndTime": 65.33300018310547,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10648,6 +10835,7 @@
                     "AT"
                 ],
                 "previewTime": 38.297000885009766,
+                "previewEndTime": 49.7869987487793,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10710,6 +10898,7 @@
                     "AT"
                 ],
                 "previewTime": 70.62799835205078,
+                "previewEndTime": 87.77100372314453,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10772,6 +10961,7 @@
                     "AT"
                 ],
                 "previewTime": 11.286999702453613,
+                "previewEndTime": 24.356000900268555,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10834,6 +11024,7 @@
                     "AT"
                 ],
                 "previewTime": 52.0,
+                "previewEndTime": 72.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10876,7 +11067,7 @@
                 "songsName": "Shadow",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
+                    6.0,
                     10.3,
                     14.5,
                     15.9
@@ -10896,6 +11087,7 @@
                     "AT"
                 ],
                 "previewTime": 105.0,
+                "previewEndTime": 120.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -10943,7 +11135,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    9.7,
+                    8.9,
                     13.6,
                     0.0
                 ],
@@ -10962,6 +11154,7 @@
                     "AT"
                 ],
                 "previewTime": 46.66299819946289,
+                "previewEndTime": 69.33300018310547,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11024,6 +11217,7 @@
                     "AT"
                 ],
                 "previewTime": 20.100000381469727,
+                "previewEndTime": 39.599998474121094,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11086,6 +11280,7 @@
                     "AT"
                 ],
                 "previewTime": 88.44599914550781,
+                "previewEndTime": 106.20700073242188,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11148,6 +11343,7 @@
                     "AT"
                 ],
                 "previewTime": 45.0099983215332,
+                "previewEndTime": 60.180999755859375,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11210,6 +11406,7 @@
                     "AT"
                 ],
                 "previewTime": 65.9540023803711,
+                "previewEndTime": 82.44200134277344,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11272,6 +11469,7 @@
                     "AT"
                 ],
                 "previewTime": 106.87000274658203,
+                "previewEndTime": 126.66600036621094,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11334,6 +11532,7 @@
                     "AT"
                 ],
                 "previewTime": 81.4280014038086,
+                "previewEndTime": 98.57099914550781,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11396,6 +11595,7 @@
                     "AT"
                 ],
                 "previewTime": 67.0,
+                "previewEndTime": 88.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11438,7 +11638,7 @@
                 "songsName": "El Condor Pasa (Phigros Edit)",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
+                    6.0,
                     12.5,
                     15.5,
                     0.0
@@ -11458,6 +11658,7 @@
                     "AT"
                 ],
                 "previewTime": 76.80000305175781,
+                "previewEndTime": 91.19999694824219,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11520,6 +11721,7 @@
                     "AT"
                 ],
                 "previewTime": 83.3239974975586,
+                "previewEndTime": 103.3239974975586,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11582,6 +11784,7 @@
                     "AT"
                 ],
                 "previewTime": 44.15999984741211,
+                "previewEndTime": 59.15999984741211,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11626,7 +11829,7 @@
                 "difficulty": [
                     5.5,
                     10.7,
-                    15.2,
+                    15.1,
                     0.0
                 ],
                 "illustrator": "林语",
@@ -11644,6 +11847,7 @@
                     "AT"
                 ],
                 "previewTime": 41.0,
+                "previewEndTime": 61.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11706,6 +11910,7 @@
                     "AT"
                 ],
                 "previewTime": 43.16600036621094,
+                "previewEndTime": 57.83300018310547,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11768,6 +11973,7 @@
                     "AT"
                 ],
                 "previewTime": 92.37999725341797,
+                "previewEndTime": 108.57099914550781,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11830,6 +12036,7 @@
                     "AT"
                 ],
                 "previewTime": 37.5,
+                "previewEndTime": 67.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11892,6 +12099,7 @@
                     "AT"
                 ],
                 "previewTime": 63.62699890136719,
+                "previewEndTime": 83.44100189208984,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -11936,7 +12144,7 @@
                 "difficulty": [
                     5.5,
                     10.8,
-                    15.3,
+                    15.4,
                     0.0
                 ],
                 "illustrator": "Iriss=Frantzz=s-don",
@@ -11954,6 +12162,7 @@
                     "AT"
                 ],
                 "previewTime": 100.6449966430664,
+                "previewEndTime": 130.64500427246094,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12016,6 +12225,7 @@
                     "AT"
                 ],
                 "previewTime": 20.5,
+                "previewEndTime": 40.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12059,7 +12269,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    11.1,
+                    12.2,
                     14.7,
                     0.0
                 ],
@@ -12078,6 +12288,7 @@
                     "AT"
                 ],
                 "previewTime": 78.0,
+                "previewEndTime": 108.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12140,6 +12351,7 @@
                     "AT"
                 ],
                 "previewTime": 73.0,
+                "previewEndTime": 93.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12202,6 +12414,7 @@
                     "AT"
                 ],
                 "previewTime": 86.58200073242188,
+                "previewEndTime": 103.10099792480469,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12264,6 +12477,7 @@
                     "AT"
                 ],
                 "previewTime": 48.0,
+                "previewEndTime": 64.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12307,7 +12521,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    9.2,
+                    8.9,
                     13.6,
                     0.0
                 ],
@@ -12326,6 +12540,7 @@
                     "AT"
                 ],
                 "previewTime": 45.69200134277344,
+                "previewEndTime": 60.92300033569336,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12388,6 +12603,7 @@
                     "AT"
                 ],
                 "previewTime": 41.513999938964844,
+                "previewEndTime": 61.513999938964844,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12450,6 +12666,7 @@
                     "AT"
                 ],
                 "previewTime": 87.18699645996094,
+                "previewEndTime": 102.65599822998047,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12512,6 +12729,7 @@
                     "AT"
                 ],
                 "previewTime": 99.5,
+                "previewEndTime": 113.03800201416016,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12574,6 +12792,7 @@
                     "AT"
                 ],
                 "previewTime": 60.30400085449219,
+                "previewEndTime": 70.65899658203125,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12636,6 +12855,7 @@
                     "AT"
                 ],
                 "previewTime": 55.895999908447266,
+                "previewEndTime": 70.89600372314453,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12698,6 +12918,7 @@
                     "AT"
                 ],
                 "previewTime": 29.0,
+                "previewEndTime": 44.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12760,6 +12981,7 @@
                     "AT"
                 ],
                 "previewTime": 47.06800079345703,
+                "previewEndTime": 62.06800079345703,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12803,7 +13025,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    11.3,
+                    12.3,
                     15.5,
                     0.0
                 ],
@@ -12822,6 +13044,7 @@
                     "AT"
                 ],
                 "previewTime": 92.5999984741211,
+                "previewEndTime": 112.5999984741211,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12884,6 +13107,7 @@
                     "AT"
                 ],
                 "previewTime": 76.79299926757812,
+                "previewEndTime": 98.96199798583984,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -12946,6 +13170,7 @@
                     "AT"
                 ],
                 "previewTime": 81.19999694824219,
+                "previewEndTime": 107.19999694824219,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13009,7 +13234,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 114.4000015258789,
+                "previewTime": 114.375,
+                "previewEndTime": 129.375,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13071,7 +13297,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 41.0,
+                "previewTime": 40.42100143432617,
+                "previewEndTime": 63.15800094604492,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13134,6 +13361,7 @@
                     "AT"
                 ],
                 "previewTime": 112.0,
+                "previewEndTime": 123.63600158691406,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13178,7 +13406,7 @@
                 "difficulty": [
                     5.5,
                     11.5,
-                    15.8,
+                    15.9,
                     16.5
                 ],
                 "illustrator": "猫箱Catbox feat. 祈莲",
@@ -13196,6 +13424,7 @@
                     "AT"
                 ],
                 "previewTime": 75.12999725341797,
+                "previewEndTime": 97.82599639892578,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13239,7 +13468,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    8.2,
+                    7.5,
                     13.4,
                     0.0
                 ],
@@ -13258,6 +13487,7 @@
                     "AT"
                 ],
                 "previewTime": 97.28500366210938,
+                "previewEndTime": 112.71399688720703,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13320,6 +13550,7 @@
                     "AT"
                 ],
                 "previewTime": 21.33300018310547,
+                "previewEndTime": 36.33300018310547,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13382,6 +13613,7 @@
                     "AT"
                 ],
                 "previewTime": 68.98600006103516,
+                "previewEndTime": 92.2030029296875,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13444,6 +13676,7 @@
                     "AT"
                 ],
                 "previewTime": 67.0,
+                "previewEndTime": 81.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13506,6 +13739,7 @@
                     "AT"
                 ],
                 "previewTime": 40.5,
+                "previewEndTime": 65.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13568,6 +13802,7 @@
                     "AT"
                 ],
                 "previewTime": 96.0,
+                "previewEndTime": 109.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13630,6 +13865,7 @@
                     "AT"
                 ],
                 "previewTime": 84.0270004272461,
+                "previewEndTime": 102.69300079345703,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13691,7 +13927,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 63.0,
+                "previewTime": 63.42900085449219,
+                "previewEndTime": 77.14299774169922,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13754,6 +13991,7 @@
                     "AT"
                 ],
                 "previewTime": 103.87999725341797,
+                "previewEndTime": 118.20899963378906,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13797,7 +14035,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.5,
-                    12.9,
+                    13.2,
                     15.9,
                     16.5
                 ],
@@ -13815,7 +14053,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 110.95800018310547,
+                "previewTime": 111.50700378417969,
+                "previewEndTime": 128.218994140625,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13878,6 +14117,7 @@
                     "AT"
                 ],
                 "previewTime": 109.5,
+                "previewEndTime": 127.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13940,6 +14180,7 @@
                     "AT"
                 ],
                 "previewTime": 148.8000030517578,
+                "previewEndTime": 171.42799377441406,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14002,6 +14243,7 @@
                     "AT"
                 ],
                 "previewTime": 22.399999618530273,
+                "previewEndTime": 38.400001525878906,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14064,6 +14306,7 @@
                     "AT"
                 ],
                 "previewTime": 21.0,
+                "previewEndTime": 34.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14126,6 +14369,7 @@
                     "AT"
                 ],
                 "previewTime": 73.0,
+                "previewEndTime": 88.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14188,6 +14432,7 @@
                     "AT"
                 ],
                 "previewTime": 100.80699920654297,
+                "previewEndTime": 115.7239990234375,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14250,6 +14495,7 @@
                     "AT"
                 ],
                 "previewTime": 47.8489990234375,
+                "previewEndTime": 70.7760009765625,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14314,6 +14560,7 @@
                     "AT"
                 ],
                 "previewTime": 79.54199981689453,
+                "previewEndTime": 93.25700378417969,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14376,6 +14623,7 @@
                     "AT"
                 ],
                 "previewTime": 107.29399871826172,
+                "previewEndTime": 127.05799865722656,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14438,6 +14686,7 @@
                     "AT"
                 ],
                 "previewTime": 63.040000915527344,
+                "previewEndTime": 83.19999694824219,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14504,6 +14753,7 @@
                     "AT"
                 ],
                 "previewTime": 59.16600036621094,
+                "previewEndTime": 75.41600036621094,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14548,24 +14798,28 @@
                 "difficulty": [
                     5.0,
                     11.6,
-                    15.9,
-                    16.2
+                    15.8,
+                    16.2,
+                    15.9
                 ],
                 "illustrator": "何呵",
                 "charter": [
                     "Arenn Saki as \"mAze\"",
                     "Arenn Saki as \"myStery\"",
-                    "Arenn Saki as \"lAβyrinS\"",
-                    "CN_115 as \"prediCameNt\""
+                    "XMT as \"eX-MentalisT\"",
+                    "CN_115 as \"prediCameNt\"",
+                    "Arenn Saki as \"lAβyrinS\""
                 ],
                 "composer": "ユメミド",
                 "levels": [
                     "EZ",
                     "HD",
                     "IN",
-                    "AT"
+                    "AT",
+                    "Legacy"
                 ],
                 "previewTime": 92.86599731445312,
+                "previewEndTime": 114.5770034790039,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14628,6 +14882,7 @@
                     "AT"
                 ],
                 "previewTime": 89.72899627685547,
+                "previewEndTime": 107.0270004272461,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14670,8 +14925,8 @@
                 "songsName": "Demonkin",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
-                    10.7,
+                    5.5,
+                    10.3,
                     13.7,
                     0.0
                 ],
@@ -14690,6 +14945,7 @@
                     "AT"
                 ],
                 "previewTime": 42.5,
+                "previewEndTime": 62.5,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14752,6 +15008,7 @@
                     "AT"
                 ],
                 "previewTime": 30.399999618530273,
+                "previewEndTime": 46.400001525878906,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14813,7 +15070,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 42.68600082397461,
+                "previewTime": 42.66699981689453,
+                "previewEndTime": 53.33300018310547,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14875,7 +15133,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 52.362998962402344,
+                "previewTime": 54.54499816894531,
+                "previewEndTime": 72.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14920,7 +15179,7 @@
                 "difficulty": [
                     7.5,
                     12.4,
-                    14.6,
+                    14.7,
                     16.3
                 ],
                 "illustrator": "knife美工刀",
@@ -14938,6 +15197,322 @@
                     "AT"
                 ],
                 "previewTime": 48.0,
+                "previewEndTime": 73.33300018310547,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Khalid.Dolphin.0",
+                "songsKey": "Khalid",
+                "songsName": "Khalid",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    8.2,
+                    13.1,
+                    0.0
+                ],
+                "illustrator": "HAZUQU",
+                "charter": [
+                    "Barbarialid",
+                    "Barbarialid",
+                    "Ner＜Jazz for your soul .)",
+                    ""
+                ],
+                "composer": "Dolphin",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 54.375,
+                "previewEndTime": 69.375,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "QuantumHyperspace.D_AAN.0",
+                "songsKey": "Quantum Hyperspace",
+                "songsName": "Quantum Hyperspace",
+                "songsTitle": "",
+                "difficulty": [
+                    6.0,
+                    11.2,
+                    14.8,
+                    0.0
+                ],
+                "illustrator": "sa1t",
+                "charter": [
+                    "Bariantum Hyperianerman",
+                    "Bariantum Hyperianerman",
+                    "IMD_0b0110",
+                    ""
+                ],
+                "composer": "D_AAN",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 69.5999984741211,
+                "previewEndTime": 79.19999694824219,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0",
+                "songsKey": "Freaky Undulations ~Noble Knights of Tune~",
+                "songsName": "Freaky Undulations ~Noble Knights of Tune~",
+                "songsTitle": "",
+                "difficulty": [
+                    7.0,
+                    11.9,
+                    15.1,
+                    0.0
+                ],
+                "illustrator": "PEZZ feat. 祈莲 & CattoHato",
+                "charter": [
+                    "Ner ~Freaky Cat of Charting~",
+                    "ARE YOU JEITIE!!!",
+                    "<= Noblesse Jeitie =>",
+                    ""
+                ],
+                "composer": "Jehezukiel + KURORAK",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 11.880999565124512,
+                "previewEndTime": 21.38599967956543,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "PANICPARADISE.DJSHIONY.0",
+                "songsKey": "PANIC PARADISE",
+                "songsName": "PANIC PARADISE",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    11.5,
+                    15.4,
+                    0.0
+                ],
+                "illustrator": "百九十八",
+                "charter": [
+                    "Barianic Baradise",
+                    "Barianic Baradise",
+                    "Su1fuR -FAISEURS DE PANIQUE-",
+                    ""
+                ],
+                "composer": "DJ SHION.Y",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 48.0,
+                "previewEndTime": 69.58799743652344,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "ReEndofaDream.umavsモリモリあつし.0",
+                "songsKey": "Re：End of a Dream",
+                "songsName": "Re：End of a Dream",
+                "songsTitle": "",
+                "difficulty": [
+                    7.5,
+                    13.1,
+                    15.8,
+                    16.4
+                ],
+                "illustrator": "masiro vs. adaptor",
+                "charter": [
+                    "Barbarianerman, Overture before the story",
+                    "Barbarianerman, Main theme within the somnium",
+                    "Latency, Finale of the dream",
+                    "XMT, Encore after the end"
+                ],
+                "composer": "uma vs. モリモリあつし",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 114.33999633789062,
+                "previewEndTime": 123.39600372314453,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -15002,6 +15577,7 @@
                     "AT"
                 ],
                 "previewTime": 0.0,
+                "previewEndTime": 0.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -16085,7 +16661,7 @@
             "keyName": "poyiARK",
             "unlockedTimes": 0,
             "kindOfKey": 1,
-            "unlockTimes": 1
+            "unlockTimes": 2
         },
         {
             "keyName": "poyiIG",
@@ -16271,7 +16847,7 @@
             "keyName": "Efuliautoshooter",
             "unlockedTimes": 0,
             "kindOfKey": 1,
-            "unlockTimes": 4
+            "unlockTimes": 5
         },
         {
             "keyName": "shijian12",
@@ -16974,6 +17550,234 @@
             "unlockedTimes": 0,
             "kindOfKey": 1,
             "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian20",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian21",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian22",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian24",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "jiezuodedansheng",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Mshiguangdefx",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Mhana",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "xintudoudeyongsheng",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Ychuanjiangwa",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 3
+        },
+        {
+            "keyName": "liuqidashengli",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 5
+        },
+        {
+            "keyName": "NeonLED",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "xiusiyangjiaochui",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 4
+        },
+        {
+            "keyName": "thiefmoon",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian31",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian33",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "673shijian",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "674shijian",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 2
+        },
+        {
+            "keyName": "675shijian",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 3
+        },
+        {
+            "keyName": "baoyouyueliang",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "xuanlvshisha",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "nvhaibieditou",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Mbolisidexisheng",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "bayinhe",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Mdyjilumeihao",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 2
+        },
+        {
+            "keyName": "pantaaa",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "he372bafei",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "buxutan",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 3
+        },
+        {
+            "keyName": "fuqinkuaishuiba",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "nifaxianlgesha",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Mluolikong",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "liangzitbzz",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 3
+        },
+        {
+            "keyName": "miaomiaocha",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "heiyueliaoyangyuan",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 3
+        },
+        {
+            "keyName": "beardoll",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 3
+        },
+        {
+            "keyName": "lokiworld",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 5
+        },
+        {
+            "keyName": "lokiworldre",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "abaaba1",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "botiqieli",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 4
         },
         {
             "keyName": "Glaciaxion",
@@ -18231,6 +19035,36 @@
         },
         {
             "keyName": "INFiNiTE ENERZY -Overdoze-",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Khalid",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Quantum Hyperspace",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Freaky Undulations ~Noble Knights of Tune~",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "PANIC PARADISE",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Re：End of a Dream",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
