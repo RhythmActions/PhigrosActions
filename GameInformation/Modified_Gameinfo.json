@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0",
         "CrushBETA.shadow_bling.0",
         "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
         "聖夜讃歌.A39沙包P.0",
@@ -217,6 +218,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Broken Sky",
+            "composer": "Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow",
+            "illustrator": "午苔veeee~",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Clutter",
+                    "numOfNotes": 169
+                },
+                "HD": {
+                    "rating": 9.3,
+                    "charter": "Clutter",
+                    "numOfNotes": 352
+                },
+                "IN": {
+                    "rating": 13.2,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 459
+                }
+            }
+        },
         "CrushBETA.shadow_bling.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -6622,5 +6652,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.5.1"
+    "ver": "3.5.2"
 }
