@@ -1,3 +1,3 @@
-# PhigrosGameInformation
- 全自动获取Phigros谱面信息
+# PhigrosActions
+ 使用GithubActions全自动获取Phigros游戏资源
 
