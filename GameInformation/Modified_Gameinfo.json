@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "BRAINHACKER.SOMON.0",
         "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0",
         "CrushBETA.shadow_bling.0",
         "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
@@ -218,6 +219,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "BRAINHACKER.SOMON.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "BRAIN HACKER",
+            "composer": "SOMON",
+            "illustrator": "SOMON",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "BLACK CTYMAX",
+                    "numOfNotes": 230
+                },
+                "HD": {
+                    "rating": 9.5,
+                    "charter": "COLORFUL CTYMAX",
+                    "numOfNotes": 372
+                },
+                "IN": {
+                    "rating": 14.7,
+                    "charter": "COLORFUL BLACK GAUSBON",
+                    "numOfNotes": 780
+                }
+            }
+        },
         "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -301,7 +331,7 @@
                 "IN": {
                     "rating": 15.6,
                     "charter": "A.S.H.",
-                    "numOfNotes": 1544
+                    "numOfNotes": 1541
                 }
             }
         },
@@ -6652,5 +6682,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.5.2"
+    "ver": "3.5.3"
 }

@@ -10,8 +10,15 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@03/15/2024 17:00:00 +8:00"
+                            "prev@03/31/2024 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "BRAINHACKER.SOMON.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0",
                         "unlockType": 1,
@@ -14604,6 +14611,69 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "BRAINHACKER.SOMON.0",
+                "songsKey": "BRAIN HACKER",
+                "songsName": "BRAIN HACKER",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    9.5,
+                    14.7,
+                    0.0
+                ],
+                "illustrator": "SOMON",
+                "charter": [
+                    "BLACK CTYMAX",
+                    "COLORFUL CTYMAX",
+                    "COLORFUL BLACK GAUSBON",
+                    ""
+                ],
+                "composer": "SOMON",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 64.80000305175781,
+                "previewEndTime": 98.69999694824219,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -15692,6 +15762,12 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "BRAIN HACKER",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Broken Sky",
             "unlockedTimes": 0,
@@ -19150,6 +19226,12 @@
         },
         {
             "keyName": "Broken Sky",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "BRAIN HACKER",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
