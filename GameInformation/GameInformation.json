@@ -8,10 +8,7 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@03/31/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "BRAINHACKER.SOMON.0",
                         "unlockType": 1,
@@ -119,13 +116,6 @@
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Bougainvillea.Jade.0",
-                        "unlockType": 1,
-                        "secretType": 0
-                    },
-                    {
-                        "unlockInfo": [],
-                        "secretInfo": [],
-                        "songsId": "零號車輛.seatrus.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
@@ -1298,6 +1288,60 @@
                 "unlockMode": 3,
                 "unlockFlag": "NOONEYESMAN.MYUKKE.0",
                 "unlockTip": "prev@2/23/2024 17:00:00 +8:00",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
+            "chapterCode": "ParadigmReboot",
+            "songInfo": {
+                "title": "\\ChapterParadigmRebootTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "Paradigm: Reboot",
+                "songs": [
+                    {
+                        "unlockInfo": [
+                            "prev@04/05/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "零號車輛.seatrus.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@04/05/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Xenolith.Tatsh.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@04/05/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "ArtificialExistence.JunKuroda.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@04/05/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "IndelibleScar.Noah.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
+                "unlockTip": "prev@04/05/2024 17:00:00 +8:00",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
                 "fakeCoverBlurCode": ""
@@ -14674,6 +14718,195 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "Xenolith.Tatsh.0",
+                "songsKey": "Xenolith",
+                "songsName": "Xenolith",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    8.5,
+                    14.6,
+                    0.0
+                ],
+                "illustrator": "2AI4wU4",
+                "charter": [
+                    "RXhuang",
+                    "RXhuang",
+                    "Xlutter guided by three Oaths",
+                    ""
+                ],
+                "composer": "Tatsh",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 40.23500061035156,
+                "previewEndTime": 57.17599868774414,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "ArtificialExistence.JunKuroda.0",
+                "songsKey": "Artificial Existence",
+                "songsName": "Artificial Existence",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    10.2,
+                    14.9,
+                    0.0
+                ],
+                "illustrator": "2AI4wU4",
+                "charter": [
+                    "Salt",
+                    "Salt",
+                    "Salt & _鉄 inspired by 存在証明 [X]",
+                    ""
+                ],
+                "composer": "Jun Kuroda",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 80.41999816894531,
+                "previewEndTime": 110.41999816894531,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "IndelibleScar.Noah.0",
+                "songsKey": "Indelible Scar",
+                "songsName": "Indelible Scar",
+                "songsTitle": "",
+                "difficulty": [
+                    7.5,
+                    11.7,
+                    15.3,
+                    16.2
+                ],
+                "illustrator": "兜",
+                "charter": [
+                    "Clutter & Barbarianerman",
+                    "Salt & Barbarianerman",
+                    "Likey affected by Ancestral Xhronicle",
+                    "上班睡大觉_Sleepyhead"
+                ],
+                "composer": "Noah",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 92.55599975585938,
+                "previewEndTime": 108.96800231933594,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -15854,12 +16087,6 @@
         },
         {
             "keyName": "Bougainvillea",
-            "unlockedTimes": 0,
-            "kindOfKey": 0,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "零號車輛",
             "unlockedTimes": 0,
             "kindOfKey": 0,
             "unlockTimes": 1
@@ -17935,6 +18162,30 @@
             "unlockTimes": 4
         },
         {
+            "keyName": "paradigm1",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "paradigm2",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "paradigm3",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "paradigm4",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
             "keyName": "Glaciaxion",
             "unlockedTimes": 0,
             "kindOfKey": 2,
@@ -19237,6 +19488,24 @@
             "unlockTimes": 1
         },
         {
+            "keyName": "Xenolith",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Artificial Existence",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Indelible Scar",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
             "keyName": "Introduction",
             "unlockedTimes": 0,
             "kindOfKey": 2,
@@ -19784,6 +20053,36 @@
         },
         {
             "keyName": "青芽-Special",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Xenolith",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Artificial Existence",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Para",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Indelible Scar",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Alkaid",
             "unlockedTimes": 0,
             "kindOfKey": 3,
             "unlockTimes": 1

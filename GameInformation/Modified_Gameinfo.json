@@ -16,7 +16,6 @@
         "RainyHeart.BelieverInYou阿卡姆巫师.0",
         "NowIsTheTimeDoIt.RoyMikelate.0",
         "Bougainvillea.Jade.0",
-        "零號車輛.seatrus.0",
         "Random.SobremSilentroom.0",
         "PoisonANDORAffection.LeaF.0",
         "Upshift.Iriss-Frantzz.0",
@@ -160,6 +159,10 @@
         "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0",
         "PANICPARADISE.DJSHIONY.0",
         "ReEndofaDream.umavsモリモリあつし.0",
+        "零號車輛.seatrus.0",
+        "Xenolith.Tatsh.0",
+        "ArtificialExistence.JunKuroda.0",
+        "IndelibleScar.Noah.0",
         "テリトリーバトル.ツユ.0",
         "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
         "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
@@ -680,35 +683,6 @@
                     "rating": 13.4,
                     "charter": "Barbarvillea",
                     "numOfNotes": 662
-                }
-            }
-        },
-        "零號車輛.seatrus.0": {
-            "chapterCode": "Single",
-            "unlockType": 1,
-            "songsName": "零號車輛",
-            "composer": "seatrus",
-            "illustrator": "2AI4wU4",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN"
-                ],
-                "EZ": {
-                    "rating": 7.0,
-                    "charter": "零號宇夜",
-                    "numOfNotes": 594
-                },
-                "HD": {
-                    "rating": 12.3,
-                    "charter": "壹號阿爽",
-                    "numOfNotes": 1058
-                },
-                "IN": {
-                    "rating": 15.8,
-                    "charter": "Pcat【零】198",
-                    "numOfNotes": 1240
                 }
             }
         },
@@ -4961,6 +4935,128 @@
                 }
             }
         },
+        "零號車輛.seatrus.0": {
+            "chapterCode": "ParadigmReboot",
+            "unlockType": 0,
+            "songsName": "零號車輛",
+            "composer": "seatrus",
+            "illustrator": "2AI4wU4",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 7.0,
+                    "charter": "零號宇夜",
+                    "numOfNotes": 594
+                },
+                "HD": {
+                    "rating": 12.3,
+                    "charter": "壹號阿爽",
+                    "numOfNotes": 1058
+                },
+                "IN": {
+                    "rating": 15.8,
+                    "charter": "Pcat【零】198",
+                    "numOfNotes": 1240
+                }
+            }
+        },
+        "Xenolith.Tatsh.0": {
+            "chapterCode": "ParadigmReboot",
+            "unlockType": 0,
+            "songsName": "Xenolith",
+            "composer": "Tatsh",
+            "illustrator": "2AI4wU4",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "RXhuang",
+                    "numOfNotes": 202
+                },
+                "HD": {
+                    "rating": 8.5,
+                    "charter": "RXhuang",
+                    "numOfNotes": 533
+                },
+                "IN": {
+                    "rating": 14.6,
+                    "charter": "Xlutter guided by three Oaths",
+                    "numOfNotes": 789
+                }
+            }
+        },
+        "ArtificialExistence.JunKuroda.0": {
+            "chapterCode": "ParadigmReboot",
+            "unlockType": 0,
+            "songsName": "Artificial Existence",
+            "composer": "Jun Kuroda",
+            "illustrator": "2AI4wU4",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Salt",
+                    "numOfNotes": 200
+                },
+                "HD": {
+                    "rating": 10.2,
+                    "charter": "Salt",
+                    "numOfNotes": 400
+                },
+                "IN": {
+                    "rating": 14.9,
+                    "charter": "Salt & _鉄 inspired by 存在証明 [X]",
+                    "numOfNotes": 800
+                }
+            }
+        },
+        "IndelibleScar.Noah.0": {
+            "chapterCode": "ParadigmReboot",
+            "unlockType": 0,
+            "songsName": "Indelible Scar",
+            "composer": "Noah",
+            "illustrator": "兜",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 7.5,
+                    "charter": "Clutter & Barbarianerman",
+                    "numOfNotes": 316
+                },
+                "HD": {
+                    "rating": 11.7,
+                    "charter": "Salt & Barbarianerman",
+                    "numOfNotes": 733
+                },
+                "IN": {
+                    "rating": 15.3,
+                    "charter": "Likey affected by Ancestral Xhronicle",
+                    "numOfNotes": 844
+                },
+                "AT": {
+                    "rating": 16.2,
+                    "charter": "上班睡大觉_Sleepyhead",
+                    "numOfNotes": 1207
+                }
+            }
+        },
         "テリトリーバトル.ツユ.0": {
             "chapterCode": "CHUNITHM",
             "unlockType": 0,
@@ -6682,5 +6778,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.5.3"
+    "ver": "3.6.0"
 }
