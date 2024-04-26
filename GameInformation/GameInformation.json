@@ -8,6 +8,26 @@
                 "banner": "Single",
                 "songs": [
                     {
+                        "unlockInfo": [
+                            "4",
+                            "prev@04/26/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "PRAGMATISMRESURRECTION.Laur.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@04/26/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Antithese.Blacklolita.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "BRAINHACKER.SOMON.0",
@@ -1301,36 +1321,28 @@
                 "banner": "Paradigm: Reboot",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "prev@04/05/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "零號車輛.seatrus.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@04/05/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Xenolith.Tatsh.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@04/05/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "ArtificialExistence.JunKuroda.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@04/05/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "IndelibleScar.Noah.0",
                         "unlockType": 0,
@@ -1341,7 +1353,7 @@
             "unlockInfo": {
                 "unlockMode": 0,
                 "unlockFlag": "",
-                "unlockTip": "prev@04/05/2024 17:00:00 +8:00",
+                "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
                 "fakeCoverBlurCode": ""
@@ -13231,7 +13243,7 @@
                     "AT"
                 ],
                 "previewTime": 81.19999694824219,
-                "previewEndTime": 107.19999694824219,
+                "previewEndTime": 101.19999694824219,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13295,8 +13307,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 114.375,
-                "previewEndTime": 129.375,
+                "previewTime": 114.4000015258789,
+                "previewEndTime": 129.39999389648438,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13358,8 +13370,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 40.42100143432617,
-                "previewEndTime": 63.15800094604492,
+                "previewTime": 41.0,
+                "previewEndTime": 61.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -13988,8 +14000,8 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 63.42900085449219,
-                "previewEndTime": 77.14299774169922,
+                "previewTime": 63.0,
+                "previewEndTime": 78.86399841308594,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14052,7 +14064,7 @@
                     "AT"
                 ],
                 "previewTime": 103.87999725341797,
-                "previewEndTime": 118.20899963378906,
+                "previewEndTime": 121.79100036621094,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -14114,7 +14126,7 @@
                     "IN",
                     "AT"
                 ],
-                "previewTime": 111.50700378417969,
+                "previewTime": 110.95800018310547,
                 "previewEndTime": 128.218994140625,
                 "unlockInfo": [
                     {
@@ -14872,6 +14884,132 @@
                 ],
                 "previewTime": 92.55599975585938,
                 "previewEndTime": 108.96800231933594,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "Antithese.Blacklolita.0",
+                "songsKey": "Antithese",
+                "songsName": "Antithese",
+                "songsTitle": "",
+                "difficulty": [
+                    5.5,
+                    11.8,
+                    15.2,
+                    15.9
+                ],
+                "illustrator": "釜飯轟々丸 + jht (Design: 祈莲)",
+                "charter": [
+                    "SeveredEntity (BlindForest vs rN) feat. Δ",
+                    "Δ (M3d1uM vs Salt)",
+                    "StupiGGy -The Origin-",
+                    "弧光"
+                ],
+                "composer": "Blacklolita",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 35.93000030517578,
+                "previewEndTime": 53.32500076293945,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "PRAGMATISMRESURRECTION.Laur.0",
+                "songsKey": "PRAGMATISM -RESURRECTION-",
+                "songsName": "PRAGMATISM -RESURRECTION-",
+                "songsTitle": "",
+                "difficulty": [
+                    7.5,
+                    12.9,
+                    15.6,
+                    16.3
+                ],
+                "illustrator": "シエラ (Design: 祈莲)",
+                "charter": [
+                    "完璧 [WARNING: DRAG OVERLOAD]",
+                    "完壁 × 北星",
+                    "-NerSAN & Su1fuR-",
+                    "THE LAST 198"
+                ],
+                "composer": "Laur",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 117.62000274658203,
+                "previewEndTime": 137.6199951171875,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -15995,6 +16133,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "PRAGMATISM -RESURRECTION-",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Antithese",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "BRAIN HACKER",
             "unlockedTimes": 0,
@@ -19501,6 +19651,18 @@
         },
         {
             "keyName": "Indelible Scar",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Antithese",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "PRAGMATISM -RESURRECTION-",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

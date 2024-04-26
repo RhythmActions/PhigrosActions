@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "PRAGMATISMRESURRECTION.Laur.0",
+        "Antithese.Blacklolita.0",
         "BRAINHACKER.SOMON.0",
         "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0",
         "CrushBETA.shadow_bling.0",
@@ -222,6 +224,76 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "PRAGMATISMRESURRECTION.Laur.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "PRAGMATISM -RESURRECTION-",
+            "composer": "Laur",
+            "illustrator": "シエラ (Design: 祈莲)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 7.5,
+                    "charter": "完璧 [WARNING: DRAG OVERLOAD]",
+                    "numOfNotes": 1057
+                },
+                "HD": {
+                    "rating": 12.9,
+                    "charter": "完壁 × 北星",
+                    "numOfNotes": 661
+                },
+                "IN": {
+                    "rating": 15.6,
+                    "charter": "-NerSAN & Su1fuR-",
+                    "numOfNotes": 999
+                },
+                "AT": {
+                    "rating": 16.3,
+                    "charter": "THE LAST 198",
+                    "numOfNotes": 1156
+                }
+            }
+        },
+        "Antithese.Blacklolita.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Antithese",
+            "composer": "Blacklolita",
+            "illustrator": "釜飯轟々丸 + jht (Design: 祈莲)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 5.5,
+                    "charter": "SeveredEntity (BlindForest vs rN) feat. Δ",
+                    "numOfNotes": 313
+                },
+                "HD": {
+                    "rating": 11.8,
+                    "charter": "Δ (M3d1uM vs Salt)",
+                    "numOfNotes": 801
+                },
+                "IN": {
+                    "rating": 15.2,
+                    "charter": "StupiGGy -The Origin-",
+                    "numOfNotes": 1063
+                },
+                "AT": {
+                    "rating": 15.9,
+                    "charter": "弧光",
+                    "numOfNotes": 1200
+                }
+            }
+        },
         "BRAINHACKER.SOMON.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -6778,5 +6850,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.6.0"
+    "ver": "3.6.1"
 }
