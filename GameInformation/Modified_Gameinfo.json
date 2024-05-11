@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "ShineAfter.ADeanJocularACE.0",
         "PRAGMATISMRESURRECTION.Laur.0",
         "Antithese.Blacklolita.0",
         "BRAINHACKER.SOMON.0",
@@ -224,6 +225,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "ShineAfter.ADeanJocularACE.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Shine After",
+            "composer": "ADean & JocularACE",
+            "illustrator": "海里狄七 feat. 存艺",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 262
+                },
+                "HD": {
+                    "rating": 9.9,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 647
+                },
+                "IN": {
+                    "rating": 14.6,
+                    "charter": "Salt & Uvernight",
+                    "numOfNotes": 800
+                }
+            }
+        },
         "PRAGMATISMRESURRECTION.Laur.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -244,7 +274,7 @@
                 },
                 "HD": {
                     "rating": 12.9,
-                    "charter": "完壁 × 北星",
+                    "charter": "完璧 × 北星",
                     "numOfNotes": 661
                 },
                 "IN": {
@@ -6850,5 +6880,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.6.1"
+    "ver": "3.6.2"
 }

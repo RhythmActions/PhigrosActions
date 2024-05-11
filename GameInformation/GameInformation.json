@@ -10,18 +10,22 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@04/26/2024 17:00:00 +8:00"
+                            "prev@05/10/2024 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "ShineAfter.ADeanJocularACE.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "PRAGMATISMRESURRECTION.Laur.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@04/26/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Antithese.Blacklolita.0",
                         "unlockType": 1,
@@ -14997,7 +15001,7 @@
                 "illustrator": "シエラ (Design: 祈莲)",
                 "charter": [
                     "完璧 [WARNING: DRAG OVERLOAD]",
-                    "完壁 × 北星",
+                    "完璧 × 北星",
                     "-NerSAN & Su1fuR-",
                     "THE LAST 198"
                 ],
@@ -15010,6 +15014,69 @@
                 ],
                 "previewTime": 117.62000274658203,
                 "previewEndTime": 137.6199951171875,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "ShineAfter.ADeanJocularACE.0",
+                "songsKey": "Shine After",
+                "songsName": "Shine After",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    9.9,
+                    14.6,
+                    0.0
+                ],
+                "illustrator": "海里狄七 feat. 存艺",
+                "charter": [
+                    "Su1fuR",
+                    "Su1fuR",
+                    "Salt & Uvernight",
+                    ""
+                ],
+                "composer": "ADean & JocularACE",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 120.33999633789062,
+                "previewEndTime": 135.33999633789062,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -16133,6 +16200,12 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Shine After",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "PRAGMATISM -RESURRECTION-",
             "unlockedTimes": 0,
@@ -19668,6 +19741,12 @@
             "unlockTimes": 1
         },
         {
+            "keyName": "Shine After",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
             "keyName": "Introduction",
             "unlockedTimes": 0,
             "kindOfKey": 2,
@@ -20245,6 +20324,54 @@
         },
         {
             "keyName": "Alkaid",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ShineAfter-鸠-普通",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ShineAfter-鸠-曲绘Ver",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ShineAfter-鸠-Special",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ShineAfter-水青-普通",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ShineAfter-水青-曲绘Ver",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ShineAfter-水青-Special",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ShineAfter-水青-Special2",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ShineAfter-鸠和水青-Special",
             "unlockedTimes": 0,
             "kindOfKey": 3,
             "unlockTimes": 1
