@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "Bloom.targ麻团qwq.0",
         "ShineAfter.ADeanJocularACE.0",
         "PRAGMATISMRESURRECTION.Laur.0",
         "Antithese.Blacklolita.0",
@@ -225,6 +226,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "Bloom.targ麻团qwq.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Bloom",
+            "composer": "targ & 麻团qwq",
+            "illustrator": "注射",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.0,
+                    "charter": "Salt & Barbarianerman",
+                    "numOfNotes": 183
+                },
+                "HD": {
+                    "rating": 10.6,
+                    "charter": "Salt & Barbarianerman",
+                    "numOfNotes": 724
+                },
+                "IN": {
+                    "rating": 14.9,
+                    "charter": "SPΔDE & 倪尔qwq",
+                    "numOfNotes": 1053
+                }
+            }
+        },
         "ShineAfter.ADeanJocularACE.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -6880,5 +6910,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.6.2"
+    "ver": "3.6.3"
 }

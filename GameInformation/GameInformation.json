@@ -10,8 +10,15 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@05/10/2024 17:00:00 +8:00"
+                            "prev@05/31/2024 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "Bloom.targ麻团qwq.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "ShineAfter.ADeanJocularACE.0",
                         "unlockType": 1,
@@ -15112,6 +15119,69 @@
                         "levelMods": []
                     }
                 ]
+            },
+            {
+                "songsId": "Bloom.targ麻团qwq.0",
+                "songsKey": "Bloom",
+                "songsName": "Bloom",
+                "songsTitle": "",
+                "difficulty": [
+                    3.0,
+                    10.6,
+                    14.9,
+                    0.0
+                ],
+                "illustrator": "注射",
+                "charter": [
+                    "Salt & Barbarianerman",
+                    "Salt & Barbarianerman",
+                    "SPΔDE & 倪尔qwq",
+                    ""
+                ],
+                "composer": "targ & 麻团qwq",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 66.4000015258789,
+                "previewEndTime": 81.5999984741211,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
             }
         ],
         "sideStorySongs": [
@@ -16200,6 +16270,12 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Bloom",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Shine After",
             "unlockedTimes": 0,
@@ -19742,6 +19818,12 @@
         },
         {
             "keyName": "Shine After",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bloom",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
