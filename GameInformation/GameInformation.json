@@ -8,10 +8,7 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@05/31/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Bloom.targ麻团qwq.0",
                         "unlockType": 1,
@@ -1325,6 +1322,45 @@
             }
         },
         {
+            "chapterCode": "SHINOBISLASH",
+            "songInfo": {
+                "title": "\\ChapterSHINOBISLASHTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "SHINOBI SLASH",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "幽世桔梗.Capchiifeatまるもこ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "千紫万紅.r0yvsWABI.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "明鏡烈火.MUEvsRekuMochizuki.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
+                "unlockTip": "prev@06/28/2024 17:00:00 +8:00",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
             "chapterCode": "ParadigmReboot",
             "songInfo": {
                 "title": "\\ChapterParadigmRebootTitle",
@@ -1377,13 +1413,6 @@
                 "subTitle": "\\ChapterExtraSubTitle",
                 "banner": "CHUNITHM",
                 "songs": [
-                    {
-                        "unlockInfo": [],
-                        "secretInfo": [],
-                        "songsId": "テリトリーバトル.ツユ.0",
-                        "unlockType": 0,
-                        "secretType": 0
-                    },
                     {
                         "unlockInfo": [],
                         "secretInfo": [],
@@ -15126,8 +15155,8 @@
                 "songsName": "Bloom",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
-                    10.6,
+                    3.5,
+                    11.2,
                     14.9,
                     0.0
                 ],
@@ -15147,6 +15176,195 @@
                 ],
                 "previewTime": 66.4000015258789,
                 "previewEndTime": 81.5999984741211,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "幽世桔梗.Capchiifeatまるもこ.0",
+                "songsKey": "幽世桔梗",
+                "songsName": "幽世桔梗",
+                "songsTitle": "",
+                "difficulty": [
+                    3.0,
+                    10.1,
+                    14.8,
+                    0.0
+                ],
+                "illustrator": "瀬名",
+                "charter": [
+                    "RipHall vs. Likey",
+                    "RipHall vs. Likey",
+                    "Su1fuR、快斬！",
+                    ""
+                ],
+                "composer": "Capchii feat. まるもこ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 13.1899995803833,
+                "previewEndTime": 34.930999755859375,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "千紫万紅.r0yvsWABI.0",
+                "songsKey": "千紫万紅",
+                "songsName": "千紫万紅",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    12.1,
+                    15.6,
+                    0.0
+                ],
+                "illustrator": "中本ひょうり",
+                "charter": [
+                    "Rikko",
+                    "実戦 with Rikko",
+                    "Salt & Barbarianerman",
+                    ""
+                ],
+                "composer": "r0y vs. WABI",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 105.47000122070312,
+                "previewEndTime": 124.47000122070312,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ]
+            },
+            {
+                "songsId": "明鏡烈火.MUEvsRekuMochizuki.0",
+                "songsKey": "明鏡烈火",
+                "songsName": "明鏡烈火",
+                "songsTitle": "",
+                "difficulty": [
+                    6.5,
+                    11.3,
+                    15.8,
+                    0.0
+                ],
+                "illustrator": "中本ひょうり",
+                "charter": [
+                    "COC  feat. Su1fuR",
+                    "COC  feat. Su1fuR",
+                    "Arenn Salty feat. LDA",
+                    ""
+                ],
+                "composer": "M-UE vs. Reku Mochizuki",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 99.74400329589844,
+                "previewEndTime": 118.74400329589844,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -19824,6 +20042,24 @@
         },
         {
             "keyName": "Bloom",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "幽世桔梗",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "千紫万紅",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "明鏡烈火",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

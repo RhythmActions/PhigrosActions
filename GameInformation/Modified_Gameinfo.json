@@ -163,11 +163,13 @@
         "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0",
         "PANICPARADISE.DJSHIONY.0",
         "ReEndofaDream.umavsモリモリあつし.0",
+        "幽世桔梗.Capchiifeatまるもこ.0",
+        "千紫万紅.r0yvsWABI.0",
+        "明鏡烈火.MUEvsRekuMochizuki.0",
         "零號車輛.seatrus.0",
         "Xenolith.Tatsh.0",
         "ArtificialExistence.JunKuroda.0",
         "IndelibleScar.Noah.0",
-        "テリトリーバトル.ツユ.0",
         "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
         "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
         "JourneywithYou.Iris.0",
@@ -239,12 +241,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.0,
+                    "rating": 3.5,
                     "charter": "Salt & Barbarianerman",
                     "numOfNotes": 183
                 },
                 "HD": {
-                    "rating": 10.6,
+                    "rating": 11.2,
                     "charter": "Salt & Barbarianerman",
                     "numOfNotes": 724
                 },
@@ -5067,6 +5069,93 @@
                 }
             }
         },
+        "幽世桔梗.Capchiifeatまるもこ.0": {
+            "chapterCode": "SHINOBISLASH",
+            "unlockType": 0,
+            "songsName": "幽世桔梗",
+            "composer": "Capchii feat. まるもこ",
+            "illustrator": "瀬名",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.0,
+                    "charter": "RipHall vs. Likey",
+                    "numOfNotes": 223
+                },
+                "HD": {
+                    "rating": 10.1,
+                    "charter": "RipHall vs. Likey",
+                    "numOfNotes": 562
+                },
+                "IN": {
+                    "rating": 14.8,
+                    "charter": "Su1fuR、快斬！",
+                    "numOfNotes": 981
+                }
+            }
+        },
+        "千紫万紅.r0yvsWABI.0": {
+            "chapterCode": "SHINOBISLASH",
+            "unlockType": 0,
+            "songsName": "千紫万紅",
+            "composer": "r0y vs. WABI",
+            "illustrator": "中本ひょうり",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "Rikko",
+                    "numOfNotes": 240
+                },
+                "HD": {
+                    "rating": 12.1,
+                    "charter": "実戦 with Rikko",
+                    "numOfNotes": 779
+                },
+                "IN": {
+                    "rating": 15.6,
+                    "charter": "Salt & Barbarianerman",
+                    "numOfNotes": 1200
+                }
+            }
+        },
+        "明鏡烈火.MUEvsRekuMochizuki.0": {
+            "chapterCode": "SHINOBISLASH",
+            "unlockType": 0,
+            "songsName": "明鏡烈火",
+            "composer": "M-UE vs. Reku Mochizuki",
+            "illustrator": "中本ひょうり",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 6.5,
+                    "charter": "COC  feat. Su1fuR",
+                    "numOfNotes": 376
+                },
+                "HD": {
+                    "rating": 11.3,
+                    "charter": "COC  feat. Su1fuR",
+                    "numOfNotes": 564
+                },
+                "IN": {
+                    "rating": 15.8,
+                    "charter": "Arenn Salty feat. LDA",
+                    "numOfNotes": 886
+                }
+            }
+        },
         "零號車輛.seatrus.0": {
             "chapterCode": "ParadigmReboot",
             "unlockType": 0,
@@ -5186,41 +5275,6 @@
                     "rating": 16.2,
                     "charter": "上班睡大觉_Sleepyhead",
                     "numOfNotes": 1207
-                }
-            }
-        },
-        "テリトリーバトル.ツユ.0": {
-            "chapterCode": "CHUNITHM",
-            "unlockType": 0,
-            "songsName": "テリトリーバトル",
-            "composer": "ツユ",
-            "illustrator": "SEGA (V17AMax modified)",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN",
-                    "AT"
-                ],
-                "EZ": {
-                    "rating": 3.0,
-                    "charter": "返せ！返せ！ボクのSu1fuRを",
-                    "numOfNotes": 172
-                },
-                "HD": {
-                    "rating": 9.1,
-                    "charter": "{^-7-^} BATTLE against Su1fuR",
-                    "numOfNotes": 589
-                },
-                "IN": {
-                    "rating": 13.8,
-                    "charter": "阿爽 and StupiGGy Seizing Territory",
-                    "numOfNotes": 974
-                },
-                "AT": {
-                    "rating": 15.3,
-                    "charter": "JKy feat. 0419_Guardian",
-                    "numOfNotes": 1417
                 }
             }
         },
@@ -6910,5 +6964,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.6.3"
+    "ver": "3.7.0"
 }
