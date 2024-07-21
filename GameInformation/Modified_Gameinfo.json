@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "今天不是明天.PIKASONICfeat兰音Reine.0",
         "Bloom.targ麻团qwq.0",
         "ShineAfter.ADeanJocularACE.0",
         "PRAGMATISMRESURRECTION.Laur.0",
@@ -228,6 +229,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "今天不是明天.PIKASONICfeat兰音Reine.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "今天不是明天",
+            "composer": "PIKASONIC feat. 兰音Reine",
+            "illustrator": "KiTA & 一击即溃",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.0,
+                    "charter": "扫佛不是嫂夫",
+                    "numOfNotes": 294
+                },
+                "HD": {
+                    "rating": 8.5,
+                    "charter": "扫佛不是嫂夫",
+                    "numOfNotes": 546
+                },
+                "IN": {
+                    "rating": 13.5,
+                    "charter": "杂波不是杂啵，野从不是野丛",
+                    "numOfNotes": 913
+                }
+            }
+        },
         "Bloom.targ麻团qwq.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -6964,5 +6994,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.7.0"
+    "ver": "3.7.1"
 }
