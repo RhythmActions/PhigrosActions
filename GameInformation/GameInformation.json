@@ -13,6 +13,13 @@
                             "prev@07/12/2024 17:00:00 +8:00"
                         ],
                         "secretInfo": [],
+                        "songsId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
                         "songsId": "今天不是明天.PIKASONICfeat兰音Reine.0",
                         "unlockType": 1,
                         "secretType": 0
@@ -1332,6 +1339,45 @@
             }
         },
         {
+            "chapterCode": "TAKUMI3",
+            "songInfo": {
+                "title": "\\ChapterTAKUMI3Title",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "TAKUMI³",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "Cuvism.Fl00tvsHalv.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "iLArtifact.Link0.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
+                "unlockTip": "prev@07/26/2024 17:00:00 +8:00",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
             "chapterCode": "SHINOBISLASH",
             "songInfo": {
                 "title": "\\ChapterSHINOBISLASHTitle",
@@ -1364,7 +1410,7 @@
             "unlockInfo": {
                 "unlockMode": 0,
                 "unlockFlag": "",
-                "unlockTip": "prev@06/28/2024 17:00:00 +8:00",
+                "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
                 "fakeCoverBlurCode": ""
@@ -1518,45 +1564,35 @@
                 "banner": "かめりあ",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "prev@8/31/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "SATELLITE.かめりあ.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@8/31/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "DancewithSilence.かめりあ.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@8/31/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "LabyrinthinKowloonWalledWorld.かめりあ.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@8/31/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@8/31/2023 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "ERABYECONNEC10N.かめりあ.0",
                         "unlockType": 0,
@@ -15685,6 +15721,266 @@
                     }
                 ],
                 "isCnLimited": false
+            },
+            {
+                "songsId": "Cuvism.Fl00tvsHalv.0",
+                "songsKey": "Cuvism³",
+                "songsName": "Cuvism³",
+                "songsTitle": "",
+                "difficulty": [
+                    3.5,
+                    12.1,
+                    13.9,
+                    16.4
+                ],
+                "illustrator": "sikkari",
+                "charter": [
+                    "Rikko",
+                    "Rikko³ [Normal]",
+                    "Rikko",
+                    "JKy vs StrayCat"
+                ],
+                "composer": "Fl00t vs Halv",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 108.86499786376953,
+                "previewEndTime": 122.4739990234375,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 2,
+                        "unlockInfo": [
+                            "CuvismINSGrade",
+                            "iLArtifactINSGrade",
+                            "atruthseekerCommunicationwithUtopiawillbelostINSGrade"
+                        ]
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false
+            },
+            {
+                "songsId": "iLArtifact.Link0.0",
+                "songsKey": "iL-Artifact",
+                "songsName": "iL-Artifact",
+                "songsTitle": "",
+                "difficulty": [
+                    5.5,
+                    10.5,
+                    15.5,
+                    0.0
+                ],
+                "illustrator": "Fl00t",
+                "charter": [
+                    "IUIsauce",
+                    "IUIsauce",
+                    "XMT小咩兔 vs 上班睡大觉_Sleepyhead",
+                    ""
+                ],
+                "composer": "Link''0",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 73.69499969482422,
+                "previewEndTime": 95.21700286865234,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false
+            },
+            {
+                "songsId": "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
+                "songsKey": "a truth seeker -Communication with Utopia will be lost-",
+                "songsName": "a truth seeker -Communication with Utopia will be lost-",
+                "songsTitle": "",
+                "difficulty": [
+                    7.5,
+                    12.8,
+                    15.8,
+                    0.0
+                ],
+                "illustrator": "rokopon",
+                "charter": [
+                    "上班睡大觉_Sleepyhead",
+                    "上班睡大觉_Sleepyhead",
+                    "-Seek A Lnside Truth-",
+                    ""
+                ],
+                "composer": "kuro",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 87.72599792480469,
+                "previewEndTime": 107.72599792480469,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false
+            },
+            {
+                "songsId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
+                "songsKey": "Bounded Quietude",
+                "songsName": "Bounded Quietude",
+                "songsTitle": "",
+                "difficulty": [
+                    7.0,
+                    7.5,
+                    15.9,
+                    0.0
+                ],
+                "illustrator": "Hiro vs Zeth",
+                "charter": [
+                    "LonelyKnight",
+                    "LonelyKnight",
+                    "孤独な騎士 Against 魔王、大咩兔",
+                    ""
+                ],
+                "composer": "Finite Limit vs SiLiS",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 56.0,
+                "previewEndTime": 84.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false
             }
         ],
         "sideStorySongs": [
@@ -16790,6 +17086,12 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Bounded Quietude",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "今天不是明天",
             "unlockedTimes": 0,
@@ -20374,6 +20676,30 @@
         },
         {
             "keyName": "今天不是明天",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Cuvism³",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "iL-Artifact",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "a truth seeker -Communication with Utopia will be lost-",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Bounded Quietude",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "BoundedQuietude.FiniteLimitvsSiLiS.0",
         "今天不是明天.PIKASONICfeat兰音Reine.0",
         "Bloom.targ麻团qwq.0",
         "ShineAfter.ADeanJocularACE.0",
@@ -164,6 +165,9 @@
         "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0",
         "PANICPARADISE.DJSHIONY.0",
         "ReEndofaDream.umavsモリモリあつし.0",
+        "Cuvism.Fl00tvsHalv.0",
+        "iLArtifact.Link0.0",
+        "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
         "幽世桔梗.Capchiifeatまるもこ.0",
         "千紫万紅.r0yvsWABI.0",
         "明鏡烈火.MUEvsRekuMochizuki.0",
@@ -229,6 +233,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "BoundedQuietude.FiniteLimitvsSiLiS.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Bounded Quietude",
+            "composer": "Finite Limit vs SiLiS",
+            "illustrator": "Hiro vs Zeth",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 7.0,
+                    "charter": "LonelyKnight",
+                    "numOfNotes": 1127
+                },
+                "HD": {
+                    "rating": 7.5,
+                    "charter": "LonelyKnight",
+                    "numOfNotes": 303
+                },
+                "IN": {
+                    "rating": 15.9,
+                    "charter": "孤独な騎士 Against 魔王、大咩兔",
+                    "numOfNotes": 1286
+                }
+            }
+        },
         "今天不是明天.PIKASONICfeat兰音Reine.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -5099,6 +5132,99 @@
                 }
             }
         },
+        "Cuvism.Fl00tvsHalv.0": {
+            "chapterCode": "TAKUMI3",
+            "unlockType": 0,
+            "songsName": "Cuvism³",
+            "composer": "Fl00t vs Halv",
+            "illustrator": "sikkari",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 3.5,
+                    "charter": "Rikko",
+                    "numOfNotes": 222
+                },
+                "HD": {
+                    "rating": 12.1,
+                    "charter": "Rikko³ [Normal]",
+                    "numOfNotes": 761
+                },
+                "IN": {
+                    "rating": 13.9,
+                    "charter": "Rikko",
+                    "numOfNotes": 830
+                },
+                "AT": {
+                    "rating": 16.4,
+                    "charter": "JKy vs StrayCat",
+                    "numOfNotes": 1088
+                }
+            }
+        },
+        "iLArtifact.Link0.0": {
+            "chapterCode": "TAKUMI3",
+            "unlockType": 0,
+            "songsName": "iL-Artifact",
+            "composer": "Link''0",
+            "illustrator": "Fl00t",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.5,
+                    "charter": "IUIsauce",
+                    "numOfNotes": 482
+                },
+                "HD": {
+                    "rating": 10.5,
+                    "charter": "IUIsauce",
+                    "numOfNotes": 925
+                },
+                "IN": {
+                    "rating": 15.5,
+                    "charter": "XMT小咩兔 vs 上班睡大觉_Sleepyhead",
+                    "numOfNotes": 1279
+                }
+            }
+        },
+        "atruthseekerCommunicationwithUtopiawillbelost.kuro.0": {
+            "chapterCode": "TAKUMI3",
+            "unlockType": 0,
+            "songsName": "a truth seeker -Communication with Utopia will be lost-",
+            "composer": "kuro",
+            "illustrator": "rokopon",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 7.5,
+                    "charter": "上班睡大觉_Sleepyhead",
+                    "numOfNotes": 328
+                },
+                "HD": {
+                    "rating": 12.8,
+                    "charter": "上班睡大觉_Sleepyhead",
+                    "numOfNotes": 555
+                },
+                "IN": {
+                    "rating": 15.8,
+                    "charter": "-Seek A Lnside Truth-",
+                    "numOfNotes": 986
+                }
+            }
+        },
         "幽世桔梗.Capchiifeatまるもこ.0": {
             "chapterCode": "SHINOBISLASH",
             "unlockType": 0,
@@ -5182,7 +5308,7 @@
                 "IN": {
                     "rating": 15.8,
                     "charter": "Arenn Salty feat. LDA",
-                    "numOfNotes": 886
+                    "numOfNotes": 888
                 }
             }
         },
@@ -6994,5 +7120,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.7.1"
+    "ver": "3.8.0"
 }
