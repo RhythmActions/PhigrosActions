@@ -10,8 +10,25 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@07/12/2024 17:00:00 +8:00"
+                            "prev@08/16/2024 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "暗夜苏醒REANIMATE.Warak.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@08/16/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "君往何处QuoVadis.M2U.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
                         "unlockType": 1,
@@ -1371,7 +1388,7 @@
             "unlockInfo": {
                 "unlockMode": 0,
                 "unlockFlag": "",
-                "unlockTip": "prev@07/26/2024 17:00:00 +8:00",
+                "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
                 "fakeCoverBlurCode": ""
@@ -15981,6 +15998,134 @@
                     }
                 ],
                 "isCnLimited": false
+            },
+            {
+                "songsId": "君往何处QuoVadis.M2U.0",
+                "songsKey": "君往何处 (Quo Vadis)",
+                "songsName": "君往何处 (Quo Vadis)",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    8.6,
+                    14.5,
+                    0.0
+                ],
+                "illustrator": "LRAY",
+                "charter": [
+                    "Where are Ctymax and 阿爽?",
+                    "Where are Ctymax and 阿爽?",
+                    "Salt",
+                    ""
+                ],
+                "composer": "M2U",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 19.437000274658203,
+                "previewEndTime": 43.26599884033203,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false
+            },
+            {
+                "songsId": "暗夜苏醒REANIMATE.Warak.0",
+                "songsKey": "暗夜苏醒 (REANIMATE)",
+                "songsName": "暗夜苏醒 (REANIMATE)",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    12.8,
+                    15.4,
+                    0.0
+                ],
+                "illustrator": "MHK",
+                "charter": [
+                    "Deep Dark Ctymax",
+                    "reanimate_6k_nm.imd",
+                    "StupiGGy -The Startline-",
+                    ""
+                ],
+                "composer": "Warak",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 46.895999908447266,
+                "previewEndTime": 68.96499633789062,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false
             }
         ],
         "sideStorySongs": [
@@ -17086,6 +17231,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "暗夜苏醒 (REANIMATE)",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "君往何处 (Quo Vadis)",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Bounded Quietude",
             "unlockedTimes": 0,
@@ -20700,6 +20857,18 @@
         },
         {
             "keyName": "Bounded Quietude",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "君往何处 (Quo Vadis)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "暗夜苏醒 (REANIMATE)",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
