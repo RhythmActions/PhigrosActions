@@ -10,8 +10,25 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@08/31/2024 17:00:00 +8:00"
+                            "prev@09/20/2024 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "Originally.SNKSMizku.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@09/20/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Thrashforce.KAHvsE0ri4.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Grimheart.Puru.0",
                         "unlockType": 1,
@@ -1413,7 +1430,7 @@
             "unlockInfo": {
                 "unlockMode": 4,
                 "unlockFlag": "MOBILYS.Dachs.0",
-                "unlockTip": "prev@8/31/2024 17:00:00 +8:00",
+                "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
                 "fakeCoverBlurCode": ""
@@ -2247,7 +2264,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "EradicationCatastrophe.NceS.0",
@@ -2311,7 +2333,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Credits.Frums.0",
@@ -2375,7 +2402,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Dlyrotz.Likey.0",
@@ -2439,7 +2471,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "EnginexStartmelodymix.CrossingSound.0",
@@ -2503,7 +2540,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "光.姜米條.0",
@@ -2567,7 +2609,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Wintercube.CtymaxfeatNceS.0",
@@ -2631,7 +2678,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Cipher20.TetrajectoryfeatCtymax.0",
@@ -2695,7 +2747,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "混乱Confusion.OnlyMyBlackScore.0",
@@ -2759,7 +2816,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "FULiAUTOSHOOTER.MYUKKE.0",
@@ -2823,7 +2885,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "HumaN.SOTUI.0",
@@ -2887,7 +2954,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "PRAW.Bluewind.0",
@@ -2951,7 +3023,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "PixelRebelz.Normal1zer.0",
@@ -3015,7 +3092,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Cereris.SunsetRayNceS.0",
@@ -3079,7 +3161,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "NonMelodicRagezMUGEdit.Normal1zer.0",
@@ -3143,7 +3230,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SultanRage.MonstDeath.0",
@@ -3207,7 +3299,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ClassMemories.AntistarfeatCtymax.0",
@@ -3271,7 +3368,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SURREALISM.Itsuki.0",
@@ -3335,7 +3437,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BonusTime.MegaloPaleWhite.0",
@@ -3399,7 +3506,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ENERGYSYNERGYMATRIX.Tanchiky.0",
@@ -3466,7 +3578,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "NYA.FLuoRiTe姜米條.0",
@@ -3530,7 +3647,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0",
@@ -3594,7 +3716,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "cryout.JuE.0",
@@ -3658,7 +3785,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Reimei.影虎.0",
@@ -3722,7 +3854,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "尊師TheGuru.rider.0",
@@ -3786,7 +3923,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Spasmodic.姜米條颶風元力上人.0",
@@ -3856,7 +3998,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "LeaveAllBehind.rider.0",
@@ -3920,7 +4067,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ColorfulDays.P4koofeatつゆり花鈴.0",
@@ -3984,7 +4136,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "microwav.dandeless.0",
@@ -4048,7 +4205,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "重生.姜米條.0",
@@ -4112,7 +4274,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "NOONEYESMAN.MYUKKE.0",
@@ -4176,7 +4343,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "望影の方舟Six.SeURa.0",
@@ -4240,7 +4412,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Igallta.SeURa.0",
@@ -4310,7 +4487,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ClockParadox.WyvernP.0",
@@ -4374,7 +4556,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Chronologika.Hundotte.0",
@@ -4438,7 +4625,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "NickofTime.P4koo.0",
@@ -4502,7 +4694,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Chronomia.Lime.0",
@@ -4566,7 +4763,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ChronosCollapseLaCampanella.SunsetRay.0",
@@ -4630,7 +4832,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Rrharil.TeamGrimoire.0",
@@ -4700,7 +4907,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "CraveWave.LandRoot.0",
@@ -4764,7 +4976,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "TheChariotREVIIVAL.Attoclef.0",
@@ -4828,7 +5045,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Luminescence.米虾Fomiki初云CLoudie.0",
@@ -4892,7 +5114,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Retribution.nmyKryexe.0",
@@ -4956,7 +5183,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DESTRUCTION321.Normal1zervsBrokenNerdz.0",
@@ -5023,7 +5255,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DistortedFate.Sakuzyo.0",
@@ -5090,7 +5327,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "extraSongs": [
@@ -5156,7 +5398,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "もぺもぺ.LeaF.0",
@@ -5220,7 +5467,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "MARENOL.LeaF.0",
@@ -5284,7 +5536,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "萤火虫の怨.闫东炜.0",
@@ -5348,7 +5605,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "万吨匿名信.闫东炜.0",
@@ -5412,7 +5674,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "风屿.闫东炜.0",
@@ -5476,7 +5743,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "dBdoll.YUESTEVENuen.0",
@@ -5540,7 +5812,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Dash.小红Akane李祥辉.0",
@@ -5604,7 +5881,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "云女孩.符白牙SiYFics.0",
@@ -5668,7 +5950,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DropIt.Asuka.0",
@@ -5732,7 +6019,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "RIPPER.Friedwav.0",
@@ -5796,7 +6088,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Aphasia.闫东炜.0",
@@ -5860,7 +6157,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "开心病.闫东炜.0",
@@ -5924,7 +6226,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "華灯爱.闫东炜.0",
@@ -5988,7 +6295,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "FindMe.Kforest.0",
@@ -6052,7 +6364,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0",
@@ -6116,7 +6433,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "狂喜蘭舞.LeaF.0",
@@ -6180,7 +6502,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SparkleNewLife.rider.0",
@@ -6244,7 +6571,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "KhronostasisKatharsis.Halv.0",
@@ -6308,7 +6640,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SnowDesert.WyvernP.0",
@@ -6372,7 +6709,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Burn.NceS.0",
@@ -6436,7 +6778,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Aleph0.LeaF.0",
@@ -6507,7 +6854,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "NextTime.SaMZIng.0",
@@ -6571,7 +6923,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "RubbishSorting.CtymaxvsNceS.0",
@@ -6635,7 +6992,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "AnotherMe.NeutralMoon.0",
@@ -6699,7 +7061,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "mechanted.rareguy.0",
@@ -6763,7 +7130,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "lifeflashesbeforeweebeyes.BilliumMoto.0",
@@ -6827,7 +7199,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BreakThroughTheBarrier.lixound.0",
@@ -6898,7 +7275,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Chronostasis.黒皇帝.0",
@@ -6962,7 +7344,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DeadSoul.SoundSouler.0",
@@ -7026,7 +7413,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "InfinityHeaven.HyuN.0",
@@ -7090,7 +7482,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Disorder.HyuNfeatYURI.0",
@@ -7154,7 +7551,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "CROSSSOUL.HyuNfeatSyepias.0",
@@ -7218,7 +7620,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SpeedUp.DarTokki.0",
@@ -7282,7 +7689,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "MagentaPotion.EmoCo.0",
@@ -7346,7 +7758,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "GetBack.CAP3.0",
@@ -7410,7 +7827,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Palescreen.WyvernPfeatMadol.0",
@@ -7474,7 +7896,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "GOODTEK.EBIMAYO.0",
@@ -7538,7 +7965,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "GOODBOUNCE.EBIMAYO.0",
@@ -7602,7 +8034,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "GOODWORLD.EBIMAYO.0",
@@ -7666,7 +8103,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "GOODFORTUNE.EBIMAYO.0",
@@ -7730,7 +8172,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "GOODRAGE.EBIMAYO.0",
@@ -7794,7 +8241,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "TheMountainEater.PaulBazooka.0",
@@ -7858,7 +8310,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Orthodox.tokiwa.0",
@@ -7922,7 +8379,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "EndMe.ZxNXasDelaina.0",
@@ -7986,7 +8448,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ParallelRetrogressionGameVer.Tetrajectory.0",
@@ -8050,7 +8517,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Starduster.Quree.0",
@@ -8114,7 +8586,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Electron.ElousFZ.0",
@@ -8178,7 +8655,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SIGMA.Kryexe.0",
@@ -8242,7 +8724,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "HardcoreKwaya.EnFr.0",
@@ -8306,7 +8793,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Aventyr.GrandThawRigelTheatre.0",
@@ -8370,7 +8862,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Trane.MALVA.0",
@@ -8434,7 +8931,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "雪降りメリクリ.A39.0",
@@ -8498,7 +9000,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "CervelleConnexion.SCTL.0",
@@ -8562,7 +9069,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "modulus.PTB10.0",
@@ -8626,7 +9138,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Wavetapper.Frums.0",
@@ -8690,7 +9207,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "大和撫子WildDances.adapatorvsDRIVE.0",
@@ -8754,7 +9276,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Eltaw.Fl00t.0",
@@ -8818,7 +9345,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Initialize.iF.0",
@@ -8882,7 +9414,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "桜樹街道.kozatosnow.0",
@@ -8946,7 +9483,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "GetReady.iF.0",
@@ -9010,7 +9552,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "volcanic.DETROakaルゼ.0",
@@ -9074,7 +9621,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BetterGraphicAnimation.ルゼ.0",
@@ -9138,7 +9690,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "XING.ginkiha.0",
@@ -9202,7 +9759,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "FinalStep.Lime.0",
@@ -9266,7 +9828,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Cthugha.USAO.0",
@@ -9330,7 +9897,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "WithYou.Cashew.0",
@@ -9394,7 +9966,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "UnorthodoxThoughts.Joulez.0",
@@ -9458,7 +10035,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Apocalyptic.ZClaxxSumaiLight.0",
@@ -9522,7 +10104,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "游园地.椒盐菠萝.0",
@@ -9586,7 +10173,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "energytrixxx.KAH.0",
@@ -9650,7 +10242,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Nhelv.Silentroom.0",
@@ -9714,7 +10311,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Arkhei.SeraAmagi.0",
@@ -9778,7 +10380,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Kerberos.Zris.0",
@@ -9842,7 +10449,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "parsey.siqlo.0",
@@ -9906,7 +10518,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Concvssion.Halv.0",
@@ -9970,7 +10587,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ジングルベルJingleBell.A39沙包P.0",
@@ -10034,7 +10656,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0",
@@ -10098,7 +10725,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "HAZARD.Limpid.0",
@@ -10162,7 +10794,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "AnotherMe.DAAN.0",
@@ -10226,7 +10863,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DontNeverAround.HAMA.0",
@@ -10290,7 +10932,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "RESSiSTANCE.ぐるたみん.0",
@@ -10354,7 +11001,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Dreamland.z1onkyrrin.0",
@@ -10418,7 +11070,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "AnotherRound.JustinDai.0",
@@ -10482,7 +11139,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "996.李化禹.0",
@@ -10546,7 +11208,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "FutureMind.RayNauticaRekuMochizuki.0",
@@ -10610,7 +11277,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Luminescent.Daison.0",
@@ -10674,7 +11346,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "FULiAUTOBUSTER.MYUKKE.0",
@@ -10738,7 +11415,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "IMustSayNo.TangJuan.0",
@@ -10802,7 +11484,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "opia.rN.0",
@@ -10866,7 +11553,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Apocalypse.アリスシャッハと魔法の楽団.0",
@@ -10930,7 +11622,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Protoflicker.Silentroom.0",
@@ -10994,7 +11691,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0",
@@ -11058,7 +11760,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "YouaretheMiserable.tpazolite.0",
@@ -11127,7 +11834,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Stasis.Maozon.0",
@@ -11194,7 +11906,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "いざ参ります.Uskefeat棗いつき.0",
@@ -11258,7 +11975,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "月下缭乱.月見静華vsLUNARiUM.0",
@@ -11322,7 +12044,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "OnAndOn.ETIAfeatJenga.0",
@@ -11386,7 +12113,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DataErr0r.Cosmograph.0",
@@ -11450,7 +12182,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Shadow.SumaiLightvs姜米條.0",
@@ -11518,7 +12255,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "心之所向.姜米條.0",
@@ -11582,7 +12324,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "inferior.姜米條.0",
@@ -11646,7 +12393,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "csqn.Aoi.0",
@@ -11710,7 +12462,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BraveNotes.TurquoiseDRIVENota.0",
@@ -11774,7 +12531,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "盏茗.茶鸣拾贰律.0",
@@ -11838,7 +12600,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "青芽.茶鸣拾贰律.0",
@@ -11902,7 +12669,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "EternalSnow.AbyssIdols.0",
@@ -11966,7 +12738,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "RainySeason.AbyssIdols.0",
@@ -12030,7 +12807,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ElCondorPasaPhigrosEdit.PlasticFruits.0",
@@ -12094,7 +12876,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BreakOver.Kforest.0",
@@ -12158,7 +12945,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0",
@@ -12222,7 +13014,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Pontdessouvenirs.VeetaCrushvsitsufeatitsu.0",
@@ -12286,7 +13083,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "青丘.BLACK0.0",
@@ -12350,7 +13152,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "瓷岁.茶鸣拾贰律.0",
@@ -12414,7 +13221,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Feast远东之宴.茶鸣拾贰律.0",
@@ -12478,7 +13290,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "インフェルノシティ.Ponchifeatはぁち.0",
@@ -12542,7 +13359,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Upshift.Iriss-Frantzz.0",
@@ -12606,7 +13428,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "PoisonANDORAffection.LeaF.0",
@@ -12670,7 +13497,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Random.SobremSilentroom.0",
@@ -12734,7 +13566,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "零號車輛.seatrus.0",
@@ -12798,7 +13635,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "NowIsTheTimeDoIt.RoyMikelate.0",
@@ -12862,7 +13704,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Bougainvillea.Jade.0",
@@ -12926,7 +13773,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "神話.PicaM2U.0",
@@ -12990,7 +13842,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Elúltimobaile.Θ.0",
@@ -13054,7 +13911,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Trojan.litmus.0",
@@ -13118,7 +13980,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "TemporalShifting.LureRabbitVC.0",
@@ -13182,7 +14049,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Adastraperaspera.RabbitHouse.0",
@@ -13246,7 +14118,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Ajourneytothemoonlight.Yesod.0",
@@ -13310,7 +14187,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "RainyHeart.BelieverInYou阿卡姆巫师.0",
@@ -13374,7 +14256,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Realms.HinkikAHimitsu.0",
@@ -13438,7 +14325,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
@@ -13502,7 +14394,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "TriumphRegret.typeMARS.0",
@@ -13566,7 +14463,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SATELLITE.かめりあ.0",
@@ -13632,7 +14534,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DancewithSilence.かめりあ.0",
@@ -13696,7 +14603,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "LabyrinthinKowloonWalledWorld.かめりあ.0",
@@ -13760,7 +14672,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
@@ -13824,7 +14741,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ERABYECONNEC10N.かめりあ.0",
@@ -13888,7 +14810,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DiamondEyes.SYNTHETIC.0",
@@ -13952,7 +14879,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Bitterblossom.imvi.0",
@@ -14016,7 +14948,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
@@ -14080,7 +15017,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "FracturedAngel.DJRaisei.0",
@@ -14144,7 +15086,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "JourneywithYou.Iris.0",
@@ -14208,7 +15155,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "SecretIllumination.Yooh.0",
@@ -14272,7 +15224,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "InvertedWorld.ARForest.0",
@@ -14336,7 +15293,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "月詠に鳴る.Feryquitousfeat藍月なくる.0",
@@ -14400,7 +15362,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
@@ -14464,7 +15431,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
@@ -14528,7 +15500,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "bye.DingerBox.0",
@@ -14592,7 +15569,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "聖夜讃歌.A39沙包P.0",
@@ -14656,7 +15638,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ストレイソウルアラウンド.みーに.0",
@@ -14720,7 +15707,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ManifoldHypothesis.cybermisofeattigerlily.0",
@@ -14784,7 +15776,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "KMoeVIP.ZxNX.0",
@@ -14848,7 +15845,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
@@ -14912,7 +15914,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "CrushBETA.shadow_bling.0",
@@ -14976,7 +15983,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0",
@@ -15040,7 +16052,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BRAINHACKER.SOMON.0",
@@ -15104,7 +16121,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Xenolith.Tatsh.0",
@@ -15168,7 +16190,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ArtificialExistence.JunKuroda.0",
@@ -15232,7 +16259,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "IndelibleScar.Noah.0",
@@ -15296,7 +16328,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Antithese.Blacklolita.0",
@@ -15360,7 +16397,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "PRAGMATISMRESURRECTION.Laur.0",
@@ -15424,7 +16466,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ShineAfter.ADeanJocularACE.0",
@@ -15488,7 +16535,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Bloom.targ麻团qwq.0",
@@ -15552,7 +16604,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "幽世桔梗.Capchiifeatまるもこ.0",
@@ -15616,7 +16673,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "千紫万紅.r0yvsWABI.0",
@@ -15680,7 +16742,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "明鏡烈火.MUEvsRekuMochizuki.0",
@@ -15744,7 +16811,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "今天不是明天.PIKASONICfeat兰音Reine.0",
@@ -15808,7 +16880,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Cuvism.Fl00tvsHalv.0",
@@ -15876,7 +16953,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "iLArtifact.Link0.0",
@@ -15940,7 +17022,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
@@ -16004,7 +17091,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "BoundedQuietude.FiniteLimitvsSiLiS.0",
@@ -16068,7 +17160,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "君往何处QuoVadis.M2U.0",
@@ -16132,7 +17229,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "暗夜苏醒REANIMATE.Warak.0",
@@ -16196,7 +17298,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Grimheart.Puru.0",
@@ -16260,7 +17367,150 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Thrashforce.KAHvsE0ri4.0",
+                "songsKey": "Thrash force",
+                "songsName": "Thrash force",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    10.7,
+                    15.2,
+                    0.0
+                ],
+                "illustrator": "自動車 原付 vs. GAMEBAKA",
+                "charter": [
+                    "thrAsh forSe",
+                    "thrAsh forSe",
+                    "Uvernight & Su1fuR",
+                    ""
+                ],
+                "composer": "KAH vs. E0ri4",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 102.6240005493164,
+                "previewEndTime": 123.80000305175781,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Originally.SNKSMizku.0",
+                "songsKey": "Originally",
+                "songsName": "Originally",
+                "songsTitle": "",
+                "difficulty": [
+                    1.0,
+                    9.3,
+                    14.5,
+                    0.0
+                ],
+                "illustrator": "Keiby.comics",
+                "charter": [
+                    "StR-1",
+                    "StR-9",
+                    "StrayCat",
+                    ""
+                ],
+                "composer": "SNKS & Mizku",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 30.200000762939453,
+                "previewEndTime": 51.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -16326,7 +17576,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "WATER.A39沙包P.0",
@@ -16390,7 +17645,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "MiracleForestVIPMix.Rinthlive.0",
@@ -16458,7 +17718,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "MOBILYS.Dachs.0",
@@ -16522,7 +17787,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Lyrith迷宮リリス.ユメミド.0",
@@ -16589,7 +17859,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Demiurge.Rabpit.0",
@@ -16653,7 +17928,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Demonkin.ForgedReigns.0",
@@ -16717,7 +17997,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Re_NascencePsystyleVer.Rinth_live.0",
@@ -16781,7 +18066,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Ark.kanoryo.0",
@@ -16845,7 +18135,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "AfterDawn.S9ryne.0",
@@ -16909,7 +18204,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "INFiNiTEENERZYOverdoze.RekuMochizuki.0",
@@ -16973,7 +18273,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Khalid.Dolphin.0",
@@ -17037,7 +18342,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "QuantumHyperspace.D_AAN.0",
@@ -17101,7 +18411,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0",
@@ -17165,7 +18480,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "PANICPARADISE.DJSHIONY.0",
@@ -17229,7 +18549,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ReEndofaDream.umavsモリモリあつし.0",
@@ -17293,7 +18618,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "心の記憶.A39沙包P.0",
@@ -17357,7 +18687,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Spotlight.Ardolf.0",
@@ -17421,7 +18756,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "NightTheater.わかどり.0",
@@ -17485,7 +18825,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "Ramification.rareguyReina.0",
@@ -17549,7 +18894,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "DerRichter.Ωμεγα.0",
@@ -17613,7 +18963,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             },
             {
                 "songsId": "ATHAZA.LeaF.0",
@@ -17677,7 +19032,12 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "otherSongs": [
@@ -17745,11 +19105,28 @@
                         "levelMods": []
                     }
                 ],
-                "isCnLimited": false
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Originally",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Thrash force",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Grimheart",
             "unlockedTimes": 0,
@@ -21442,6 +22819,18 @@
         },
         {
             "keyName": "Grimheart",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Thrash force",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Originally",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "Originally.SNKSMizku.0",
+        "Thrashforce.KAHvsE0ri4.0",
         "Grimheart.Puru.0",
         "暗夜苏醒REANIMATE.Warak.0",
         "君往何处QuoVadis.M2U.0",
@@ -243,6 +245,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "Originally.SNKSMizku.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Originally",
+            "composer": "SNKS & Mizku",
+            "illustrator": "Keiby.comics",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 1.0,
+                    "charter": "StR-1",
+                    "numOfNotes": 136
+                },
+                "HD": {
+                    "rating": 9.3,
+                    "charter": "StR-9",
+                    "numOfNotes": 453
+                },
+                "IN": {
+                    "rating": 14.5,
+                    "charter": "StrayCat",
+                    "numOfNotes": 951
+                }
+            }
+        },
+        "Thrashforce.KAHvsE0ri4.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Thrash force",
+            "composer": "KAH vs. E0ri4",
+            "illustrator": "自動車 原付 vs. GAMEBAKA",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "thrAsh forSe",
+                    "numOfNotes": 219
+                },
+                "HD": {
+                    "rating": 10.7,
+                    "charter": "thrAsh forSe",
+                    "numOfNotes": 673
+                },
+                "IN": {
+                    "rating": 15.2,
+                    "charter": "Uvernight & Su1fuR",
+                    "numOfNotes": 884
+                }
+            }
+        },
         "Grimheart.Puru.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -7432,5 +7492,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.9.1"
+    "ver": "3.9.2"
 }
