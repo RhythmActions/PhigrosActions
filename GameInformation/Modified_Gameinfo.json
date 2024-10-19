@@ -3,8 +3,6 @@
         "Originally.SNKSMizku.0",
         "Thrashforce.KAHvsE0ri4.0",
         "Grimheart.Puru.0",
-        "暗夜苏醒REANIMATE.Warak.0",
-        "君往何处QuoVadis.M2U.0",
         "BoundedQuietude.FiniteLimitvsSiLiS.0",
         "今天不是明天.PIKASONICfeat兰音Reine.0",
         "Bloom.targ麻团qwq.0",
@@ -176,6 +174,11 @@
         "Ramification.rareguyReina.0",
         "DerRichter.Ωμεγα.0",
         "ATHAZA.LeaF.0",
+        "君往何处QuoVadis.M2U.0",
+        "暗夜苏醒REANIMATE.Warak.0",
+        "黄金之城GOLDTOWN.Memme.0",
+        "双重间谍DoubleAgent.WAVAV.0",
+        "幻影鬼魅PLEASE.R300K.0",
         "Cuvism.Fl00tvsHalv.0",
         "iLArtifact.Link0.0",
         "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
@@ -329,64 +332,6 @@
                     "rating": 13.8,
                     "charter": "WhiteCat.",
                     "numOfNotes": 577
-                }
-            }
-        },
-        "暗夜苏醒REANIMATE.Warak.0": {
-            "chapterCode": "Single",
-            "unlockType": 1,
-            "songsName": "暗夜苏醒 (REANIMATE)",
-            "composer": "Warak",
-            "illustrator": "MHK",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN"
-                ],
-                "EZ": {
-                    "rating": 5.0,
-                    "charter": "Deep Dark Ctymax",
-                    "numOfNotes": 236
-                },
-                "HD": {
-                    "rating": 12.8,
-                    "charter": "reanimate_6k_nm.imd",
-                    "numOfNotes": 842
-                },
-                "IN": {
-                    "rating": 15.4,
-                    "charter": "StupiGGy -The Startline-",
-                    "numOfNotes": 1262
-                }
-            }
-        },
-        "君往何处QuoVadis.M2U.0": {
-            "chapterCode": "Single",
-            "unlockType": 1,
-            "songsName": "君往何处 (Quo Vadis)",
-            "composer": "M2U",
-            "illustrator": "LRAY",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN"
-                ],
-                "EZ": {
-                    "rating": 4.0,
-                    "charter": "Where are Ctymax and 阿爽?",
-                    "numOfNotes": 208
-                },
-                "HD": {
-                    "rating": 8.6,
-                    "charter": "Where are Ctymax and 阿爽?",
-                    "numOfNotes": 390
-                },
-                "IN": {
-                    "rating": 14.5,
-                    "charter": "Salt",
-                    "numOfNotes": 935
                 }
             }
         },
@@ -5469,6 +5414,157 @@
                 }
             }
         },
+        "君往何处QuoVadis.M2U.0": {
+            "chapterCode": "RhythmMaster",
+            "unlockType": 0,
+            "songsName": "君往何处 (Quo Vadis)",
+            "composer": "M2U",
+            "illustrator": "LRAY (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Where are Ctymax and 阿爽?",
+                    "numOfNotes": 208
+                },
+                "HD": {
+                    "rating": 8.6,
+                    "charter": "Where are Ctymax and 阿爽?",
+                    "numOfNotes": 390
+                },
+                "IN": {
+                    "rating": 14.5,
+                    "charter": "Salt",
+                    "numOfNotes": 935
+                }
+            }
+        },
+        "暗夜苏醒REANIMATE.Warak.0": {
+            "chapterCode": "RhythmMaster",
+            "unlockType": 0,
+            "songsName": "暗夜苏醒 (REANIMATE)",
+            "composer": "Warak",
+            "illustrator": "MHK (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Deep Dark Ctymax",
+                    "numOfNotes": 236
+                },
+                "HD": {
+                    "rating": 12.8,
+                    "charter": "reanimate_6k_nm.imd",
+                    "numOfNotes": 842
+                },
+                "IN": {
+                    "rating": 15.4,
+                    "charter": "StupiGGy -The Startline-",
+                    "numOfNotes": 1262
+                }
+            }
+        },
+        "黄金之城GOLDTOWN.Memme.0": {
+            "chapterCode": "RhythmMaster",
+            "unlockType": 0,
+            "songsName": "黄金之城 (GOLD TOWN)",
+            "composer": "MEMME",
+            "illustrator": "RM Design Team (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 2.0,
+                    "charter": "Passport:Visitor",
+                    "numOfNotes": 90
+                },
+                "HD": {
+                    "rating": 10.2,
+                    "charter": "Passport:Constructor",
+                    "numOfNotes": 408
+                },
+                "IN": {
+                    "rating": 14.8,
+                    "charter": "Passport:Governor",
+                    "numOfNotes": 857
+                }
+            }
+        },
+        "双重间谍DoubleAgent.WAVAV.0": {
+            "chapterCode": "RhythmMaster",
+            "unlockType": 0,
+            "songsName": "双重间谍 (Double Agent)",
+            "composer": "Wav.AV",
+            "illustrator": "RM Design Team (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "穿山甲-1",
+                    "numOfNotes": 346
+                },
+                "HD": {
+                    "rating": 11.8,
+                    "charter": "StupiGGy",
+                    "numOfNotes": 738
+                },
+                "IN": {
+                    "rating": 15.5,
+                    "charter": "Spy-Simon_Axis | Spy-騎士",
+                    "numOfNotes": 1353
+                }
+            }
+        },
+        "幻影鬼魅PLEASE.R300K.0": {
+            "chapterCode": "RhythmMaster",
+            "unlockType": 0,
+            "songsName": "幻影鬼魅 (PLEASE)",
+            "composer": "R300K",
+            "illustrator": "RM Design Team (青鸟 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 5.5,
+                    "charter": "COC",
+                    "numOfNotes": 283
+                },
+                "HD": {
+                    "rating": 9.6,
+                    "charter": "COC",
+                    "numOfNotes": 639
+                },
+                "IN": {
+                    "rating": 15.1,
+                    "charter": "M3d1uM",
+                    "numOfNotes": 1080
+                },
+                "AT": {
+                    "rating": 16.4,
+                    "charter": "imd visual charter \"Rikko\" since 2014",
+                    "numOfNotes": 1145
+                }
+            }
+        },
         "Cuvism.Fl00tvsHalv.0": {
             "chapterCode": "TAKUMI3",
             "unlockType": 0,
@@ -7492,5 +7588,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.9.2"
+    "ver": "3.10.0"
 }

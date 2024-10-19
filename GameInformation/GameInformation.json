@@ -8,20 +8,14 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@09/20/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Originally.SNKSMizku.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@09/20/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Thrashforce.KAHvsE0ri4.0",
                         "unlockType": 1,
@@ -31,20 +25,6 @@
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Grimheart.Puru.0",
-                        "unlockType": 1,
-                        "secretType": 0
-                    },
-                    {
-                        "unlockInfo": [],
-                        "secretInfo": [],
-                        "songsId": "暗夜苏醒REANIMATE.Warak.0",
-                        "unlockType": 1,
-                        "secretType": 0
-                    },
-                    {
-                        "unlockInfo": [],
-                        "secretInfo": [],
-                        "songsId": "君往何处QuoVadis.M2U.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
@@ -1430,6 +1410,59 @@
             "unlockInfo": {
                 "unlockMode": 4,
                 "unlockFlag": "MOBILYS.Dachs.0",
+                "unlockTip": "",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
+            "chapterCode": "RhythmMaster",
+            "songInfo": {
+                "title": "\\ChapterRhythmMasterTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "节奏大师",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "君往何处QuoVadis.M2U.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "暗夜苏醒REANIMATE.Warak.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "黄金之城GOLDTOWN.Memme.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "双重间谍DoubleAgent.WAVAV.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "幻影鬼魅PLEASE.R300K.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
                 "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
@@ -17178,7 +17211,7 @@
                     14.5,
                     0.0
                 ],
-                "illustrator": "LRAY",
+                "illustrator": "LRAY (青鸟 modified)",
                 "charter": [
                     "Where are Ctymax and 阿爽?",
                     "Where are Ctymax and 阿爽?",
@@ -17247,7 +17280,7 @@
                     15.4,
                     0.0
                 ],
-                "illustrator": "MHK",
+                "illustrator": "MHK (青鸟 modified)",
                 "charter": [
                     "Deep Dark Ctymax",
                     "reanimate_6k_nm.imd",
@@ -17470,6 +17503,213 @@
                 ],
                 "previewTime": 30.200000762939453,
                 "previewEndTime": 51.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "黄金之城GOLDTOWN.Memme.0",
+                "songsKey": "黄金之城 (GOLD TOWN)",
+                "songsName": "黄金之城 (GOLD TOWN)",
+                "songsTitle": "",
+                "difficulty": [
+                    2.0,
+                    10.2,
+                    14.8,
+                    0.0
+                ],
+                "illustrator": "RM Design Team (青鸟 modified)",
+                "charter": [
+                    "Passport:Visitor",
+                    "Passport:Constructor",
+                    "Passport:Governor",
+                    ""
+                ],
+                "composer": "MEMME",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 35.8120002746582,
+                "previewEndTime": 51.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "双重间谍DoubleAgent.WAVAV.0",
+                "songsKey": "双重间谍 (Double Agent)",
+                "songsName": "双重间谍 (Double Agent)",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    11.8,
+                    15.5,
+                    0.0
+                ],
+                "illustrator": "RM Design Team (青鸟 modified)",
+                "charter": [
+                    "穿山甲-1",
+                    "StupiGGy",
+                    "Spy-Simon_Axis | Spy-騎士",
+                    ""
+                ],
+                "composer": "Wav.AV",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 74.0,
+                "previewEndTime": 86.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "幻影鬼魅PLEASE.R300K.0",
+                "songsKey": "幻影鬼魅 (PLEASE)",
+                "songsName": "幻影鬼魅 (PLEASE)",
+                "songsTitle": "",
+                "difficulty": [
+                    5.5,
+                    9.6,
+                    15.1,
+                    16.4
+                ],
+                "illustrator": "RM Design Team (青鸟 modified)",
+                "charter": [
+                    "COC",
+                    "COC",
+                    "M3d1uM",
+                    "imd visual charter \"Rikko\" since 2014"
+                ],
+                "composer": "R300K",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 61.11800003051758,
+                "previewEndTime": 81.98699951171875,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -19134,18 +19374,6 @@
             "unlockTimes": 1
         },
         {
-            "keyName": "暗夜苏醒 (REANIMATE)",
-            "unlockedTimes": 0,
-            "kindOfKey": 0,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "君往何处 (Quo Vadis)",
-            "unlockedTimes": 0,
-            "kindOfKey": 0,
-            "unlockTimes": 1
-        },
-        {
             "keyName": "Bounded Quietude",
             "unlockedTimes": 0,
             "kindOfKey": 0,
@@ -20565,7 +20793,7 @@
             "keyName": "jiejiwarofrainbow",
             "unlockedTimes": 0,
             "kindOfKey": 1,
-            "unlockTimes": 3
+            "unlockTimes": 6
         },
         {
             "keyName": "mirrormirror",
@@ -21183,7 +21411,7 @@
             "keyName": "NeonLED",
             "unlockedTimes": 0,
             "kindOfKey": 1,
-            "unlockTimes": 1
+            "unlockTimes": 2
         },
         {
             "keyName": "xiusiyangjiaochui",
@@ -21205,6 +21433,36 @@
         },
         {
             "keyName": "zhixian33",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian32",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian30",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "zhixian34",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "huanmeng1",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "huanmeng2",
             "unlockedTimes": 0,
             "kindOfKey": 1,
             "unlockTimes": 1
@@ -21303,7 +21561,7 @@
             "keyName": "liangzitbzz",
             "unlockedTimes": 0,
             "kindOfKey": 1,
-            "unlockTimes": 3
+            "unlockTimes": 5
         },
         {
             "keyName": "miaomiaocha",
@@ -21321,7 +21579,7 @@
             "keyName": "beardoll",
             "unlockedTimes": 0,
             "kindOfKey": 1,
-            "unlockTimes": 3
+            "unlockTimes": 5
         },
         {
             "keyName": "lokiworld",
@@ -21373,6 +21631,66 @@
         },
         {
             "keyName": "investigatewuxiang",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "rainbowawakening",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "testimonial",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 4
+        },
+        {
+            "keyName": "canvas",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "doorplate",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 3
+        },
+        {
+            "keyName": "earphone",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 5
+        },
+        {
+            "keyName": "heiyuelog",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 5
+        },
+        {
+            "keyName": "jixiegloves",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 5
+        },
+        {
+            "keyName": "jiankongwang",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "fanpanzhuzai",
+            "unlockedTimes": 0,
+            "kindOfKey": 1,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "heidianshaonv",
             "unlockedTimes": 0,
             "kindOfKey": 1,
             "unlockTimes": 1
@@ -22831,6 +23149,24 @@
         },
         {
             "keyName": "Originally",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "黄金之城 (GOLD TOWN)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "双重间谍 (Double Agent)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "幻影鬼魅 (PLEASE)",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
