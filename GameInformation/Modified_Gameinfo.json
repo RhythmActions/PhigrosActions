@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "Letempsperdu.Daison.0",
+        "Schadenfreude.ZxNX.0",
         "Originally.SNKSMizku.0",
         "Thrashforce.KAHvsE0ri4.0",
         "Grimheart.Puru.0",
@@ -248,6 +250,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "Letempsperdu.Daison.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Le temps perdu",
+            "composer": "Daison",
+            "illustrator": "子狼",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Salt",
+                    "numOfNotes": 262
+                },
+                "HD": {
+                    "rating": 9.3,
+                    "charter": "Salt",
+                    "numOfNotes": 588
+                },
+                "IN": {
+                    "rating": 12.5,
+                    "charter": "Likey -For an old friend-",
+                    "numOfNotes": 698
+                }
+            }
+        },
+        "Schadenfreude.ZxNX.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Schadenfreude",
+            "composer": "ZxNX",
+            "illustrator": "验光蒸鱼",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "StuRmwind",
+                    "numOfNotes": 351
+                },
+                "HD": {
+                    "rating": 11.1,
+                    "charter": "StuRmfeuer",
+                    "numOfNotes": 600
+                },
+                "IN": {
+                    "rating": 15.2,
+                    "charter": "''-1''",
+                    "numOfNotes": 1257
+                }
+            }
+        },
         "Originally.SNKSMizku.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -7588,5 +7648,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.10.0"
+    "ver": "3.10.1"
 }

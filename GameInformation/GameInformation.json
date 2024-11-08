@@ -8,6 +8,26 @@
                 "banner": "Single",
                 "songs": [
                     {
+                        "unlockInfo": [
+                            "4",
+                            "prev@11/08/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Letempsperdu.Daison.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@11/08/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Schadenfreude.ZxNX.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Originally.SNKSMizku.0",
@@ -17751,6 +17771,144 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "Schadenfreude.ZxNX.0",
+                "songsKey": "Schadenfreude",
+                "songsName": "Schadenfreude",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    11.1,
+                    15.2,
+                    0.0
+                ],
+                "illustrator": "验光蒸鱼",
+                "charter": [
+                    "StuRmwind",
+                    "StuRmfeuer",
+                    "''-1''",
+                    ""
+                ],
+                "composer": "ZxNX",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 126.0,
+                "previewEndTime": 142.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Letempsperdu.Daison.0",
+                "songsKey": "Le temps perdu",
+                "songsName": "Le temps perdu",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    9.3,
+                    12.5,
+                    0.0
+                ],
+                "illustrator": "子狼",
+                "charter": [
+                    "Salt",
+                    "Salt",
+                    "Likey -For an old friend-",
+                    ""
+                ],
+                "composer": "Daison",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 41.0,
+                "previewEndTime": 58.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -19355,6 +19513,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Le temps perdu",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Schadenfreude",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Originally",
             "unlockedTimes": 0,
@@ -23167,6 +23337,18 @@
         },
         {
             "keyName": "幻影鬼魅 (PLEASE)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Schadenfreude",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Le temps perdu",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
