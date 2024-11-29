@@ -10,18 +10,42 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@11/08/2024 17:00:00 +8:00"
+                            "prev@11/29/2024 17:00:00 +8:00"
                         ],
                         "secretInfo": [],
-                        "songsId": "Letempsperdu.Daison.0",
+                        "songsId": "CometFeat符白牙.CNHKSS.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@11/08/2024 17:00:00 +8:00"
+                            "prev@11/29/2024 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "valorstarcross.LundyvsWyvren.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@11/29/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "FixationsTowardtheStars.Foodbot.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "Letempsperdu.Daison.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Schadenfreude.ZxNX.0",
                         "unlockType": 1,
@@ -17848,7 +17872,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    9.3,
+                    9.1,
                     12.5,
                     0.0
                 ],
@@ -17868,6 +17892,213 @@
                 ],
                 "previewTime": 41.0,
                 "previewEndTime": 58.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "FixationsTowardtheStars.Foodbot.0",
+                "songsKey": "Fixations Toward the Stars",
+                "songsName": "Fixations Toward the Stars",
+                "songsTitle": "",
+                "difficulty": [
+                    3.5,
+                    10.8,
+                    14.5,
+                    0.0
+                ],
+                "illustrator": "AriaL [edited by Stelli]",
+                "charter": [
+                    "Salt",
+                    "OPENING/Level R",
+                    "Salt",
+                    ""
+                ],
+                "composer": "Foodbot",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 102.0,
+                "previewEndTime": 127.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "valorstarcross.LundyvsWyvren.0",
+                "songsKey": "valor/starcross",
+                "songsName": "valor/starcross",
+                "songsTitle": "",
+                "difficulty": [
+                    6.5,
+                    12.6,
+                    15.6,
+                    0.0
+                ],
+                "illustrator": "AriaL & 57_dayo [edited by Stelli]",
+                "charter": [
+                    "vacant/stupiggy",
+                    "vacant/stupiggy",
+                    "vesper/straycat",
+                    ""
+                ],
+                "composer": "Lundy vs. Wyvren",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 111.0999984741211,
+                "previewEndTime": 132.9499969482422,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "CometFeat符白牙.CNHKSS.0",
+                "songsKey": "Comet",
+                "songsName": "Comet",
+                "songsTitle": "",
+                "difficulty": [
+                    3.0,
+                    10.5,
+                    13.7,
+                    0.0
+                ],
+                "illustrator": "小黄鸡叽叽叽叽叽叽修复中",
+                "charter": [
+                    "StaR-1",
+                    "無彩色",
+                    "Likey & Barbarianerman",
+                    ""
+                ],
+                "composer": "CNHKSS feat. 符白牙",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 77.5,
+                "previewEndTime": 89.0,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -19513,6 +19744,24 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Comet",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "valor/starcross",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Fixations Toward the Stars",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Le temps perdu",
             "unlockedTimes": 0,
@@ -23349,6 +23598,24 @@
         },
         {
             "keyName": "Le temps perdu",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Fixations Toward the Stars",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "valor/starcross",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Comet",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

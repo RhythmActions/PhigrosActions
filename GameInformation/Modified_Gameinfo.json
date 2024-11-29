@@ -1,5 +1,8 @@
 {
     "allSongs": [
+        "CometFeat符白牙.CNHKSS.0",
+        "valorstarcross.LundyvsWyvren.0",
+        "FixationsTowardtheStars.Foodbot.0",
         "Letempsperdu.Daison.0",
         "Schadenfreude.ZxNX.0",
         "Originally.SNKSMizku.0",
@@ -250,6 +253,93 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "CometFeat符白牙.CNHKSS.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Comet",
+            "composer": "CNHKSS feat. 符白牙",
+            "illustrator": "小黄鸡叽叽叽叽叽叽修复中",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.0,
+                    "charter": "StaR-1",
+                    "numOfNotes": 138
+                },
+                "HD": {
+                    "rating": 10.5,
+                    "charter": "無彩色",
+                    "numOfNotes": 752
+                },
+                "IN": {
+                    "rating": 13.7,
+                    "charter": "Likey & Barbarianerman",
+                    "numOfNotes": 874
+                }
+            }
+        },
+        "valorstarcross.LundyvsWyvren.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "valor/starcross",
+            "composer": "Lundy vs. Wyvren",
+            "illustrator": "AriaL & 57_dayo [edited by Stelli]",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 6.5,
+                    "charter": "vacant/stupiggy",
+                    "numOfNotes": 479
+                },
+                "HD": {
+                    "rating": 12.6,
+                    "charter": "vacant/stupiggy",
+                    "numOfNotes": 835
+                },
+                "IN": {
+                    "rating": 15.6,
+                    "charter": "vesper/straycat",
+                    "numOfNotes": 1083
+                }
+            }
+        },
+        "FixationsTowardtheStars.Foodbot.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Fixations Toward the Stars",
+            "composer": "Foodbot",
+            "illustrator": "AriaL [edited by Stelli]",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.5,
+                    "charter": "Salt",
+                    "numOfNotes": 193
+                },
+                "HD": {
+                    "rating": 10.8,
+                    "charter": "OPENING/Level R",
+                    "numOfNotes": 491
+                },
+                "IN": {
+                    "rating": 14.5,
+                    "charter": "Salt",
+                    "numOfNotes": 835
+                }
+            }
+        },
         "Letempsperdu.Daison.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -268,7 +358,7 @@
                     "numOfNotes": 262
                 },
                 "HD": {
-                    "rating": 9.3,
+                    "rating": 9.1,
                     "charter": "Salt",
                     "numOfNotes": 588
                 },
@@ -7648,5 +7738,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.10.1"
+    "ver": "3.10.2"
 }
