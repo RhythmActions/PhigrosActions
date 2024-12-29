@@ -1,5 +1,8 @@
 {
     "allSongs": [
+        "KirakiraNoelStory.RekuMochizuki.0",
+        "Devotion.Connexio.0",
+        "白と黒のバケモノ.テヅカ.0",
         "CometFeat符白牙.CNHKSS.0",
         "valorstarcross.LundyvsWyvren.0",
         "FixationsTowardtheStars.Foodbot.0",
@@ -253,6 +256,93 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "KirakiraNoelStory.RekuMochizuki.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Kirakira Noel Story!!",
+            "composer": "Reku Mochizuki",
+            "illustrator": "ナナシ",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "村头村头 CTY Story!!",
+                    "numOfNotes": 268
+                },
+                "HD": {
+                    "rating": 10.2,
+                    "charter": "头鱼头鱼 MAX Story!!",
+                    "numOfNotes": 626
+                },
+                "IN": {
+                    "rating": 14.2,
+                    "charter": "N\\erry Xmas 2024",
+                    "numOfNotes": 935
+                }
+            }
+        },
+        "Devotion.Connexio.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Devotion",
+            "composer": "Connexio",
+            "illustrator": "Shimoruchiko",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "StupiGGy",
+                    "numOfNotes": 317
+                },
+                "HD": {
+                    "rating": 9.8,
+                    "charter": "StupiGGy",
+                    "numOfNotes": 657
+                },
+                "IN": {
+                    "rating": 13.9,
+                    "charter": "Salt",
+                    "numOfNotes": 793
+                }
+            }
+        },
+        "白と黒のバケモノ.テヅカ.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "白と黒のバケモノ",
+            "composer": "テヅカ",
+            "illustrator": "久世",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "白",
+                    "numOfNotes": 231
+                },
+                "HD": {
+                    "rating": 11.4,
+                    "charter": "monochrome ILLUSION",
+                    "numOfNotes": 914
+                },
+                "IN": {
+                    "rating": 15.7,
+                    "charter": "Simon_Axis",
+                    "numOfNotes": 1197
+                }
+            }
+        },
         "CometFeat符白牙.CNHKSS.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -7738,5 +7828,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.10.2"
+    "ver": "3.10.3"
 }

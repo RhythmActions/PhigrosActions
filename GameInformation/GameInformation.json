@@ -10,7 +10,36 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@11/29/2024 17:00:00 +8:00"
+                            "prev@12/27/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "KirakiraNoelStory.RekuMochizuki.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@12/27/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Devotion.Connexio.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@12/27/2024 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "白と黒のバケモノ.テヅカ.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4"
                         ],
                         "secretInfo": [],
                         "songsId": "CometFeat符白牙.CNHKSS.0",
@@ -19,8 +48,7 @@
                     },
                     {
                         "unlockInfo": [
-                            "4",
-                            "prev@11/29/2024 17:00:00 +8:00"
+                            "4"
                         ],
                         "secretInfo": [],
                         "songsId": "valorstarcross.LundyvsWyvren.0",
@@ -29,8 +57,7 @@
                     },
                     {
                         "unlockInfo": [
-                            "4",
-                            "prev@11/29/2024 17:00:00 +8:00"
+                            "4"
                         ],
                         "secretInfo": [],
                         "songsId": "FixationsTowardtheStars.Foodbot.0",
@@ -18140,6 +18167,213 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "白と黒のバケモノ.テヅカ.0",
+                "songsKey": "白と黒のバケモノ",
+                "songsName": "白と黒のバケモノ",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    11.4,
+                    15.7,
+                    0.0
+                ],
+                "illustrator": "久世",
+                "charter": [
+                    "白",
+                    "monochrome ILLUSION",
+                    "Simon_Axis",
+                    ""
+                ],
+                "composer": "テヅカ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 62.0,
+                "previewEndTime": 82.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Devotion.Connexio.0",
+                "songsKey": "Devotion",
+                "songsName": "Devotion",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    9.8,
+                    13.9,
+                    0.0
+                ],
+                "illustrator": "Shimoruchiko",
+                "charter": [
+                    "StupiGGy",
+                    "StupiGGy",
+                    "Salt",
+                    ""
+                ],
+                "composer": "Connexio",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 48.83599853515625,
+                "previewEndTime": 73.07499694824219,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "KirakiraNoelStory.RekuMochizuki.0",
+                "songsKey": "Kirakira Noel Story!!",
+                "songsName": "Kirakira Noel Story!!",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    10.2,
+                    14.2,
+                    0.0
+                ],
+                "illustrator": "ナナシ",
+                "charter": [
+                    "村头村头 CTY Story!!",
+                    "头鱼头鱼 MAX Story!!",
+                    "N\\erry Xmas 2024",
+                    ""
+                ],
+                "composer": "Reku Mochizuki",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 86.0,
+                "previewEndTime": 108.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -19744,6 +19978,24 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Kirakira Noel Story!!",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Devotion",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "白と黒のバケモノ",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Comet",
             "unlockedTimes": 0,
@@ -23616,6 +23868,24 @@
         },
         {
             "keyName": "Comet",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "白と黒のバケモノ",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Devotion",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Kirakira Noel Story!!",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
