@@ -10,55 +10,60 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@12/27/2024 17:00:00 +8:00"
+                            "prev@01/17/2025 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "蝎虎天体Lacertid.CreamvsDaily天利.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@01/17/2025 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Shelter.MeatyRabbitNceS.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "KirakiraNoelStory.RekuMochizuki.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@12/27/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Devotion.Connexio.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@12/27/2024 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "白と黒のバケモノ.テヅカ.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "CometFeat符白牙.CNHKSS.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "valorstarcross.LundyvsWyvren.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "FixationsTowardtheStars.Foodbot.0",
                         "unlockType": 1,
@@ -18374,6 +18379,144 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "Shelter.MeatyRabbitNceS.0",
+                "songsKey": "Shelter",
+                "songsName": "Shelter",
+                "songsTitle": "",
+                "difficulty": [
+                    3.5,
+                    9.3,
+                    13.1,
+                    0.0
+                ],
+                "illustrator": "诡异童话",
+                "charter": [
+                    "Cluttler with ShelteR",
+                    "Cluttler with ShelteR",
+                    "人外侵略地球计划",
+                    ""
+                ],
+                "composer": "MeatyRabbit & NceS",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 70.0,
+                "previewEndTime": 92.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "蝎虎天体Lacertid.CreamvsDaily天利.0",
+                "songsKey": "蝎虎天体 -Lacertid-",
+                "songsName": "蝎虎天体 -Lacertid-",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    10.7,
+                    15.5,
+                    0.0
+                ],
+                "illustrator": "白 & 小鹏xpeng",
+                "charter": [
+                    "StR-1",
+                    "StR-1",
+                    "Ctymax vs. IUIsauce -村头烤鱼蘸凹酱-",
+                    ""
+                ],
+                "composer": "Cream vs. Daily天利",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 94.0,
+                "previewEndTime": 112.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -19978,6 +20121,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "蝎虎天体 -Lacertid-",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Shelter",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Kirakira Noel Story!!",
             "unlockedTimes": 0,
@@ -23886,6 +24041,18 @@
         },
         {
             "keyName": "Kirakira Noel Story!!",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Shelter",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "蝎虎天体 -Lacertid-",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

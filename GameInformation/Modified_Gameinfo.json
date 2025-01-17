@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "蝎虎天体Lacertid.CreamvsDaily天利.0",
+        "Shelter.MeatyRabbitNceS.0",
         "KirakiraNoelStory.RekuMochizuki.0",
         "Devotion.Connexio.0",
         "白と黒のバケモノ.テヅカ.0",
@@ -256,6 +258,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "蝎虎天体Lacertid.CreamvsDaily天利.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "蝎虎天体 -Lacertid-",
+            "composer": "Cream vs. Daily天利",
+            "illustrator": "白 & 小鹏xpeng",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "StR-1",
+                    "numOfNotes": 273
+                },
+                "HD": {
+                    "rating": 10.7,
+                    "charter": "StR-1",
+                    "numOfNotes": 596
+                },
+                "IN": {
+                    "rating": 15.5,
+                    "charter": "Ctymax vs. IUIsauce -村头烤鱼蘸凹酱-",
+                    "numOfNotes": 1238
+                }
+            }
+        },
+        "Shelter.MeatyRabbitNceS.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Shelter",
+            "composer": "MeatyRabbit & NceS",
+            "illustrator": "诡异童话",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.5,
+                    "charter": "Cluttler with ShelteR",
+                    "numOfNotes": 265
+                },
+                "HD": {
+                    "rating": 9.3,
+                    "charter": "Cluttler with ShelteR",
+                    "numOfNotes": 388
+                },
+                "IN": {
+                    "rating": 13.1,
+                    "charter": "人外侵略地球计划",
+                    "numOfNotes": 696
+                }
+            }
+        },
         "KirakiraNoelStory.RekuMochizuki.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -7828,5 +7888,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.10.4"
+    "ver": "3.10.5"
 }
