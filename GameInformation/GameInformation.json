@@ -10,18 +10,42 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@01/17/2025 17:00:00 +8:00"
+                            "prev@02/08/2025 17:00:00 +8:00"
                         ],
                         "secretInfo": [],
-                        "songsId": "蝎虎天体Lacertid.CreamvsDaily天利.0",
+                        "songsId": "ニライカナイNiraicA_naiMix.roopfromSTR.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@01/17/2025 17:00:00 +8:00"
+                            "prev@02/08/2025 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "インマイマインド.レシオP.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@02/08/2025 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "贝多芬祝福BeethovenBlessing.Nauts.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "蝎虎天体Lacertid.CreamvsDaily天利.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Shelter.MeatyRabbitNceS.0",
                         "unlockType": 1,
@@ -2315,7 +2339,7 @@
                 "difficulty": [
                     1.0,
                     6.5,
-                    12.5,
+                    12.6,
                     0.0
                 ],
                 "illustrator": "艾若拉",
@@ -2457,8 +2481,8 @@
                 "difficulty": [
                     4.5,
                     10.4,
-                    13.7,
-                    15.5
+                    13.6,
+                    15.7
                 ],
                 "illustrator": "Ctymax",
                 "charter": [
@@ -2525,7 +2549,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    9.4,
+                    9.1,
                     13.7,
                     0.0
                 ],
@@ -2594,8 +2618,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     2.5,
-                    8.6,
-                    13.4,
+                    8.3,
+                    13.0,
                     0.0
                 ],
                 "illustrator": "赤芽",
@@ -2662,9 +2686,9 @@
                 "songsName": "光",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
+                    2.0,
                     7.5,
-                    12.8,
+                    12.4,
                     0.0
                 ],
                 "illustrator": "winder",
@@ -2800,8 +2824,8 @@
                 "songsName": "Cipher : /2&//<|0",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    9.7,
+                    5.0,
+                    10.3,
                     14.4,
                     0.0
                 ],
@@ -2870,7 +2894,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    10.6,
+                    10.0,
                     14.8,
                     0.0
                 ],
@@ -2881,7 +2905,7 @@
                     "XMT小咩兔",
                     ""
                 ],
-                "composer": "OnlyMyBlackScore",
+                "composer": "Only My Black Score",
                 "levels": [
                     "EZ",
                     "HD",
@@ -2939,8 +2963,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.0,
-                    9.4,
-                    14.8,
+                    9.0,
+                    14.9,
                     0.0
                 ],
                 "illustrator": "ViscerA & Psycholine",
@@ -3008,7 +3032,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.0,
-                    8.1,
+                    8.0,
                     12.9,
                     0.0
                 ],
@@ -3145,9 +3169,9 @@
                 "songsName": "Pixel Rebelz",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
-                    10.3,
-                    15.1,
+                    4.5,
+                    9.7,
+                    15.3,
                     0.0
                 ],
                 "illustrator": "艾是Abby",
@@ -3216,7 +3240,7 @@
                 "difficulty": [
                     5.5,
                     10.9,
-                    14.8,
+                    14.7,
                     0.0
                 ],
                 "illustrator": "IvyTowers",
@@ -3284,8 +3308,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    11.8,
-                    15.7,
+                    11.6,
+                    16.1,
                     0.0
                 ],
                 "illustrator": "cycats",
@@ -3422,7 +3446,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    10.4,
+                    10.8,
                     13.8,
                     0.0
                 ],
@@ -3561,7 +3585,7 @@
                 "difficulty": [
                     3.5,
                     9.5,
-                    14.2,
+                    13.8,
                     0.0
                 ],
                 "illustrator": "笔记RE",
@@ -3771,7 +3795,7 @@
                 "difficulty": [
                     3.0,
                     8.7,
-                    13.3,
+                    13.4,
                     0.0
                 ],
                 "illustrator": "IvyTowers",
@@ -3838,9 +3862,9 @@
                 "songsName": "cryout",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
+                    3.5,
                     9.9,
-                    13.8,
+                    13.6,
                     0.0
                 ],
                 "illustrator": "Haight",
@@ -3907,8 +3931,8 @@
                 "songsName": "Reimei",
                 "songsTitle": "",
                 "difficulty": [
-                    7.0,
-                    11.9,
+                    6.5,
+                    11.7,
                     15.1,
                     0.0
                 ],
@@ -3978,7 +4002,7 @@
                 "difficulty": [
                     6.0,
                     11.6,
-                    15.2,
+                    15.4,
                     0.0
                 ],
                 "illustrator": "1B",
@@ -4047,8 +4071,8 @@
                 "difficulty": [
                     8.2,
                     13.3,
-                    15.2,
-                    16.3
+                    15.5,
+                    16.7
                 ],
                 "illustrator": "昔璃☆暴雨 ~ ♫危難聖帝♫",
                 "charter": [
@@ -4259,8 +4283,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    10.7,
-                    14.6,
+                    10.5,
+                    14.7,
                     0.0
                 ],
                 "illustrator": "snake.ribs",
@@ -4396,9 +4420,9 @@
                 "songsName": "NO ONE YES MAN",
                 "songsTitle": "",
                 "difficulty": [
-                    6.5,
+                    7.0,
                     10.9,
-                    15.4,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "青鸟",
@@ -4466,8 +4490,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.5,
-                    12.1,
-                    15.7,
+                    11.9,
+                    15.9,
                     0.0
                 ],
                 "illustrator": "鲸弑",
@@ -4535,9 +4559,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.5,
-                    12.7,
-                    15.7,
-                    16.7
+                    12.2,
+                    16.1,
+                    17.4
                 ],
                 "illustrator": "Se-U-Ra",
                 "charter": [
@@ -4609,9 +4633,9 @@
                 "songsName": "Clock Paradox",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
+                    2.0,
                     6.0,
-                    12.6,
+                    12.5,
                     0.0
                 ],
                 "illustrator": "汉堡",
@@ -4747,9 +4771,9 @@
                 "songsName": "Nick of Time",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
-                    8.1,
-                    14.6,
+                    6.0,
+                    9.3,
+                    14.7,
                     0.0
                 ],
                 "illustrator": "青鸟",
@@ -4818,7 +4842,7 @@
                 "difficulty": [
                     4.5,
                     11.1,
-                    15.3,
+                    15.4,
                     0.0
                 ],
                 "illustrator": "inukoro",
@@ -4885,9 +4909,9 @@
                 "songsName": "Chronos Collapse - La Campanella",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
-                    11.5,
-                    15.9,
+                    4.5,
+                    12.3,
+                    16.3,
                     0.0
                 ],
                 "illustrator": "老张",
@@ -4956,8 +4980,8 @@
                 "difficulty": [
                     7.0,
                     12.7,
-                    15.7,
-                    16.8
+                    16.1,
+                    17.6
                 ],
                 "illustrator": "犀牛坨动画工坊",
                 "charter": [
@@ -5029,9 +5053,9 @@
                 "songsName": "Crave Wave",
                 "songsTitle": "",
                 "difficulty": [
-                    3.5,
-                    8.4,
-                    13.6,
+                    2.5,
+                    8.0,
+                    13.7,
                     0.0
                 ],
                 "illustrator": "笔记RE",
@@ -5099,8 +5123,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    9.5,
-                    14.1,
+                    9.0,
+                    14.0,
                     0.0
                 ],
                 "illustrator": "翠冷兮",
@@ -5168,7 +5192,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    11.2,
+                    11.0,
                     14.5,
                     0.0
                 ],
@@ -5238,7 +5262,7 @@
                 "difficulty": [
                     6.0,
                     11.6,
-                    15.8,
+                    16.2,
                     0.0
                 ],
                 "illustrator": "NerSAN",
@@ -5307,8 +5331,8 @@
                 "difficulty": [
                     8.5,
                     13.1,
-                    15.8,
-                    16.6
+                    16.3,
+                    17.3
                 ],
                 "illustrator": "rN",
                 "charter": [
@@ -5379,8 +5403,8 @@
                 "difficulty": [
                     8.1,
                     13.5,
-                    15.9,
-                    16.7
+                    16.3,
+                    17.4
                 ],
                 "illustrator": "knife美工刀",
                 "charter": [
@@ -5452,8 +5476,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    9.8,
-                    14.8,
+                    9.0,
+                    15.1,
                     0.0
                 ],
                 "illustrator": "海产",
@@ -5523,7 +5547,7 @@
                     2.0,
                     6.5,
                     11.1,
-                    14.9
+                    15.4
                 ],
                 "illustrator": "cycat",
                 "charter": [
@@ -5590,8 +5614,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     2.0,
-                    10.2,
-                    14.2,
+                    10.3,
+                    13.9,
                     0.0
                 ],
                 "illustrator": "喵n葵",
@@ -5658,9 +5682,9 @@
                 "songsName": "萤火虫の怨",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    10.6,
-                    13.1,
+                    4.0,
+                    9.8,
+                    13.0,
                     0.0
                 ],
                 "illustrator": "L-sp4",
@@ -5727,8 +5751,8 @@
                 "songsName": "万吨匿名信",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    9.7,
+                    4.5,
+                    9.5,
                     13.3,
                     0.0
                 ],
@@ -5796,10 +5820,10 @@
                 "songsName": "风屿",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
-                    10.3,
-                    13.9,
-                    14.8
+                    5.5,
+                    9.8,
+                    14.0,
+                    15.1
                 ],
                 "illustrator": "cycats",
                 "charter": [
@@ -6003,9 +6027,9 @@
                 "songsName": "云女孩",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
-                    9.9,
-                    12.6,
+                    2.0,
+                    8.9,
+                    12.8,
                     0.0
                 ],
                 "illustrator": "御坂果子",
@@ -6073,8 +6097,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    9.6,
-                    14.3,
+                    9.2,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "TNiK",
@@ -6141,9 +6165,9 @@
                 "songsName": "RIPPER",
                 "songsTitle": "",
                 "difficulty": [
-                    7.5,
-                    11.2,
-                    15.2,
+                    6.5,
+                    11.7,
+                    15.3,
                     0.0
                 ],
                 "illustrator": "何呵",
@@ -6212,7 +6236,7 @@
                 "difficulty": [
                     4.0,
                     8.8,
-                    13.1,
+                    13.3,
                     0.0
                 ],
                 "illustrator": "笔记RE",
@@ -6279,9 +6303,9 @@
                 "songsName": "开心病",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
-                    11.5,
-                    14.2,
+                    7.0,
+                    11.9,
+                    13.8,
                     0.0
                 ],
                 "illustrator": "昔璃",
@@ -6349,8 +6373,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    10.5,
-                    14.1,
+                    10.6,
+                    13.7,
                     0.0
                 ],
                 "illustrator": "IvyTowers",
@@ -6419,7 +6443,7 @@
                 "difficulty": [
                     5.5,
                     10.5,
-                    14.4,
+                    14.3,
                     0.0
                 ],
                 "illustrator": "YuKiMuMa",
@@ -6486,9 +6510,9 @@
                 "songsName": "Sein",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    9.8,
-                    14.9,
+                    5.0,
+                    10.1,
+                    15.1,
                     0.0
                 ],
                 "illustrator": "hideo",
@@ -6557,8 +6581,8 @@
                 "difficulty": [
                     7.0,
                     11.7,
-                    14.5,
-                    16.1
+                    14.3,
+                    16.4
                 ],
                 "illustrator": "DoublePian",
                 "charter": [
@@ -6693,9 +6717,9 @@
                 "songsName": "Khronostasis Katharsis",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    11.6,
-                    14.2,
+                    6.0,
+                    11.8,
+                    14.0,
                     0.0
                 ],
                 "illustrator": "utosao",
@@ -6764,7 +6788,7 @@
                 "difficulty": [
                     5.0,
                     10.3,
-                    13.3,
+                    13.4,
                     0.0
                 ],
                 "illustrator": "knife美工刀",
@@ -6831,9 +6855,9 @@
                 "songsName": "Burn",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
-                    10.6,
-                    14.9,
+                    7.0,
+                    11.2,
+                    15.2,
                     0.0
                 ],
                 "illustrator": "knife美工刀",
@@ -6902,7 +6926,7 @@
                 "difficulty": [
                     3.5,
                     12.2,
-                    15.7,
+                    16.0,
                     0.0,
                     15.6
                 ],
@@ -6977,8 +7001,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    9.2,
-                    12.6,
+                    8.7,
+                    12.4,
                     0.0
                 ],
                 "illustrator": "叶藤",
@@ -7115,7 +7139,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    9.2,
+                    9.3,
                     13.6,
                     0.0
                 ],
@@ -7183,9 +7207,9 @@
                 "songsName": "mechanted",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
+                    3.0,
                     11.3,
-                    14.7,
+                    14.9,
                     0.0
                 ],
                 "illustrator": "IvyTowers",
@@ -7254,7 +7278,7 @@
                 "difficulty": [
                     6.5,
                     11.9,
-                    14.8,
+                    14.9,
                     0.0
                 ],
                 "illustrator": "百九十八",
@@ -7322,7 +7346,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    10.1,
+                    9.5,
                     14.5,
                     0.0,
                     15.0
@@ -7397,9 +7421,9 @@
                 "songsName": "Chronostasis",
                 "songsTitle": "",
                 "difficulty": [
-                    6.5,
-                    11.2,
-                    15.8,
+                    6.0,
+                    10.7,
+                    16.0,
                     0.0
                 ],
                 "illustrator": "Sand",
@@ -7467,7 +7491,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    11.7,
+                    12.0,
                     14.4,
                     0.0
                 ],
@@ -7535,7 +7559,7 @@
                 "songsName": "Infinity Heaven",
                 "songsTitle": "",
                 "difficulty": [
-                    3.5,
+                    3.0,
                     8.4,
                     13.9,
                     0.0
@@ -7604,9 +7628,9 @@
                 "songsName": "Disorder",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    9.8,
-                    14.7,
+                    6.0,
+                    10.3,
+                    14.8,
                     0.0
                 ],
                 "illustrator": "Nabom",
@@ -7674,8 +7698,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.5,
-                    12.8,
-                    15.9,
+                    12.6,
+                    16.4,
                     0.0
                 ],
                 "illustrator": "knife美工刀",
@@ -7744,7 +7768,7 @@
                 "difficulty": [
                     4.5,
                     10.3,
-                    14.3,
+                    14.0,
                     0.0
                 ],
                 "illustrator": "TNiK",
@@ -7813,7 +7837,7 @@
                 "difficulty": [
                     6.5,
                     11.3,
-                    14.5,
+                    14.4,
                     0.0
                 ],
                 "illustrator": "NOISER",
@@ -7881,8 +7905,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.5,
-                    11.4,
-                    14.1,
+                    10.7,
+                    14.0,
                     0.0
                 ],
                 "illustrator": "TNiK",
@@ -7951,7 +7975,7 @@
                 "difficulty": [
                     5.5,
                     12.3,
-                    15.7,
+                    15.9,
                     0.0
                 ],
                 "illustrator": "GAMEBAKA",
@@ -8018,9 +8042,9 @@
                 "songsName": "GOODTEK",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    10.8,
-                    14.1,
+                    5.0,
+                    10.0,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "Ctymax feat. EBIMAYO",
@@ -8087,8 +8111,8 @@
                 "songsName": "GOODBOUNCE",
                 "songsTitle": "",
                 "difficulty": [
-                    6.5,
-                    11.6,
+                    7.5,
+                    11.9,
                     14.4,
                     0.0
                 ],
@@ -8158,7 +8182,7 @@
                 "difficulty": [
                     3.0,
                     11.4,
-                    14.7,
+                    14.9,
                     0.0
                 ],
                 "illustrator": "EBIMAYO",
@@ -8227,7 +8251,7 @@
                 "difficulty": [
                     7.5,
                     8.7,
-                    15.4,
+                    15.7,
                     0.0
                 ],
                 "illustrator": "Ctymax",
@@ -8294,9 +8318,9 @@
                 "songsName": "GOODRAGE",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    8.2,
-                    15.7,
+                    5.0,
+                    8.5,
+                    16.0,
                     0.0
                 ],
                 "illustrator": "Ctymax feat. EBIMAYO",
@@ -8364,8 +8388,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    9.1,
-                    14.6,
+                    9.6,
+                    14.7,
                     0.0
                 ],
                 "illustrator": "START SEED",
@@ -8433,8 +8457,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    10.6,
-                    14.1,
+                    8.5,
+                    13.7,
                     0.0
                 ],
                 "illustrator": "cycats",
@@ -8501,7 +8525,7 @@
                 "songsName": "End Me",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
+                    5.5,
                     7.5,
                     14.1,
                     0.0
@@ -8571,8 +8595,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.0,
-                    10.7,
-                    14.4,
+                    10.9,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "青鸟",
@@ -8641,7 +8665,7 @@
                 "difficulty": [
                     5.5,
                     11.4,
-                    15.1,
+                    15.2,
                     0.0
                 ],
                 "illustrator": "IvyTowers",
@@ -8709,7 +8733,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    10.4,
+                    9.4,
                     13.2,
                     0.0
                 ],
@@ -8778,8 +8802,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    11.5,
-                    15.6,
+                    10.5,
+                    15.8,
                     0.0
                 ],
                 "illustrator": "塔塔",
@@ -8847,7 +8871,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    8.5,
+                    8.4,
                     14.6,
                     0.0
                 ],
@@ -8915,8 +8939,8 @@
                 "songsName": "Äventyr",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
-                    9.4,
+                    3.5,
+                    9.7,
                     13.7,
                     0.0
                 ],
@@ -8985,7 +9009,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     1.5,
-                    6.5,
+                    7.0,
                     14.2,
                     0.0
                 ],
@@ -9053,9 +9077,9 @@
                 "songsName": "雪降り、メリクリ",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    10.4,
-                    15.3,
+                    4.5,
+                    10.8,
+                    15.4,
                     0.0
                 ],
                 "illustrator": "犀牛坨动画工坊",
@@ -9191,9 +9215,9 @@
                 "songsName": "modulus",
                 "songsTitle": "",
                 "difficulty": [
-                    3.5,
-                    10.1,
-                    14.7,
+                    4.5,
+                    10.4,
+                    14.9,
                     0.0
                 ],
                 "illustrator": "geralt",
@@ -9331,7 +9355,7 @@
                 "difficulty": [
                     5.5,
                     11.8,
-                    14.8,
+                    15.1,
                     0.0
                 ],
                 "illustrator": "りゅうら",
@@ -9398,9 +9422,9 @@
                 "songsName": "Eltaw",
                 "songsTitle": "",
                 "difficulty": [
-                    6.5,
-                    10.5,
-                    14.7,
+                    7.0,
+                    10.6,
+                    14.8,
                     0.0
                 ],
                 "illustrator": "xperz",
@@ -9537,8 +9561,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    7.5,
-                    13.4,
+                    8.1,
+                    13.0,
                     0.0
                 ],
                 "illustrator": "あおお/A-ZERO, morph",
@@ -9605,9 +9629,9 @@
                 "songsName": "Get Ready!! ",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
-                    10.2,
-                    13.8,
+                    6.0,
+                    10.7,
+                    13.7,
                     0.0
                 ],
                 "illustrator": "あおお/A-ZERO, morph",
@@ -9675,9 +9699,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.5,
-                    11.9,
-                    14.6,
-                    16.2
+                    12.1,
+                    14.7,
+                    16.6
                 ],
                 "illustrator": "あおお/A-ZERO, morph",
                 "charter": [
@@ -9743,8 +9767,8 @@
                 "songsName": "Better Graphic Animation",
                 "songsTitle": "",
                 "difficulty": [
-                    6.5,
-                    11.7,
+                    6.0,
+                    11.1,
                     15.3,
                     0.0
                 ],
@@ -9881,9 +9905,9 @@
                 "songsName": "Final Step!",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
-                    11.8,
-                    14.3,
+                    5.5,
+                    11.0,
+                    14.1,
                     0.0
                 ],
                 "illustrator": "谷地（青鸟 modified）",
@@ -9951,9 +9975,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    10.8,
-                    15.6,
-                    15.8
+                    10.4,
+                    16.0,
+                    16.1
                 ],
                 "illustrator": "谷地（青鸟 modified）",
                 "charter": [
@@ -10020,8 +10044,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    9.3,
-                    13.4,
+                    9.1,
+                    13.5,
                     0.0
                 ],
                 "illustrator": "ADZUKI",
@@ -10088,8 +10112,8 @@
                 "songsName": "Unorthodox Thoughts",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
-                    11.3,
+                    5.5,
+                    12.0,
                     13.9,
                     0.0
                 ],
@@ -10226,7 +10250,7 @@
                 "songsName": "游园地",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
+                    2.5,
                     7.5,
                     13.2,
                     0.0
@@ -10295,9 +10319,9 @@
                 "songsName": "energy trixxx",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    11.4,
-                    15.2,
+                    5.0,
+                    10.4,
+                    15.4,
                     0.0
                 ],
                 "illustrator": "手鞠鈴 & 自動車 原付",
@@ -10365,8 +10389,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     1.5,
-                    11.9,
-                    15.4,
+                    12.0,
+                    15.6,
                     0.0
                 ],
                 "illustrator": "駿",
@@ -10433,8 +10457,8 @@
                 "songsName": "-Arkhei-",
                 "songsTitle": "",
                 "difficulty": [
-                    6.5,
-                    9.7,
+                    7.5,
+                    8.8,
                     12.6,
                     0.0
                 ],
@@ -10504,7 +10528,7 @@
                 "difficulty": [
                     5.5,
                     12.4,
-                    15.5,
+                    15.8,
                     0.0
                 ],
                 "illustrator": "Eridani",
@@ -10572,8 +10596,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    11.3,
-                    14.7,
+                    11.7,
+                    14.6,
                     0.0
                 ],
                 "illustrator": "出前 x nekomiya",
@@ -10640,9 +10664,9 @@
                 "songsName": "Concvssion",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
+                    6.0,
                     11.3,
-                    15.5,
+                    15.6,
                     0.0
                 ],
                 "illustrator": "汉堡",
@@ -10710,7 +10734,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    8.3,
+                    8.5,
                     14.5,
                     0.0
                 ],
@@ -10848,8 +10872,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    10.9,
-                    14.7,
+                    11.0,
+                    14.8,
                     0.0
                 ],
                 "illustrator": "ZG",
@@ -10917,8 +10941,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    9.2,
-                    15.4,
+                    9.8,
+                    15.6,
                     0.0
                 ],
                 "illustrator": "ZG",
@@ -10985,9 +11009,9 @@
                 "songsName": "Don't Never Around",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    11.7,
-                    15.4,
+                    5.0,
+                    11.3,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "Arahosi",
@@ -11054,9 +11078,9 @@
                 "songsName": "RESSiSTANCE",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
-                    10.6,
-                    15.8,
+                    6.5,
+                    11.2,
+                    16.1,
                     0.0
                 ],
                 "illustrator": "LINUS",
@@ -11123,9 +11147,9 @@
                 "songsName": "Dreamland",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
-                    9.8,
-                    13.2,
+                    7.0,
+                    10.3,
+                    13.6,
                     0.0
                 ],
                 "illustrator": "海产",
@@ -11192,8 +11216,8 @@
                 "songsName": "Another Round",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
-                    8.7,
+                    2.5,
+                    9.6,
                     13.3,
                     0.0
                 ],
@@ -11262,8 +11286,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    9.1,
-                    14.6,
+                    9.4,
+                    14.7,
                     0.0
                 ],
                 "illustrator": "笔记RE",
@@ -11330,9 +11354,9 @@
                 "songsName": "Future Mind",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    11.7,
-                    14.4,
+                    4.5,
+                    11.0,
+                    14.3,
                     0.0
                 ],
                 "illustrator": "Keiby.comics",
@@ -11400,8 +11424,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    9.3,
-                    14.5,
+                    9.7,
+                    14.4,
                     0.0
                 ],
                 "illustrator": "鲸弑",
@@ -11468,9 +11492,9 @@
                 "songsName": "FULi AUTO BUSTER",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
-                    9.3,
-                    14.7,
+                    3.5,
+                    9.8,
+                    14.6,
                     0.0
                 ],
                 "illustrator": "cycats",
@@ -11537,8 +11561,8 @@
                 "songsName": "I Must Say No",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
-                    9.5,
+                    1.5,
+                    9.2,
                     13.5,
                     0.0
                 ],
@@ -11607,8 +11631,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    11.6,
-                    15.5,
+                    10.6,
+                    15.6,
                     0.0
                 ],
                 "illustrator": "rN @ 湯元画伯",
@@ -11745,8 +11769,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    10.6,
-                    15.2,
+                    9.7,
+                    15.4,
                     0.0
                 ],
                 "illustrator": "Lanota © Noxy Games Inc. ",
@@ -11814,8 +11838,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.5,
-                    12.2,
-                    15.5,
+                    11.6,
+                    15.7,
                     0.0
                 ],
                 "illustrator": "Lanota © Noxy Games Inc. ",
@@ -11884,8 +11908,8 @@
                 "difficulty": [
                     6.0,
                     11.7,
-                    14.2,
-                    15.6
+                    14.1,
+                    15.8
                 ],
                 "illustrator": "Lanota © Noxy Games Inc. ",
                 "charter": [
@@ -11957,9 +11981,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    11.1,
+                    10.1,
                     15.3,
-                    16.4
+                    16.7
                 ],
                 "illustrator": "Lanota © Noxy Games Inc. ",
                 "charter": [
@@ -12028,9 +12052,9 @@
                 "songsName": "いざ、参ります",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
-                    9.6,
-                    14.8,
+                    3.5,
+                    9.2,
+                    15.0,
                     0.0
                 ],
                 "illustrator": "緑風マルト",
@@ -12097,9 +12121,9 @@
                 "songsName": "月下缭乱",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
+                    4.5,
                     9.4,
-                    14.8,
+                    14.9,
                     0.0
                 ],
                 "illustrator": "TNiK",
@@ -12167,8 +12191,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    10.3,
-                    14.9,
+                    9.6,
+                    15.2,
                     0.0
                 ],
                 "illustrator": "わっふゑ",
@@ -12236,7 +12260,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    11.6,
+                    11.8,
                     14.6,
                     0.0
                 ],
@@ -12304,10 +12328,10 @@
                 "songsName": "Shadow",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
-                    10.3,
+                    6.5,
+                    10.5,
                     14.5,
-                    15.9
+                    16.2
                 ],
                 "illustrator": "御坂果子",
                 "charter": [
@@ -12377,8 +12401,8 @@
                 "songsName": "心之所向",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    8.9,
+                    4.0,
+                    8.2,
                     13.6,
                     0.0
                 ],
@@ -12516,8 +12540,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    12.5,
-                    15.7,
+                    12.2,
+                    15.9,
                     0.0
                 ],
                 "illustrator": "Ctymax vs. TNiK feat. 出前",
@@ -12653,7 +12677,7 @@
                 "songsName": "盏茗",
                 "songsTitle": "",
                 "difficulty": [
-                    2.0,
+                    1.5,
                     4.5,
                     13.3,
                     0.0
@@ -12723,8 +12747,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    10.8,
-                    14.9,
+                    10.4,
+                    15.1,
                     0.0
                 ],
                 "illustrator": "茶鸣拾贰律",
@@ -12792,7 +12816,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    8.8,
+                    9.6,
                     13.5,
                     0.0
                 ],
@@ -12862,7 +12886,7 @@
                 "difficulty": [
                     5.5,
                     10.7,
-                    14.4,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "Robin",
@@ -12929,9 +12953,9 @@
                 "songsName": "El Condor Pasa (Phigros Edit)",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
+                    6.5,
                     12.5,
-                    15.4,
+                    15.6,
                     0.0
                 ],
                 "illustrator": "青鸟",
@@ -12999,7 +13023,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    11.8,
+                    11.5,
                     14.1,
                     14.9
                 ],
@@ -13068,7 +13092,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     2.5,
-                    9.5,
+                    8.9,
                     14.5,
                     0.0
                 ],
@@ -13138,7 +13162,7 @@
                 "difficulty": [
                     5.5,
                     10.7,
-                    15.1,
+                    15.3,
                     0.0
                 ],
                 "illustrator": "林语",
@@ -13207,7 +13231,7 @@
                 "difficulty": [
                     5.5,
                     10.5,
-                    15.3,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "BLACK 0",
@@ -13274,7 +13298,7 @@
                 "songsName": "瓷岁",
                 "songsTitle": "",
                 "difficulty": [
-                    3.5,
+                    2.0,
                     6.5,
                     7.0,
                     0.0
@@ -13344,8 +13368,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.5,
-                    11.9,
-                    15.3,
+                    12.1,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "茶鸣拾贰律",
@@ -13412,9 +13436,9 @@
                 "songsName": "インフェルノシティ",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
-                    11.2,
-                    15.5,
+                    4.5,
+                    11.5,
+                    15.7,
                     0.0
                 ],
                 "illustrator": "LESYEF & 藍瀬 まなみ",
@@ -13481,9 +13505,9 @@
                 "songsName": "Upshift",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
+                    6.0,
                     10.8,
-                    15.4,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "Iriss=Frantzz=s-don",
@@ -13551,8 +13575,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    9.6,
-                    15.5,
+                    9.9,
+                    15.7,
                     0.0
                 ],
                 "illustrator": "笔记RE/海产",
@@ -13619,7 +13643,7 @@
                 "songsName": "Random",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
+                    5.5,
                     12.2,
                     14.7,
                     0.0
@@ -13688,9 +13712,9 @@
                 "songsName": "零號車輛",
                 "songsTitle": "",
                 "difficulty": [
-                    7.0,
-                    12.3,
-                    15.8,
+                    7.5,
+                    12.1,
+                    16.2,
                     0.0
                 ],
                 "illustrator": "2AI4wU4",
@@ -13758,7 +13782,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    10.7,
+                    11.2,
                     14.3,
                     0.0
                 ],
@@ -13896,8 +13920,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    8.9,
-                    13.6,
+                    8.7,
+                    13.5,
                     0.0
                 ],
                 "illustrator": "mology (青鸟&V17AMax Modified)",
@@ -13964,9 +13988,9 @@
                 "songsName": "El último baile",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
-                    10.4,
-                    14.3,
+                    4.5,
+                    9.5,
+                    14.1,
                     0.0
                 ],
                 "illustrator": "mology (青鸟&V17AMax Modified)",
@@ -14033,9 +14057,9 @@
                 "songsName": "Trojan",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
+                    5.5,
                     10.8,
-                    14.8,
+                    15.0,
                     0.0
                 ],
                 "illustrator": "Lapelristar (青鸟&V17AMax Modified)",
@@ -14171,9 +14195,9 @@
                 "songsName": "Ad astra per aspera",
                 "songsTitle": "",
                 "difficulty": [
-                    6.0,
+                    6.5,
                     12.1,
-                    15.8,
+                    16.3,
                     0.0
                 ],
                 "illustrator": "Lyrebird Ferdinant (青鸟&V17AMax Modified)",
@@ -14310,7 +14334,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    10.2,
+                    9.4,
                     12.9,
                     0.0
                 ],
@@ -14378,9 +14402,9 @@
                 "songsName": "Realms",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    10.8,
-                    14.1,
+                    3.5,
+                    10.2,
+                    13.8,
                     0.0
                 ],
                 "illustrator": "圆规compasses",
@@ -14449,7 +14473,7 @@
                 "difficulty": [
                     5.0,
                     12.3,
-                    15.5,
+                    15.8,
                     0.0
                 ],
                 "illustrator": "上倉エク",
@@ -14517,8 +14541,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    9.4,
-                    14.7,
+                    10.0,
+                    15.0,
                     0.0
                 ],
                 "illustrator": "何呵",
@@ -14587,8 +14611,8 @@
                 "difficulty": [
                     5.0,
                     9.9,
-                    14.6,
-                    15.8
+                    14.3,
+                    16.2
                 ],
                 "illustrator": "青鸟",
                 "charter": [
@@ -14726,8 +14750,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    11.6,
-                    15.4,
+                    11.1,
+                    15.6,
                     0.0
                 ],
                 "illustrator": "鲸弑",
@@ -14796,7 +14820,7 @@
                 "difficulty": [
                     5.5,
                     10.6,
-                    15.6,
+                    15.8,
                     0.0
                 ],
                 "illustrator": "山崎团",
@@ -14864,9 +14888,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.5,
-                    11.5,
-                    15.9,
-                    16.5
+                    11.6,
+                    16.3,
+                    17.3
                 ],
                 "illustrator": "猫箱Catbox feat. 祈莲",
                 "charter": [
@@ -14932,8 +14956,8 @@
                 "songsName": "Diamond Eyes",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
-                    7.5,
+                    3.5,
+                    6.5,
                     13.4,
                     0.0
                 ],
@@ -15001,8 +15025,8 @@
                 "songsName": "Bitterblossom",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
-                    9.6,
+                    2.5,
+                    9.5,
                     13.5,
                     0.0
                 ],
@@ -15071,8 +15095,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    9.7,
-                    15.5,
+                    9.3,
+                    15.6,
                     0.0
                 ],
                 "illustrator": "Jerry & OsuMe65",
@@ -15141,7 +15165,7 @@
                 "difficulty": [
                     4.0,
                     10.9,
-                    15.9,
+                    16.3,
                     0.0
                 ],
                 "illustrator": "OsuMe65",
@@ -15208,9 +15232,9 @@
                 "songsName": "Journey with You",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    10.1,
-                    13.8,
+                    5.0,
+                    10.0,
+                    13.7,
                     0.0
                 ],
                 "illustrator": "BTKCyber (青鸟 modified)",
@@ -15278,7 +15302,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    10.5,
+                    10.2,
                     14.6,
                     0.0
                 ],
@@ -15346,9 +15370,9 @@
                 "songsName": "Inverted World",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
+                    5.5,
                     11.2,
-                    15.4,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "Mechari (青鸟 modified)",
@@ -15416,9 +15440,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    11.1,
-                    14.7,
-                    15.5
+                    11.4,
+                    14.5,
+                    15.7
                 ],
                 "illustrator": "SEGA (V17AMax modified)",
                 "charter": [
@@ -15486,8 +15510,8 @@
                 "difficulty": [
                     5.0,
                     10.2,
-                    14.4,
-                    15.7
+                    14.1,
+                    15.9
                 ],
                 "illustrator": "SEGA (V17AMax modified)",
                 "charter": [
@@ -15553,10 +15577,10 @@
                 "songsName": "祈 -我ら神祖と共に歩む者なり-",
                 "songsTitle": "",
                 "difficulty": [
-                    7.5,
+                    7.0,
                     13.2,
-                    15.9,
-                    16.5
+                    16.4,
+                    17.3
                 ],
                 "illustrator": "SEGA (V17AMax modified)",
                 "charter": [
@@ -15624,7 +15648,7 @@
                 "difficulty": [
                     4.0,
                     9.1,
-                    14.9,
+                    14.8,
                     0.0
                 ],
                 "illustrator": "海产",
@@ -15691,9 +15715,9 @@
                 "songsName": "聖夜讃歌",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
+                    4.5,
                     10.1,
-                    15.3,
+                    15.2,
                     0.0
                 ],
                 "illustrator": "绀屋",
@@ -15760,9 +15784,9 @@
                 "songsName": "ストレイソウル・アラウンド",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
-                    10.4,
-                    14.5,
+                    6.0,
+                    9.8,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "伊恩 (青鸟 modified)",
@@ -15830,7 +15854,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    9.9,
+                    9.1,
                     14.7,
                     0.0
                 ],
@@ -15900,7 +15924,7 @@
                 "difficulty": [
                     3.0,
                     8.4,
-                    15.7,
+                    15.9,
                     0.0
                 ],
                 "illustrator": "BTKCyber (青鸟 modified)",
@@ -15969,7 +15993,7 @@
                 "difficulty": [
                     5.0,
                     9.5,
-                    15.6,
+                    15.8,
                     0.0
                 ],
                 "illustrator": "祈莲",
@@ -16037,8 +16061,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    11.5,
-                    15.1,
+                    10.5,
+                    15.2,
                     0.0
                 ],
                 "illustrator": "笔记RE",
@@ -16105,7 +16129,7 @@
                 "songsName": "Broken Sky",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
+                    3.0,
                     8.6,
                     13.2,
                     0.0
@@ -16175,8 +16199,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    9.5,
-                    14.7,
+                    9.3,
+                    14.8,
                     0.0
                 ],
                 "illustrator": "SOMON",
@@ -16243,9 +16267,9 @@
                 "songsName": "Xenolith",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
+                    4.0,
                     8.5,
-                    14.6,
+                    14.3,
                     0.0
                 ],
                 "illustrator": "2AI4wU4",
@@ -16312,8 +16336,8 @@
                 "songsName": "Artificial Existence",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
-                    10.2,
+                    3.5,
+                    9.3,
                     14.7,
                     0.0
                 ],
@@ -16381,10 +16405,10 @@
                 "songsName": "Indelible Scar",
                 "songsTitle": "",
                 "difficulty": [
-                    7.5,
-                    11.7,
+                    7.0,
+                    11.5,
                     15.3,
-                    16.1
+                    16.5
                 ],
                 "illustrator": "兜",
                 "charter": [
@@ -16450,10 +16474,10 @@
                 "songsName": "Antithese",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    11.8,
-                    15.2,
-                    15.9
+                    4.5,
+                    10.8,
+                    15.4,
+                    16.4
                 ],
                 "illustrator": "釜飯轟々丸 + jht (Design: 祈莲)",
                 "charter": [
@@ -16521,8 +16545,8 @@
                 "difficulty": [
                     7.5,
                     12.9,
-                    15.6,
-                    16.3
+                    16.0,
+                    16.6
                 ],
                 "illustrator": "シエラ (Design: 祈莲)",
                 "charter": [
@@ -16589,8 +16613,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    9.9,
-                    14.6,
+                    9.7,
+                    14.4,
                     0.0
                 ],
                 "illustrator": "海里狄七 feat. 存艺",
@@ -16726,7 +16750,7 @@
                 "songsName": "幽世桔梗",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
+                    4.5,
                     10.1,
                     14.8,
                     0.0
@@ -16864,9 +16888,9 @@
                 "songsName": "明鏡烈火",
                 "songsTitle": "",
                 "difficulty": [
-                    6.5,
+                    6.0,
                     11.3,
-                    15.8,
+                    15.9,
                     0.0
                 ],
                 "illustrator": "中本ひょうり",
@@ -16933,9 +16957,9 @@
                 "songsName": "今天不是明天",
                 "songsTitle": "",
                 "difficulty": [
-                    3.0,
-                    8.5,
-                    13.5,
+                    2.5,
+                    8.3,
+                    13.4,
                     0.0
                 ],
                 "illustrator": "KiTA & 一击即溃",
@@ -17002,10 +17026,10 @@
                 "songsName": "Cuvism³",
                 "songsTitle": "",
                 "difficulty": [
-                    3.5,
-                    12.1,
+                    3.0,
+                    12.2,
                     13.9,
-                    16.4
+                    16.8
                 ],
                 "illustrator": "sikkari",
                 "charter": [
@@ -17077,7 +17101,7 @@
                 "difficulty": [
                     5.5,
                     10.5,
-                    15.5,
+                    15.7,
                     0.0
                 ],
                 "illustrator": "Fl00t",
@@ -17144,8 +17168,8 @@
                 "songsName": "a truth seeker -Communication with Utopia will be lost-",
                 "songsTitle": "",
                 "difficulty": [
-                    7.5,
-                    12.8,
+                    6.5,
+                    12.4,
                     15.8,
                     0.0
                 ],
@@ -17215,7 +17239,7 @@
                 "difficulty": [
                     7.0,
                     7.5,
-                    15.9,
+                    16.2,
                     0.0
                 ],
                 "illustrator": "Hiro vs Zeth",
@@ -17284,7 +17308,7 @@
                 "difficulty": [
                     4.0,
                     8.6,
-                    14.5,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "LRAY (青鸟 modified)",
@@ -17491,7 +17515,7 @@
                 "difficulty": [
                     4.5,
                     10.7,
-                    15.2,
+                    15.3,
                     0.0
                 ],
                 "illustrator": "自動車 原付 vs. GAMEBAKA",
@@ -17560,7 +17584,7 @@
                 "difficulty": [
                     1.0,
                     9.3,
-                    14.5,
+                    14.6,
                     0.0
                 ],
                 "illustrator": "Keiby.comics",
@@ -17629,7 +17653,7 @@
                 "difficulty": [
                     2.0,
                     10.2,
-                    14.8,
+                    14.7,
                     0.0
                 ],
                 "illustrator": "RM Design Team (青鸟 modified)",
@@ -17698,7 +17722,7 @@
                 "difficulty": [
                     4.5,
                     11.8,
-                    15.5,
+                    15.7,
                     0.0
                 ],
                 "illustrator": "RM Design Team (青鸟 modified)",
@@ -17768,7 +17792,7 @@
                     5.5,
                     9.6,
                     15.1,
-                    16.4
+                    17.0
                 ],
                 "illustrator": "RM Design Team (青鸟 modified)",
                 "charter": [
@@ -17835,7 +17859,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    11.1,
+                    10.6,
                     15.2,
                     0.0
                 ],
@@ -17904,7 +17928,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.0,
-                    9.1,
+                    9.0,
                     12.5,
                     0.0
                 ],
@@ -18043,7 +18067,7 @@
                 "difficulty": [
                     6.5,
                     12.6,
-                    15.6,
+                    15.8,
                     0.0
                 ],
                 "illustrator": "AriaL & 57_dayo [edited by Stelli]",
@@ -18181,7 +18205,7 @@
                 "difficulty": [
                     4.0,
                     11.4,
-                    15.7,
+                    15.9,
                     0.0
                 ],
                 "illustrator": "久世",
@@ -18249,7 +18273,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    9.8,
+                    9.6,
                     13.9,
                     0.0
                 ],
@@ -18387,7 +18411,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    9.3,
+                    8.8,
                     13.1,
                     0.0
                 ],
@@ -18517,6 +18541,213 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "贝多芬祝福BeethovenBlessing.Nauts.0",
+                "songsKey": "贝多芬祝福 (Beethoven Blessing)",
+                "songsName": "贝多芬祝福 (Beethoven Blessing)",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    10.8,
+                    15.0,
+                    0.0
+                ],
+                "illustrator": "RM Design Team (青鸟 modified)",
+                "charter": [
+                    "StupiGGy",
+                    "Blessing beyond myself.",
+                    "Salt feat. XMT小咩兔",
+                    ""
+                ],
+                "composer": "Nauts",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 107.66999816894531,
+                "previewEndTime": 125.66999816894531,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": true,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "インマイマインド.レシオP.0",
+                "songsKey": "インマイマインド",
+                "songsName": "インマイマインド",
+                "songsTitle": "",
+                "difficulty": [
+                    1.5,
+                    9.2,
+                    12.2,
+                    0.0
+                ],
+                "illustrator": "すずか爆弾",
+                "charter": [
+                    "Salt",
+                    "Salt",
+                    "ネルサン (I make charts slowly)",
+                    ""
+                ],
+                "composer": "レシオP",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 53.03200149536133,
+                "previewEndTime": 66.58000183105469,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "ニライカナイNiraicA_naiMix.roopfromSTR.0",
+                "songsKey": "ニライカナイ (NiraicA_nai Mix)",
+                "songsName": "ニライカナイ (NiraicA_nai Mix)",
+                "songsTitle": "",
+                "difficulty": [
+                    2.5,
+                    8.3,
+                    13.5,
+                    0.0
+                ],
+                "illustrator": "3z",
+                "charter": [
+                    "Barbarianerman",
+                    "Ctymax respect for STAR TRACK in 2008",
+                    "Ctymax respect for STAR TRACK in 2008",
+                    ""
+                ],
+                "composer": "roop from STR",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 75.22699737548828,
+                "previewEndTime": 90.4749984741211,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -18529,14 +18760,14 @@
                     6.0,
                     8.4,
                     12.8,
-                    0.0
+                    16.2
                 ],
                 "illustrator": "老张",
                 "charter": [
                     "Jαckψ a.k.a JKy",
                     "Jαckψ",
                     "Jαckψ feat. Βαρβαροςαντρας",
-                    ""
+                    "上班摸大鱼 a.k.a. 海洋咩兔"
                 ],
                 "composer": "1112 vs. Star＊",
                 "levels": [
@@ -18664,7 +18895,7 @@
                 "songsName": "Miracle Forest (VIP Mix)",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
+                    3.0,
                     7.5,
                     13.1,
                     0.0
@@ -18737,9 +18968,9 @@
                 "songsName": "MOBILYS",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
-                    9.7,
-                    14.4,
+                    5.5,
+                    9.3,
+                    14.3,
                     0.0
                 ],
                 "illustrator": "わっふゑ",
@@ -18807,9 +19038,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    11.6,
-                    15.8,
-                    16.2,
+                    11.1,
+                    16.1,
+                    16.5,
                     15.9
                 ],
                 "illustrator": "何呵",
@@ -18947,8 +19178,8 @@
                 "songsName": "Demonkin",
                 "songsTitle": "",
                 "difficulty": [
-                    5.5,
-                    9.4,
+                    4.5,
+                    9.2,
                     13.8,
                     0.0
                 ],
@@ -19016,8 +19247,8 @@
                 "songsName": "Re_Nascence (Psystyle Ver.) ",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    11.4,
+                    5.5,
+                    11.7,
                     14.3,
                     0.0
                 ],
@@ -19085,17 +19316,17 @@
                 "songsName": "Ark",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
+                    3.5,
                     9.5,
-                    15.1,
-                    0.0
+                    15.0,
+                    16.5
                 ],
                 "illustrator": "MOAI WORKS",
                 "charter": [
                     "TimiTini",
                     "TimiTini",
                     "阿爽 eat Ctymax",
-                    ""
+                    "StupiGGy"
                 ],
                 "composer": "kanoryo",
                 "levels": [
@@ -19154,7 +19385,7 @@
                 "songsName": "After Dawn",
                 "songsTitle": "",
                 "difficulty": [
-                    4.0,
+                    3.0,
                     10.4,
                     15.3,
                     0.0
@@ -19223,10 +19454,10 @@
                 "songsName": "INFiNiTE ENERZY -Overdoze-",
                 "songsTitle": "",
                 "difficulty": [
-                    7.5,
-                    12.4,
-                    14.7,
-                    16.3
+                    6.5,
+                    12.3,
+                    14.8,
+                    16.8
                 ],
                 "illustrator": "knife美工刀",
                 "charter": [
@@ -19363,7 +19594,7 @@
                 "difficulty": [
                     6.0,
                     11.2,
-                    14.8,
+                    15.0,
                     0.0
                 ],
                 "illustrator": "sa1t",
@@ -19432,7 +19663,7 @@
                 "difficulty": [
                     7.0,
                     10.9,
-                    15.1,
+                    15.3,
                     0.0
                 ],
                 "illustrator": "PEZZ feat. 祈莲 & CattoHato",
@@ -19499,7 +19730,7 @@
                 "songsName": "PANIC PARADISE",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
+                    6.5,
                     11.5,
                     15.4,
                     0.0
@@ -19569,9 +19800,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     7.5,
-                    13.1,
-                    15.6,
-                    16.4
+                    13.0,
+                    15.9,
+                    16.9
                 ],
                 "illustrator": "masiro vs. adaptor",
                 "charter": [
@@ -19708,7 +19939,7 @@
                 "difficulty": [
                     4.5,
                     9.9,
-                    14.3,
+                    14.4,
                     0.0
                 ],
                 "illustrator": "NerSAN",
@@ -19846,7 +20077,7 @@
                 "difficulty": [
                     5.0,
                     10.4,
-                    14.7,
+                    14.8,
                     0.0
                 ],
                 "illustrator": "cokeAnut",
@@ -19984,8 +20215,8 @@
                 "difficulty": [
                     8.1,
                     12.9,
-                    15.5,
-                    16.2
+                    15.7,
+                    16.6
                 ],
                 "illustrator": "御坂果子",
                 "charter": [
@@ -20121,6 +20352,24 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "ニライカナイ (NiraicA_nai Mix)",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "インマイマインド",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "贝多芬祝福 (Beethoven Blessing)",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "蝎虎天体 -Lacertid-",
             "unlockedTimes": 0,
@@ -24053,6 +24302,24 @@
         },
         {
             "keyName": "蝎虎天体 -Lacertid-",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "贝多芬祝福 (Beethoven Blessing)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "インマイマインド",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "ニライカナイ (NiraicA_nai Mix)",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
