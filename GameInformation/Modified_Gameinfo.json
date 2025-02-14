@@ -1,8 +1,5 @@
 {
     "allSongs": [
-        "ニライカナイNiraicA_naiMix.roopfromSTR.0",
-        "インマイマインド.レシオP.0",
-        "贝多芬祝福BeethovenBlessing.Nauts.0",
         "蝎虎天体Lacertid.CreamvsDaily天利.0",
         "Shelter.MeatyRabbitNceS.0",
         "KirakiraNoelStory.RekuMochizuki.0",
@@ -261,93 +258,6 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
-        "ニライカナイNiraicA_naiMix.roopfromSTR.0": {
-            "chapterCode": "Single",
-            "unlockType": 1,
-            "songsName": "ニライカナイ (NiraicA_nai Mix)",
-            "composer": "roop from STR",
-            "illustrator": "3z",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN"
-                ],
-                "EZ": {
-                    "rating": 2.5,
-                    "charter": "Barbarianerman",
-                    "numOfNotes": 207
-                },
-                "HD": {
-                    "rating": 8.3,
-                    "charter": "Ctymax respect for STAR TRACK in 2008",
-                    "numOfNotes": 354
-                },
-                "IN": {
-                    "rating": 13.5,
-                    "charter": "Ctymax respect for STAR TRACK in 2008",
-                    "numOfNotes": 650
-                }
-            }
-        },
-        "インマイマインド.レシオP.0": {
-            "chapterCode": "Single",
-            "unlockType": 1,
-            "songsName": "インマイマインド",
-            "composer": "レシオP",
-            "illustrator": "すずか爆弾",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN"
-                ],
-                "EZ": {
-                    "rating": 1.5,
-                    "charter": "Salt",
-                    "numOfNotes": 89
-                },
-                "HD": {
-                    "rating": 9.2,
-                    "charter": "Salt",
-                    "numOfNotes": 479
-                },
-                "IN": {
-                    "rating": 12.2,
-                    "charter": "ネルサン (I make charts slowly)",
-                    "numOfNotes": 562
-                }
-            }
-        },
-        "贝多芬祝福BeethovenBlessing.Nauts.0": {
-            "chapterCode": "Single",
-            "unlockType": 1,
-            "songsName": "贝多芬祝福 (Beethoven Blessing)",
-            "composer": "Nauts",
-            "illustrator": "RM Design Team (青鸟 modified)",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN"
-                ],
-                "EZ": {
-                    "rating": 5.0,
-                    "charter": "StupiGGy",
-                    "numOfNotes": 301
-                },
-                "HD": {
-                    "rating": 10.8,
-                    "charter": "Blessing beyond myself.",
-                    "numOfNotes": 445
-                },
-                "IN": {
-                    "rating": 15.0,
-                    "charter": "Salt feat. XMT小咩兔",
-                    "numOfNotes": 913
-                }
-            }
-        },
         "蝎虎天体Lacertid.CreamvsDaily天利.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -395,7 +305,7 @@
                     "numOfNotes": 265
                 },
                 "HD": {
-                    "rating": 8.8,
+                    "rating": 9.3,
                     "charter": "Cluttler with ShelteR",
                     "numOfNotes": 388
                 },
@@ -453,7 +363,7 @@
                     "numOfNotes": 317
                 },
                 "HD": {
-                    "rating": 9.6,
+                    "rating": 9.8,
                     "charter": "StupiGGy",
                     "numOfNotes": 657
                 },
@@ -487,7 +397,7 @@
                     "numOfNotes": 914
                 },
                 "IN": {
-                    "rating": 15.9,
+                    "rating": 15.7,
                     "charter": "Simon_Axis",
                     "numOfNotes": 1197
                 }
@@ -545,7 +455,7 @@
                     "numOfNotes": 835
                 },
                 "IN": {
-                    "rating": 15.8,
+                    "rating": 15.6,
                     "charter": "vesper/straycat",
                     "numOfNotes": 1083
                 }
@@ -598,7 +508,7 @@
                     "numOfNotes": 262
                 },
                 "HD": {
-                    "rating": 9.0,
+                    "rating": 9.1,
                     "charter": "Salt",
                     "numOfNotes": 588
                 },
@@ -627,7 +537,7 @@
                     "numOfNotes": 351
                 },
                 "HD": {
-                    "rating": 10.6,
+                    "rating": 11.1,
                     "charter": "StuRmfeuer",
                     "numOfNotes": 600
                 },
@@ -661,7 +571,7 @@
                     "numOfNotes": 453
                 },
                 "IN": {
-                    "rating": 14.6,
+                    "rating": 14.5,
                     "charter": "StrayCat",
                     "numOfNotes": 951
                 }
@@ -690,7 +600,7 @@
                     "numOfNotes": 673
                 },
                 "IN": {
-                    "rating": 15.3,
+                    "rating": 15.2,
                     "charter": "Uvernight & Su1fuR",
                     "numOfNotes": 884
                 }
@@ -748,7 +658,7 @@
                     "numOfNotes": 303
                 },
                 "IN": {
-                    "rating": 16.2,
+                    "rating": 15.9,
                     "charter": "孤独な騎士 Against 魔王、大咩兔",
                     "numOfNotes": 1286
                 }
@@ -767,17 +677,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.5,
+                    "rating": 3.0,
                     "charter": "扫佛不是嫂夫",
                     "numOfNotes": 294
                 },
                 "HD": {
-                    "rating": 8.3,
+                    "rating": 8.5,
                     "charter": "扫佛不是嫂夫",
                     "numOfNotes": 546
                 },
                 "IN": {
-                    "rating": 13.4,
+                    "rating": 13.5,
                     "charter": "杂波不是杂啵，野从不是野丛",
                     "numOfNotes": 913
                 }
@@ -830,12 +740,12 @@
                     "numOfNotes": 262
                 },
                 "HD": {
-                    "rating": 9.7,
+                    "rating": 9.9,
                     "charter": "Su1fuR",
                     "numOfNotes": 647
                 },
                 "IN": {
-                    "rating": 14.4,
+                    "rating": 14.6,
                     "charter": "Salt & Uvernight",
                     "numOfNotes": 800
                 }
@@ -865,12 +775,12 @@
                     "numOfNotes": 661
                 },
                 "IN": {
-                    "rating": 16.0,
+                    "rating": 15.6,
                     "charter": "-NerSAN & Su1fuR-",
                     "numOfNotes": 999
                 },
                 "AT": {
-                    "rating": 16.6,
+                    "rating": 16.3,
                     "charter": "THE LAST 198",
                     "numOfNotes": 1156
                 }
@@ -890,22 +800,22 @@
                     "AT"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 5.5,
                     "charter": "SeveredEntity (BlindForest vs. rN) feat. Δ",
                     "numOfNotes": 313
                 },
                 "HD": {
-                    "rating": 10.8,
+                    "rating": 11.8,
                     "charter": "Δ (M3d1uM vs. Salt)",
                     "numOfNotes": 801
                 },
                 "IN": {
-                    "rating": 15.4,
+                    "rating": 15.2,
                     "charter": "StupiGGy -The Origin-",
                     "numOfNotes": 1063
                 },
                 "AT": {
-                    "rating": 16.4,
+                    "rating": 15.9,
                     "charter": "弧光",
                     "numOfNotes": 1200
                 }
@@ -929,12 +839,12 @@
                     "numOfNotes": 230
                 },
                 "HD": {
-                    "rating": 9.3,
+                    "rating": 9.5,
                     "charter": "COLORFUL CTYMAX",
                     "numOfNotes": 372
                 },
                 "IN": {
-                    "rating": 14.8,
+                    "rating": 14.7,
                     "charter": "COLORFUL BLACK GAUSBON",
                     "numOfNotes": 780
                 }
@@ -953,7 +863,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.0,
+                    "rating": 4.0,
                     "charter": "Clutter",
                     "numOfNotes": 169
                 },
@@ -987,12 +897,12 @@
                     "numOfNotes": 270
                 },
                 "HD": {
-                    "rating": 10.5,
+                    "rating": 11.5,
                     "charter": "Crush βETA",
                     "numOfNotes": 666
                 },
                 "IN": {
-                    "rating": 15.2,
+                    "rating": 15.1,
                     "charter": "Timi今天吃神马",
                     "numOfNotes": 977
                 }
@@ -1021,7 +931,7 @@
                     "numOfNotes": 900
                 },
                 "IN": {
-                    "rating": 15.8,
+                    "rating": 15.6,
                     "charter": "A.S.H.",
                     "numOfNotes": 1541
                 }
@@ -1040,7 +950,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 4.0,
                     "charter": "爽夜讃歌",
                     "numOfNotes": 402
                 },
@@ -1050,7 +960,7 @@
                     "numOfNotes": 593
                 },
                 "IN": {
-                    "rating": 15.2,
+                    "rating": 15.3,
                     "charter": "NerSANTA & Gausbell",
                     "numOfNotes": 1339
                 }
@@ -1079,7 +989,7 @@
                     "numOfNotes": 333
                 },
                 "IN": {
-                    "rating": 14.8,
+                    "rating": 14.9,
                     "charter": "Ner ~ See you next time ~",
                     "numOfNotes": 725
                 }
@@ -1108,7 +1018,7 @@
                     "numOfNotes": 796
                 },
                 "IN": {
-                    "rating": 16.3,
+                    "rating": 15.9,
                     "charter": "逆天使の悪魔 【Likey】",
                     "numOfNotes": 1084
                 }
@@ -1132,12 +1042,12 @@
                     "numOfNotes": 376
                 },
                 "HD": {
-                    "rating": 9.3,
+                    "rating": 9.7,
                     "charter": "XMT is silvery, 小咩兔 is silvery",
                     "numOfNotes": 795
                 },
                 "IN": {
-                    "rating": 15.6,
+                    "rating": 15.5,
                     "charter": "Hara is golden, Kuma is golden",
                     "numOfNotes": 1273
                 }
@@ -1156,12 +1066,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.5,
+                    "rating": 3.0,
                     "charter": "Su1fuR",
                     "numOfNotes": 152
                 },
                 "HD": {
-                    "rating": 9.5,
+                    "rating": 9.6,
                     "charter": "Barbarianerman",
                     "numOfNotes": 581
                 },
@@ -1185,12 +1095,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.5,
+                    "rating": 4.0,
                     "charter": "Su1fuR",
                     "numOfNotes": 340
                 },
                 "HD": {
-                    "rating": 6.5,
+                    "rating": 7.5,
                     "charter": "Su1fuR",
                     "numOfNotes": 429
                 },
@@ -1219,12 +1129,12 @@
                     "numOfNotes": 423
                 },
                 "HD": {
-                    "rating": 10.0,
+                    "rating": 9.4,
                     "charter": "Barbarianerman & Regret",
                     "numOfNotes": 694
                 },
                 "IN": {
-                    "rating": 15.0,
+                    "rating": 14.7,
                     "charter": "TimiTini & HaraKuma",
                     "numOfNotes": 1014
                 }
@@ -1253,7 +1163,7 @@
                     "numOfNotes": 1290
                 },
                 "IN": {
-                    "rating": 15.8,
+                    "rating": 15.5,
                     "charter": "さるふるふるさ",
                     "numOfNotes": 1243
                 }
@@ -1272,17 +1182,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.5,
+                    "rating": 4.5,
                     "charter": "Barbarianerman",
                     "numOfNotes": 216
                 },
                 "HD": {
-                    "rating": 10.2,
+                    "rating": 10.8,
                     "charter": "Barbarianerman",
                     "numOfNotes": 562
                 },
                 "IN": {
-                    "rating": 13.8,
+                    "rating": 14.1,
                     "charter": "NerSAN",
                     "numOfNotes": 673
                 }
@@ -1306,7 +1216,7 @@
                     "numOfNotes": 194
                 },
                 "HD": {
-                    "rating": 9.4,
+                    "rating": 10.2,
                     "charter": "Barbarianerman",
                     "numOfNotes": 331
                 },
@@ -1335,7 +1245,7 @@
                     "numOfNotes": 246
                 },
                 "HD": {
-                    "rating": 11.2,
+                    "rating": 10.7,
                     "charter": "M3d1uM",
                     "numOfNotes": 777
                 },
@@ -1388,7 +1298,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 6.0,
                     "charter": "Barbarianerman",
                     "numOfNotes": 275
                 },
@@ -1422,12 +1332,12 @@
                     "numOfNotes": 140
                 },
                 "HD": {
-                    "rating": 9.9,
+                    "rating": 9.6,
                     "charter": "&ikko",
                     "numOfNotes": 278
                 },
                 "IN": {
-                    "rating": 15.7,
+                    "rating": 15.5,
                     "charter": "1÷98",
                     "numOfNotes": 888
                 }
@@ -1446,7 +1356,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 5.5,
                     "charter": "Lumiere",
                     "numOfNotes": 630
                 },
@@ -1456,7 +1366,7 @@
                     "numOfNotes": 545
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.4,
                     "charter": "_鉄",
                     "numOfNotes": 946
                 }
@@ -1475,17 +1385,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 5.0,
                     "charter": "Su1fuR",
                     "numOfNotes": 352
                 },
                 "HD": {
-                    "rating": 11.5,
+                    "rating": 11.2,
                     "charter": "Alloces feat. Uvernight",
                     "numOfNotes": 578
                 },
                 "IN": {
-                    "rating": 15.7,
+                    "rating": 15.5,
                     "charter": "Alloces",
                     "numOfNotes": 1275
                 }
@@ -1514,7 +1424,7 @@
                     "numOfNotes": 534
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.3,
                     "charter": "KillJoy",
                     "numOfNotes": 1304
                 }
@@ -1543,7 +1453,7 @@
                     "numOfNotes": 567
                 },
                 "IN": {
-                    "rating": 15.3,
+                    "rating": 15.1,
                     "charter": "晨",
                     "numOfNotes": 899
                 }
@@ -1567,7 +1477,7 @@
                     "numOfNotes": 264
                 },
                 "HD": {
-                    "rating": 8.9,
+                    "rating": 9.5,
                     "charter": "Believe TimiTini",
                     "numOfNotes": 580
                 },
@@ -1597,7 +1507,7 @@
                     "numOfNotes": 300
                 },
                 "HD": {
-                    "rating": 11.5,
+                    "rating": 11.8,
                     "charter": "Barbarianerman",
                     "numOfNotes": 919
                 },
@@ -1626,7 +1536,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 6.0,
                     "charter": "TimiTini",
                     "numOfNotes": 259
                 },
@@ -1636,7 +1546,7 @@
                     "numOfNotes": 585
                 },
                 "IN": {
-                    "rating": 15.6,
+                    "rating": 15.4,
                     "charter": "XMT小咩兔",
                     "numOfNotes": 1140
                 }
@@ -1665,7 +1575,7 @@
                     "numOfNotes": 594
                 },
                 "IN": {
-                    "rating": 14.2,
+                    "rating": 14.4,
                     "charter": "Raiky Season",
                     "numOfNotes": 660
                 }
@@ -1689,7 +1599,7 @@
                     "numOfNotes": 288
                 },
                 "HD": {
-                    "rating": 9.6,
+                    "rating": 8.8,
                     "charter": "M3d1uM",
                     "numOfNotes": 533
                 },
@@ -1747,12 +1657,12 @@
                     "numOfNotes": 330
                 },
                 "HD": {
-                    "rating": 12.2,
+                    "rating": 12.5,
                     "charter": "h.o.m.e.e.e.",
                     "numOfNotes": 755
                 },
                 "IN": {
-                    "rating": 15.9,
+                    "rating": 15.7,
                     "charter": "s.t.p.g.",
                     "numOfNotes": 1066
                 }
@@ -1776,7 +1686,7 @@
                     "numOfNotes": 50
                 },
                 "HD": {
-                    "rating": 11.8,
+                    "rating": 11.6,
                     "charter": "Rikko",
                     "numOfNotes": 400
                 },
@@ -1805,12 +1715,12 @@
                     "numOfNotes": 195
                 },
                 "HD": {
-                    "rating": 9.6,
+                    "rating": 10.3,
                     "charter": "Rikko",
                     "numOfNotes": 323
                 },
                 "IN": {
-                    "rating": 15.2,
+                    "rating": 14.9,
                     "charter": "NerSAN feat. Takanashi Rikko",
                     "numOfNotes": 830
                 }
@@ -1829,7 +1739,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 5.0,
                     "charter": "XMT小咩兔",
                     "numOfNotes": 419
                 },
@@ -1839,7 +1749,7 @@
                     "numOfNotes": 533
                 },
                 "IN": {
-                    "rating": 14.9,
+                    "rating": 14.8,
                     "charter": "iv",
                     "numOfNotes": 969
                 }
@@ -1858,17 +1768,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.5,
+                    "rating": 4.0,
                     "charter": "Clutter & Barbarianerman",
                     "numOfNotes": 188
                 },
                 "HD": {
-                    "rating": 9.2,
+                    "rating": 9.6,
                     "charter": "Clutter & Barbarianerman",
                     "numOfNotes": 441
                 },
                 "IN": {
-                    "rating": 15.0,
+                    "rating": 14.8,
                     "charter": "小咩兔、参上",
                     "numOfNotes": 865
                 }
@@ -1892,12 +1802,12 @@
                     "numOfNotes": 233
                 },
                 "HD": {
-                    "rating": 10.6,
+                    "rating": 11.6,
                     "charter": "BlindForest 『Observing』",
                     "numOfNotes": 548
                 },
                 "IN": {
-                    "rating": 15.6,
+                    "rating": 15.5,
                     "charter": "Jeitie & CorruptedEntity 『Hollow』",
                     "numOfNotes": 793
                 }
@@ -1916,12 +1826,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 1.5,
+                    "rating": 2.5,
                     "charter": "Likey",
                     "numOfNotes": 76
                 },
                 "HD": {
-                    "rating": 9.2,
+                    "rating": 9.5,
                     "charter": "JKy",
                     "numOfNotes": 364
                 },
@@ -1945,17 +1855,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.5,
+                    "rating": 5.0,
                     "charter": "M3d1uM & 百九十八",
                     "numOfNotes": 285
                 },
                 "HD": {
-                    "rating": 9.8,
+                    "rating": 9.3,
                     "charter": "M3d1uM & 百九十八",
                     "numOfNotes": 596
                 },
                 "IN": {
-                    "rating": 14.6,
+                    "rating": 14.7,
                     "charter": "百九十八 busting 阿爽",
                     "numOfNotes": 755
                 }
@@ -1979,12 +1889,12 @@
                     "numOfNotes": 330
                 },
                 "HD": {
-                    "rating": 9.7,
+                    "rating": 9.3,
                     "charter": "Uvernight",
                     "numOfNotes": 608
                 },
                 "IN": {
-                    "rating": 14.4,
+                    "rating": 14.5,
                     "charter": "百九十八",
                     "numOfNotes": 650
                 }
@@ -2003,17 +1913,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 5.5,
                     "charter": "Barbarianerman",
                     "numOfNotes": 365
                 },
                 "HD": {
-                    "rating": 11.0,
+                    "rating": 11.7,
                     "charter": "XMT小咩兔",
                     "numOfNotes": 570
                 },
                 "IN": {
-                    "rating": 14.3,
+                    "rating": 14.4,
                     "charter": "Future BarbarXMT",
                     "numOfNotes": 866
                 }
@@ -2037,12 +1947,12 @@
                     "numOfNotes": 392
                 },
                 "HD": {
-                    "rating": 9.4,
+                    "rating": 9.1,
                     "charter": "Likey",
                     "numOfNotes": 453
                 },
                 "IN": {
-                    "rating": 14.7,
+                    "rating": 14.6,
                     "charter": "Barbarianerman & NerSAN in the ICU",
                     "numOfNotes": 996
                 }
@@ -2061,12 +1971,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.5,
+                    "rating": 3.0,
                     "charter": "阿爽",
                     "numOfNotes": 136
                 },
                 "HD": {
-                    "rating": 9.6,
+                    "rating": 8.7,
                     "charter": "Another Stage",
                     "numOfNotes": 353
                 },
@@ -2090,17 +2000,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 7.0,
+                    "rating": 6.0,
                     "charter": "Bear",
                     "numOfNotes": 338
                 },
                 "HD": {
-                    "rating": 10.3,
+                    "rating": 9.8,
                     "charter": "Bear",
                     "numOfNotes": 476
                 },
                 "IN": {
-                    "rating": 13.6,
+                    "rating": 13.2,
                     "charter": "XMT & 198",
                     "numOfNotes": 627
                 }
@@ -2124,7 +2034,7 @@
                     "numOfNotes": 639
                 },
                 "HD": {
-                    "rating": 8.5,
+                    "rating": 8.3,
                     "charter": "merry XM AS",
                     "numOfNotes": 492
                 },
@@ -2148,7 +2058,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 5.5,
                     "charter": "J.R",
                     "numOfNotes": 450
                 },
@@ -2158,7 +2068,7 @@
                     "numOfNotes": 700
                 },
                 "IN": {
-                    "rating": 15.6,
+                    "rating": 15.5,
                     "charter": "Phigros Charting Team",
                     "numOfNotes": 1000
                 }
@@ -2182,12 +2092,12 @@
                     "numOfNotes": 181
                 },
                 "HD": {
-                    "rating": 11.7,
+                    "rating": 11.3,
                     "charter": "Rikko & TangScend",
                     "numOfNotes": 449
                 },
                 "IN": {
-                    "rating": 14.6,
+                    "rating": 14.7,
                     "charter": "TangScend",
                     "numOfNotes": 777
                 }
@@ -2216,7 +2126,7 @@
                     "numOfNotes": 683
                 },
                 "IN": {
-                    "rating": 15.8,
+                    "rating": 15.5,
                     "charter": "Snorkel vs. NerSAN",
                     "numOfNotes": 978
                 }
@@ -2235,12 +2145,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 7.5,
+                    "rating": 6.5,
                     "charter": "-JKy-",
                     "numOfNotes": 462
                 },
                 "HD": {
-                    "rating": 8.8,
+                    "rating": 9.7,
                     "charter": "-JKy-",
                     "numOfNotes": 454
                 },
@@ -2269,12 +2179,12 @@
                     "numOfNotes": 196
                 },
                 "HD": {
-                    "rating": 12.0,
+                    "rating": 11.9,
                     "charter": "StupiGGy",
                     "numOfNotes": 571
                 },
                 "IN": {
-                    "rating": 15.6,
+                    "rating": 15.4,
                     "charter": "森德雷斯 vs. 百九十八",
                     "numOfNotes": 833
                 }
@@ -2293,17 +2203,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.0,
+                    "rating": 4.5,
                     "charter": "NerSAN",
                     "numOfNotes": 252
                 },
                 "HD": {
-                    "rating": 10.4,
+                    "rating": 11.4,
                     "charter": "NerSANN",
                     "numOfNotes": 477
                 },
                 "IN": {
-                    "rating": 15.4,
+                    "rating": 15.2,
                     "charter": "NerSANNN",
                     "numOfNotes": 930
                 }
@@ -2322,7 +2232,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.5,
+                    "rating": 3.0,
                     "charter": "野从菠萝",
                     "numOfNotes": 220
                 },
@@ -2380,12 +2290,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 5.0,
                     "charter": "Barbarianerman",
                     "numOfNotes": 512
                 },
                 "HD": {
-                    "rating": 12.0,
+                    "rating": 11.3,
                     "charter": "HaraKuma",
                     "numOfNotes": 644
                 },
@@ -2414,12 +2324,12 @@
                     "numOfNotes": 226
                 },
                 "HD": {
-                    "rating": 9.1,
+                    "rating": 9.3,
                     "charter": "with U",
                     "numOfNotes": 654
                 },
                 "IN": {
-                    "rating": 13.5,
+                    "rating": 13.4,
                     "charter": "with U",
                     "numOfNotes": 774
                 }
@@ -2438,12 +2348,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 6.5,
                     "charter": "NerSAN",
                     "numOfNotes": 178
                 },
                 "HD": {
-                    "rating": 11.1,
+                    "rating": 11.7,
                     "charter": "NerSAN",
                     "numOfNotes": 469
                 },
@@ -2467,17 +2377,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 7.0,
+                    "rating": 6.5,
                     "charter": "JKy",
                     "numOfNotes": 391
                 },
                 "HD": {
-                    "rating": 10.6,
+                    "rating": 10.5,
                     "charter": "JKy",
                     "numOfNotes": 608
                 },
                 "IN": {
-                    "rating": 14.8,
+                    "rating": 14.7,
                     "charter": "BarbariaNERman vs. JKy",
                     "numOfNotes": 855
                 }
@@ -2506,7 +2416,7 @@
                     "numOfNotes": 549
                 },
                 "IN": {
-                    "rating": 15.1,
+                    "rating": 14.8,
                     "charter": "Eaimo vs. CtyNer dancing wildly",
                     "numOfNotes": 1002
                 }
@@ -2554,17 +2464,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 3.5,
                     "charter": "Cty moyules",
                     "numOfNotes": 258
                 },
                 "HD": {
-                    "rating": 10.4,
+                    "rating": 10.1,
                     "charter": "Cty moyules",
                     "numOfNotes": 482
                 },
                 "IN": {
-                    "rating": 14.9,
+                    "rating": 14.7,
                     "charter": "Pat Brick Man Mr.C",
                     "numOfNotes": 774
                 }
@@ -2612,17 +2522,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 5.5,
                     "charter": "Merry xmAS",
                     "numOfNotes": 316
                 },
                 "HD": {
-                    "rating": 10.8,
+                    "rating": 10.4,
                     "charter": "Merry ChristymAxS",
                     "numOfNotes": 559
                 },
                 "IN": {
-                    "rating": 15.4,
+                    "rating": 15.3,
                     "charter": "N\\erry Xmas",
                     "numOfNotes": 939
                 }
@@ -2646,7 +2556,7 @@
                     "numOfNotes": 148
                 },
                 "HD": {
-                    "rating": 7.0,
+                    "rating": 6.5,
                     "charter": "Barbarianerman",
                     "numOfNotes": 420
                 },
@@ -2670,12 +2580,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.5,
+                    "rating": 3.0,
                     "charter": "Barbarianerman",
                     "numOfNotes": 345
                 },
                 "HD": {
-                    "rating": 9.7,
+                    "rating": 9.4,
                     "charter": "Snorkel",
                     "numOfNotes": 626
                 },
@@ -2704,7 +2614,7 @@
                     "numOfNotes": 340
                 },
                 "HD": {
-                    "rating": 8.4,
+                    "rating": 8.5,
                     "charter": "Hardcore Barbaya",
                     "numOfNotes": 611
                 },
@@ -2733,12 +2643,12 @@
                     "numOfNotes": 352
                 },
                 "HD": {
-                    "rating": 10.5,
+                    "rating": 11.5,
                     "charter": "Bσrbσriσnermσn.exe",
                     "numOfNotes": 516
                 },
                 "IN": {
-                    "rating": 15.8,
+                    "rating": 15.6,
                     "charter": "Bσrbσriσn∑rmσn.∑x∑",
                     "numOfNotes": 785
                 }
@@ -2762,7 +2672,7 @@
                     "numOfNotes": 219
                 },
                 "HD": {
-                    "rating": 9.4,
+                    "rating": 10.4,
                     "charter": "百九十八",
                     "numOfNotes": 423
                 },
@@ -2796,7 +2706,7 @@
                     "numOfNotes": 578
                 },
                 "IN": {
-                    "rating": 15.2,
+                    "rating": 15.1,
                     "charter": "NerSAN",
                     "numOfNotes": 874
                 }
@@ -2820,12 +2730,12 @@
                     "numOfNotes": 507
                 },
                 "HD": {
-                    "rating": 10.9,
+                    "rating": 10.7,
                     "charter": "HaraKuma",
                     "numOfNotes": 697
                 },
                 "IN": {
-                    "rating": 14.2,
+                    "rating": 14.4,
                     "charter": "HaraKuma",
                     "numOfNotes": 851
                 }
@@ -2844,7 +2754,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 6.0,
                     "charter": "鲲",
                     "numOfNotes": 217
                 },
@@ -2878,12 +2788,12 @@
                     "numOfNotes": 312
                 },
                 "HD": {
-                    "rating": 8.5,
+                    "rating": 10.6,
                     "charter": "StR-1",
                     "numOfNotes": 446
                 },
                 "IN": {
-                    "rating": 13.7,
+                    "rating": 14.1,
                     "charter": "Uvernight fixed by StR-1",
                     "numOfNotes": 963
                 }
@@ -2907,12 +2817,12 @@
                     "numOfNotes": 210
                 },
                 "HD": {
-                    "rating": 9.6,
+                    "rating": 9.1,
                     "charter": "百九十八",
                     "numOfNotes": 386
                 },
                 "IN": {
-                    "rating": 14.7,
+                    "rating": 14.6,
                     "charter": "百九十八",
                     "numOfNotes": 697
                 }
@@ -2941,7 +2851,7 @@
                     "numOfNotes": 772
                 },
                 "IN": {
-                    "rating": 15.9,
+                    "rating": 15.7,
                     "charter": "Jeitie",
                     "numOfNotes": 1059
                 }
@@ -2965,12 +2875,12 @@
                     "numOfNotes": 321
                 },
                 "HD": {
-                    "rating": 10.7,
+                    "rating": 11.4,
                     "charter": "JKy",
                     "numOfNotes": 550
                 },
                 "IN": {
-                    "rating": 14.0,
+                    "rating": 14.1,
                     "charter": "JKy",
                     "numOfNotes": 708
                 }
@@ -2999,7 +2909,7 @@
                     "numOfNotes": 631
                 },
                 "IN": {
-                    "rating": 14.4,
+                    "rating": 14.5,
                     "charter": "Ctymax vs. 晨",
                     "numOfNotes": 791
                 }
@@ -3028,7 +2938,7 @@
                     "numOfNotes": 463
                 },
                 "IN": {
-                    "rating": 14.0,
+                    "rating": 14.3,
                     "charter": "Ctymax vs. 百九十八",
                     "numOfNotes": 711
                 }
@@ -3052,7 +2962,7 @@
                     "numOfNotes": 273
                 },
                 "HD": {
-                    "rating": 12.0,
+                    "rating": 11.7,
                     "charter": "Phigros Charting Team",
                     "numOfNotes": 613
                 },
@@ -3110,12 +3020,12 @@
                     "numOfNotes": 240
                 },
                 "HD": {
-                    "rating": 8.7,
+                    "rating": 9.2,
                     "charter": "Gausbon ~ See you next time ~ ",
                     "numOfNotes": 303
                 },
                 "IN": {
-                    "rating": 12.4,
+                    "rating": 12.6,
                     "charter": "Gausbon ~ See you next time ~ ",
                     "numOfNotes": 387
                 }
@@ -3145,7 +3055,7 @@
                     "numOfNotes": 531
                 },
                 "IN": {
-                    "rating": 16.0,
+                    "rating": 15.7,
                     "charter": "Clutter",
                     "numOfNotes": 885
                 },
@@ -3169,17 +3079,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 7.0,
+                    "rating": 6.0,
                     "charter": "Ctymatch Girl",
                     "numOfNotes": 278
                 },
                 "HD": {
-                    "rating": 11.2,
+                    "rating": 10.6,
                     "charter": "Burn Full Catcats",
                     "numOfNotes": 497
                 },
                 "IN": {
-                    "rating": 15.2,
+                    "rating": 14.9,
                     "charter": "Burn Full Catcats vs. Ctymatch Girl",
                     "numOfNotes": 707
                 }
@@ -3208,7 +3118,7 @@
                     "numOfNotes": 459
                 },
                 "IN": {
-                    "rating": 13.4,
+                    "rating": 13.3,
                     "charter": "VikingNexus",
                     "numOfNotes": 655
                 }
@@ -3227,17 +3137,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 5.5,
                     "charter": "XMT小咩兔 & Myna",
                     "numOfNotes": 369
                 },
                 "HD": {
-                    "rating": 11.8,
+                    "rating": 11.6,
                     "charter": "XMT小咩兔 & Myna",
                     "numOfNotes": 644
                 },
                 "IN": {
-                    "rating": 14.0,
+                    "rating": 14.2,
                     "charter": "StupiGGy fixed by 百九十八",
                     "numOfNotes": 861
                 }
@@ -3296,12 +3206,12 @@
                     "numOfNotes": 651
                 },
                 "IN": {
-                    "rating": 14.3,
+                    "rating": 14.5,
                     "charter": "晨",
                     "numOfNotes": 968
                 },
                 "AT": {
-                    "rating": 16.4,
+                    "rating": 16.1,
                     "charter": "Catcats a.k.a. 無極 vs. H.C.C. fixed by 野从&晨",
                     "numOfNotes": 1325
                 }
@@ -3320,17 +3230,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.0,
+                    "rating": 4.5,
                     "charter": "A.S.H",
                     "numOfNotes": 203
                 },
                 "HD": {
-                    "rating": 10.1,
+                    "rating": 9.8,
                     "charter": "A.S.H",
                     "numOfNotes": 473
                 },
                 "IN": {
-                    "rating": 15.1,
+                    "rating": 14.9,
                     "charter": "A.S.H&晨",
                     "numOfNotes": 721
                 }
@@ -3359,7 +3269,7 @@
                     "numOfNotes": 657
                 },
                 "IN": {
-                    "rating": 14.3,
+                    "rating": 14.4,
                     "charter": "Find_Ctymax fixed by 百九十八",
                     "numOfNotes": 836
                 }
@@ -3383,12 +3293,12 @@
                     "numOfNotes": 312
                 },
                 "HD": {
-                    "rating": 10.6,
+                    "rating": 10.5,
                     "charter": "HaraKuma",
                     "numOfNotes": 357
                 },
                 "IN": {
-                    "rating": 13.7,
+                    "rating": 14.1,
                     "charter": "Barbarianerman",
                     "numOfNotes": 520
                 }
@@ -3407,17 +3317,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 7.0,
+                    "rating": 6.0,
                     "charter": "HaraKuma",
                     "numOfNotes": 399
                 },
                 "HD": {
-                    "rating": 11.9,
+                    "rating": 11.5,
                     "charter": "HaraKuma",
                     "numOfNotes": 601
                 },
                 "IN": {
-                    "rating": 13.8,
+                    "rating": 14.2,
                     "charter": "Barbarianerman feat. 晨",
                     "numOfNotes": 840
                 }
@@ -3446,7 +3356,7 @@
                     "numOfNotes": 362
                 },
                 "IN": {
-                    "rating": 13.3,
+                    "rating": 13.1,
                     "charter": "百九十八",
                     "numOfNotes": 553
                 }
@@ -3465,17 +3375,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 7.5,
                     "charter": "撕裂者『無極』 fixed by 晨",
                     "numOfNotes": 520
                 },
                 "HD": {
-                    "rating": 11.7,
+                    "rating": 11.2,
                     "charter": "撕裂者『無極』 fixed by 晨",
                     "numOfNotes": 704
                 },
                 "IN": {
-                    "rating": 15.3,
+                    "rating": 15.2,
                     "charter": "撕裂者『Alloces vs. Shin』",
                     "numOfNotes": 1186
                 }
@@ -3499,12 +3409,12 @@
                     "numOfNotes": 505
                 },
                 "HD": {
-                    "rating": 9.2,
+                    "rating": 9.6,
                     "charter": "Drop Catcats",
                     "numOfNotes": 602
                 },
                 "IN": {
-                    "rating": 14.2,
+                    "rating": 14.3,
                     "charter": "NerSAN & 百九十八",
                     "numOfNotes": 1031
                 }
@@ -3523,17 +3433,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.0,
+                    "rating": 3.0,
                     "charter": "Cloud Catcats",
                     "numOfNotes": 220
                 },
                 "HD": {
-                    "rating": 8.9,
+                    "rating": 9.9,
                     "charter": "Cloud Catcats",
                     "numOfNotes": 538
                 },
                 "IN": {
-                    "rating": 12.8,
+                    "rating": 12.6,
                     "charter": "云正太",
                     "numOfNotes": 669
                 }
@@ -3617,22 +3527,22 @@
                     "AT"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 6.0,
                     "charter": "Arenn Saki vs. Catcats vs. 百九十八",
                     "numOfNotes": 368
                 },
                 "HD": {
-                    "rating": 9.8,
+                    "rating": 10.3,
                     "charter": "Arenn Saki vs. Catcats vs. 百九十八",
                     "numOfNotes": 802
                 },
                 "IN": {
-                    "rating": 14.0,
+                    "rating": 13.9,
                     "charter": "Arenn Saki vs. Catcats vs. 百九十八",
                     "numOfNotes": 1156
                 },
                 "AT": {
-                    "rating": 15.1,
+                    "rating": 14.8,
                     "charter": "JKy",
                     "numOfNotes": 1236
                 }
@@ -3651,12 +3561,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 5.5,
                     "charter": "猫の信 & 百九十八",
                     "numOfNotes": 307
                 },
                 "HD": {
-                    "rating": 9.5,
+                    "rating": 9.7,
                     "charter": "猫の信 & 百九十八",
                     "numOfNotes": 648
                 },
@@ -3680,17 +3590,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.0,
+                    "rating": 4.5,
                     "charter": "阿爽 & 百九十八",
                     "numOfNotes": 245
                 },
                 "HD": {
-                    "rating": 9.8,
+                    "rating": 10.6,
                     "charter": "阿爽 & 百九十八",
                     "numOfNotes": 746
                 },
                 "IN": {
-                    "rating": 13.0,
+                    "rating": 13.1,
                     "charter": "阿爽 & 百九十八",
                     "numOfNotes": 885
                 }
@@ -3714,12 +3624,12 @@
                     "numOfNotes": 95
                 },
                 "HD": {
-                    "rating": 10.3,
+                    "rating": 10.2,
                     "charter": "H.C.C. fixed by Barbarinerman",
                     "numOfNotes": 467
                 },
                 "IN": {
-                    "rating": 13.9,
+                    "rating": 14.2,
                     "charter": "百九十八",
                     "numOfNotes": 689
                 }
@@ -3754,7 +3664,7 @@
                     "numOfNotes": 412
                 },
                 "AT": {
-                    "rating": 15.4,
+                    "rating": 14.9,
                     "charter": "阿爽",
                     "numOfNotes": 720
                 }
@@ -3778,12 +3688,12 @@
                     "numOfNotes": 436
                 },
                 "HD": {
-                    "rating": 9.0,
+                    "rating": 9.8,
                     "charter": "Lumiere",
                     "numOfNotes": 591
                 },
                 "IN": {
-                    "rating": 15.1,
+                    "rating": 14.8,
                     "charter": "Gausbon",
                     "numOfNotes": 921
                 }
@@ -3812,7 +3722,7 @@
                     "numOfNotes": 393
                 },
                 "IN": {
-                    "rating": 12.6,
+                    "rating": 12.5,
                     "charter": "Barbarianerman vs. NerSAN",
                     "numOfNotes": 729
                 }
@@ -3871,12 +3781,12 @@
                     "numOfNotes": 355
                 },
                 "IN": {
-                    "rating": 13.6,
+                    "rating": 13.7,
                     "charter": "Ctymax",
                     "numOfNotes": 535
                 },
                 "AT": {
-                    "rating": 15.7,
+                    "rating": 15.5,
                     "charter": "_鉄 (Isotope 59)",
                     "numOfNotes": 638
                 }
@@ -3900,7 +3810,7 @@
                     "numOfNotes": 398
                 },
                 "HD": {
-                    "rating": 9.1,
+                    "rating": 9.4,
                     "charter": "Su1fuR",
                     "numOfNotes": 458
                 },
@@ -3929,12 +3839,12 @@
                     "numOfNotes": 75
                 },
                 "HD": {
-                    "rating": 8.3,
+                    "rating": 8.6,
                     "charter": "Clutter",
                     "numOfNotes": 192
                 },
                 "IN": {
-                    "rating": 13.0,
+                    "rating": 13.4,
                     "charter": "阿爽",
                     "numOfNotes": 433
                 }
@@ -3953,7 +3863,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.0,
+                    "rating": 2.5,
                     "charter": "Catcats & 百九十八 fixed by Clutter",
                     "numOfNotes": 138
                 },
@@ -3963,7 +3873,7 @@
                     "numOfNotes": 315
                 },
                 "IN": {
-                    "rating": 12.4,
+                    "rating": 12.8,
                     "charter": "Catcats & 百九十八",
                     "numOfNotes": 517
                 }
@@ -4002,7 +3912,7 @@
             "chapterCode": "MainStoryLegacy",
             "unlockType": -1,
             "songsName": "混乱-Confusion",
-            "composer": "Only My Black Score",
+            "composer": "OnlyMyBlackScore",
             "illustrator": "L-sp4",
             "chartDetail": {
                 "level_list": [
@@ -4016,7 +3926,7 @@
                     "numOfNotes": 319
                 },
                 "HD": {
-                    "rating": 10.0,
+                    "rating": 10.6,
                     "charter": "StR-1",
                     "numOfNotes": 478
                 },
@@ -4040,12 +3950,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.0,
+                    "rating": 5.5,
                     "charter": "M3d1uM",
                     "numOfNotes": 401
                 },
                 "HD": {
-                    "rating": 10.3,
+                    "rating": 9.7,
                     "charter": "M3d1uM",
                     "numOfNotes": 473
                 },
@@ -4074,12 +3984,12 @@
                     "numOfNotes": 141
                 },
                 "HD": {
-                    "rating": 9.0,
+                    "rating": 9.4,
                     "charter": "Knight",
                     "numOfNotes": 389
                 },
                 "IN": {
-                    "rating": 14.9,
+                    "rating": 14.8,
                     "charter": "AUTO. SHOOTER. fixed by Ctymax",
                     "numOfNotes": 843
                 }
@@ -4103,7 +4013,7 @@
                     "numOfNotes": 111
                 },
                 "HD": {
-                    "rating": 8.0,
+                    "rating": 8.1,
                     "charter": "Clutter",
                     "numOfNotes": 222
                 },
@@ -4166,7 +4076,7 @@
                     "numOfNotes": 701
                 },
                 "IN": {
-                    "rating": 14.7,
+                    "rating": 14.8,
                     "charter": "StupiGGy",
                     "numOfNotes": 898
                 }
@@ -4185,17 +4095,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 4.0,
                     "charter": "Knight",
                     "numOfNotes": 285
                 },
                 "HD": {
-                    "rating": 9.7,
+                    "rating": 10.3,
                     "charter": "Knight",
                     "numOfNotes": 505
                 },
                 "IN": {
-                    "rating": 15.3,
+                    "rating": 15.1,
                     "charter": "NerSAN",
                     "numOfNotes": 941
                 }
@@ -4219,12 +4129,12 @@
                     "numOfNotes": 347
                 },
                 "HD": {
-                    "rating": 11.6,
+                    "rating": 11.8,
                     "charter": "Clutter",
                     "numOfNotes": 675
                 },
                 "IN": {
-                    "rating": 16.1,
+                    "rating": 15.7,
                     "charter": "分化者 fixed by Barbarianerman",
                     "numOfNotes": 1235
                 }
@@ -4277,7 +4187,7 @@
                     "numOfNotes": 393
                 },
                 "HD": {
-                    "rating": 10.8,
+                    "rating": 10.4,
                     "charter": "M3d1uM",
                     "numOfNotes": 771
                 },
@@ -4340,7 +4250,7 @@
                     "numOfNotes": 412
                 },
                 "IN": {
-                    "rating": 13.8,
+                    "rating": 14.2,
                     "charter": "Uvernight fixed by 百九十八",
                     "numOfNotes": 689
                 }
@@ -4433,7 +4343,7 @@
                     "numOfNotes": 593
                 },
                 "IN": {
-                    "rating": 13.4,
+                    "rating": 13.3,
                     "charter": "鲲&百九十八",
                     "numOfNotes": 722
                 }
@@ -4452,7 +4362,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.5,
+                    "rating": 4.5,
                     "charter": "Ctymax",
                     "numOfNotes": 221
                 },
@@ -4462,7 +4372,7 @@
                     "numOfNotes": 529
                 },
                 "IN": {
-                    "rating": 13.6,
+                    "rating": 13.8,
                     "charter": "Ctymax but 5 years later",
                     "numOfNotes": 712
                 }
@@ -4481,12 +4391,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 7.0,
                     "charter": "百九十八",
                     "numOfNotes": 325
                 },
                 "HD": {
-                    "rating": 11.7,
+                    "rating": 11.9,
                     "charter": "百九十八",
                     "numOfNotes": 644
                 },
@@ -4520,7 +4430,7 @@
                     "numOfNotes": 565
                 },
                 "IN": {
-                    "rating": 15.4,
+                    "rating": 15.2,
                     "charter": "奥術 ~The Empery~",
                     "numOfNotes": 738
                 }
@@ -4550,12 +4460,12 @@
                     "numOfNotes": 904
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.2,
                     "charter": "無極☆雷鳴 ~ ♫死の序曲♫",
                     "numOfNotes": 1389
                 },
                 "AT": {
-                    "rating": 16.7,
+                    "rating": 16.3,
                     "charter": "無極☆雷鳴 ~ ♫死の序曲♫",
                     "numOfNotes": 1671
                 }
@@ -4637,12 +4547,12 @@
                     "numOfNotes": 196
                 },
                 "HD": {
-                    "rating": 10.5,
+                    "rating": 10.7,
                     "charter": "百九十八",
                     "numOfNotes": 459
                 },
                 "IN": {
-                    "rating": 14.7,
+                    "rating": 14.6,
                     "charter": "百九十八",
                     "numOfNotes": 649
                 }
@@ -4690,7 +4600,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 7.0,
+                    "rating": 6.5,
                     "charter": "Ctymax",
                     "numOfNotes": 394
                 },
@@ -4700,7 +4610,7 @@
                     "numOfNotes": 612
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.4,
                     "charter": "晨 vs. Ctymax",
                     "numOfNotes": 844
                 }
@@ -4724,12 +4634,12 @@
                     "numOfNotes": 276
                 },
                 "HD": {
-                    "rating": 11.9,
+                    "rating": 12.1,
                     "charter": "六回目Traveler Scend",
                     "numOfNotes": 526
                 },
                 "IN": {
-                    "rating": 15.9,
+                    "rating": 15.7,
                     "charter": "六回目Traveler Scend as \"Knight of Arq\"",
                     "numOfNotes": 1066
                 }
@@ -4754,17 +4664,17 @@
                     "numOfNotes": 414
                 },
                 "HD": {
-                    "rating": 12.2,
+                    "rating": 12.7,
                     "charter": "平川の剣『士』",
                     "numOfNotes": 601
                 },
                 "IN": {
-                    "rating": 16.1,
+                    "rating": 15.7,
                     "charter": "夜明の剣『靈』",
                     "numOfNotes": 1018
                 },
                 "AT": {
-                    "rating": 17.4,
+                    "rating": 16.7,
                     "charter": "断罪の剣『神』",
                     "numOfNotes": 1114
                 }
@@ -4783,7 +4693,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.0,
+                    "rating": 2.5,
                     "charter": "Barbarianerman vs. Alloces",
                     "numOfNotes": 188
                 },
@@ -4793,7 +4703,7 @@
                     "numOfNotes": 312
                 },
                 "IN": {
-                    "rating": 12.5,
+                    "rating": 12.6,
                     "charter": "Barbarianerman vs. Alloces",
                     "numOfNotes": 520
                 }
@@ -4841,17 +4751,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 5.0,
                     "charter": "晨 vs. XMT小咩兔",
                     "numOfNotes": 328
                 },
                 "HD": {
-                    "rating": 9.3,
+                    "rating": 8.1,
                     "charter": "晨 vs. XMT小咩兔",
                     "numOfNotes": 429
                 },
                 "IN": {
-                    "rating": 14.7,
+                    "rating": 14.6,
                     "charter": "NerSAN",
                     "numOfNotes": 745
                 }
@@ -4880,7 +4790,7 @@
                     "numOfNotes": 663
                 },
                 "IN": {
-                    "rating": 15.4,
+                    "rating": 15.3,
                     "charter": "時の希 & 百九十八",
                     "numOfNotes": 992
                 }
@@ -4899,17 +4809,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 3.0,
                     "charter": "Pcat『Scatter』",
                     "numOfNotes": 350
                 },
                 "HD": {
-                    "rating": 12.3,
+                    "rating": 11.5,
                     "charter": "阿爽『Destroy』",
                     "numOfNotes": 773
                 },
                 "IN": {
-                    "rating": 16.3,
+                    "rating": 15.9,
                     "charter": "NerSAN vs. 阿爽 『Collapse』",
                     "numOfNotes": 1500
                 }
@@ -4939,12 +4849,12 @@
                     "numOfNotes": 700
                 },
                 "IN": {
-                    "rating": 16.1,
+                    "rating": 15.7,
                     "charter": "RDRT -p 20:08:31",
                     "numOfNotes": 1300
                 },
                 "AT": {
-                    "rating": 17.6,
+                    "rating": 16.8,
                     "charter": "RWND -p 16493:62786:92551",
                     "numOfNotes": 1300
                 }
@@ -4963,17 +4873,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.5,
+                    "rating": 3.5,
                     "charter": "Likey",
                     "numOfNotes": 177
                 },
                 "HD": {
-                    "rating": 8.0,
+                    "rating": 8.4,
                     "charter": "Likey",
                     "numOfNotes": 396
                 },
                 "IN": {
-                    "rating": 13.7,
+                    "rating": 13.6,
                     "charter": "Likey feat. 198",
                     "numOfNotes": 816
                 }
@@ -4997,12 +4907,12 @@
                     "numOfNotes": 520
                 },
                 "HD": {
-                    "rating": 9.0,
+                    "rating": 9.5,
                     "charter": "Alloces",
                     "numOfNotes": 660
                 },
                 "IN": {
-                    "rating": 14.0,
+                    "rating": 14.1,
                     "charter": "Ctymax drives in BlindForest",
                     "numOfNotes": 1009
                 }
@@ -5026,7 +4936,7 @@
                     "numOfNotes": 443
                 },
                 "HD": {
-                    "rating": 11.0,
+                    "rating": 11.2,
                     "charter": "XMT小咩兔",
                     "numOfNotes": 689
                 },
@@ -5060,7 +4970,7 @@
                     "numOfNotes": 868
                 },
                 "IN": {
-                    "rating": 16.2,
+                    "rating": 15.8,
                     "charter": "Ner as \"SPΔDE\"",
                     "numOfNotes": 1358
                 }
@@ -5090,12 +5000,12 @@
                     "numOfNotes": 1250
                 },
                 "IN": {
-                    "rating": 16.3,
+                    "rating": 15.8,
                     "charter": "{Destruction}",
                     "numOfNotes": 1532
                 },
                 "AT": {
-                    "rating": 17.3,
+                    "rating": 16.6,
                     "charter": "∅",
                     "numOfNotes": 2330
                 }
@@ -5125,12 +5035,12 @@
                     "numOfNotes": 970
                 },
                 "IN": {
-                    "rating": 16.3,
+                    "rating": 15.9,
                     "charter": "Divination Fortune",
                     "numOfNotes": 1449
                 },
                 "AT": {
-                    "rating": 17.4,
+                    "rating": 16.7,
                     "charter": "unDefined Future",
                     "numOfNotes": 1283
                 }
@@ -5146,8 +5056,7 @@
                 "level_list": [
                     "EZ",
                     "HD",
-                    "IN",
-                    "AT"
+                    "IN"
                 ],
                 "EZ": {
                     "rating": 6.0,
@@ -5163,11 +5072,6 @@
                     "rating": 12.8,
                     "charter": "Jαckψ feat. Βαρβαροςαντρας",
                     "numOfNotes": 450
-                },
-                "AT": {
-                    "rating": 16.2,
-                    "charter": "上班摸大鱼 a.k.a. 海洋咩兔",
-                    "numOfNotes": 1228
                 }
             }
         },
@@ -5213,7 +5117,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.0,
+                    "rating": 2.5,
                     "charter": "奇跡の希",
                     "numOfNotes": 323
                 },
@@ -5242,17 +5146,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 5.0,
                     "charter": "百九十八",
                     "numOfNotes": 311
                 },
                 "HD": {
-                    "rating": 9.3,
+                    "rating": 9.7,
                     "charter": "百九十八",
                     "numOfNotes": 530
                 },
                 "IN": {
-                    "rating": 14.3,
+                    "rating": 14.4,
                     "charter": "StupiGGy vs. 百九十八 ft. 野从",
                     "numOfNotes": 938
                 }
@@ -5278,17 +5182,17 @@
                     "numOfNotes": 248
                 },
                 "HD": {
-                    "rating": 11.1,
+                    "rating": 11.6,
                     "charter": "Arenn Saki as \"myStery\"",
                     "numOfNotes": 700
                 },
                 "IN": {
-                    "rating": 16.1,
+                    "rating": 15.8,
                     "charter": "XMT as \"eX-MentalisT\"",
                     "numOfNotes": 1267
                 },
                 "AT": {
-                    "rating": 16.5,
+                    "rating": 16.2,
                     "charter": "CN_115 as \"prediCameNt\"",
                     "numOfNotes": 1236
                 },
@@ -5341,12 +5245,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 5.5,
                     "charter": "Alloces",
                     "numOfNotes": 426
                 },
                 "HD": {
-                    "rating": 9.2,
+                    "rating": 9.4,
                     "charter": "Alloces",
                     "numOfNotes": 513
                 },
@@ -5370,12 +5274,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 4.5,
                     "charter": "NerSAN",
                     "numOfNotes": 378
                 },
                 "HD": {
-                    "rating": 11.7,
+                    "rating": 11.4,
                     "charter": "NerSAN",
                     "numOfNotes": 806
                 },
@@ -5396,11 +5300,10 @@
                 "level_list": [
                     "EZ",
                     "HD",
-                    "IN",
-                    "AT"
+                    "IN"
                 ],
                 "EZ": {
-                    "rating": 3.5,
+                    "rating": 4.5,
                     "charter": "TimiTini",
                     "numOfNotes": 290
                 },
@@ -5410,14 +5313,9 @@
                     "numOfNotes": 523
                 },
                 "IN": {
-                    "rating": 15.0,
+                    "rating": 15.1,
                     "charter": "阿爽 eat Ctymax",
                     "numOfNotes": 726
-                },
-                "AT": {
-                    "rating": 16.5,
-                    "charter": "StupiGGy",
-                    "numOfNotes": 1091
                 }
             }
         },
@@ -5434,7 +5332,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.0,
+                    "rating": 4.0,
                     "charter": "Barbarianerman",
                     "numOfNotes": 194
                 },
@@ -5464,22 +5362,22 @@
                     "AT"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 7.5,
                     "charter": "while(TangScend<=TangScend);",
                     "numOfNotes": 333
                 },
                 "HD": {
-                    "rating": 12.3,
+                    "rating": 12.4,
                     "charter": "while(TangScend>=TangScend);",
                     "numOfNotes": 666
                 },
                 "IN": {
-                    "rating": 14.8,
+                    "rating": 14.7,
                     "charter": "while(TangScend==TangScend);",
                     "numOfNotes": 888
                 },
                 "AT": {
-                    "rating": 16.8,
+                    "rating": 16.3,
                     "charter": "while(TangScend=TangScend);",
                     "numOfNotes": 888
                 }
@@ -5537,7 +5435,7 @@
                     "numOfNotes": 790
                 },
                 "IN": {
-                    "rating": 15.0,
+                    "rating": 14.8,
                     "charter": "IMD_0b0110",
                     "numOfNotes": 888
                 }
@@ -5566,7 +5464,7 @@
                     "numOfNotes": 621
                 },
                 "IN": {
-                    "rating": 15.3,
+                    "rating": 15.1,
                     "charter": "<= Noblesse Jeitie =>",
                     "numOfNotes": 1020
                 }
@@ -5585,7 +5483,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 5.0,
                     "charter": "Barianic Baradise",
                     "numOfNotes": 367
                 },
@@ -5620,17 +5518,17 @@
                     "numOfNotes": 421
                 },
                 "HD": {
-                    "rating": 13.0,
+                    "rating": 13.1,
                     "charter": "Barbarianerman, Main theme within the somnium",
                     "numOfNotes": 856
                 },
                 "IN": {
-                    "rating": 15.9,
+                    "rating": 15.6,
                     "charter": "Latency, Finale of the dream",
                     "numOfNotes": 1186
                 },
                 "AT": {
-                    "rating": 16.9,
+                    "rating": 16.4,
                     "charter": "XMT, Encore after the end",
                     "numOfNotes": 1377
                 }
@@ -5688,7 +5586,7 @@
                     "numOfNotes": 430
                 },
                 "IN": {
-                    "rating": 14.4,
+                    "rating": 14.3,
                     "charter": "Likey >IT'S SHOWTIME!",
                     "numOfNotes": 777
                 }
@@ -5746,7 +5644,7 @@
                     "numOfNotes": 515
                 },
                 "IN": {
-                    "rating": 14.8,
+                    "rating": 14.7,
                     "charter": "Simon_Axis•騎士•StR-1",
                     "numOfNotes": 732
                 }
@@ -5805,12 +5703,12 @@
                     "numOfNotes": 662
                 },
                 "IN": {
-                    "rating": 15.7,
+                    "rating": 15.5,
                     "charter": "Affection&memories \\\\// Salt & Simon_Axis",
                     "numOfNotes": 1137
                 },
                 "AT": {
-                    "rating": 16.6,
+                    "rating": 16.2,
                     "charter": "FORGET :: CLUTTER",
                     "numOfNotes": 1344
                 }
@@ -5839,7 +5737,7 @@
                     "numOfNotes": 390
                 },
                 "IN": {
-                    "rating": 14.2,
+                    "rating": 14.5,
                     "charter": "Salt",
                     "numOfNotes": 935
                 }
@@ -5897,7 +5795,7 @@
                     "numOfNotes": 408
                 },
                 "IN": {
-                    "rating": 14.7,
+                    "rating": 14.8,
                     "charter": "Passport:Governor",
                     "numOfNotes": 857
                 }
@@ -5926,7 +5824,7 @@
                     "numOfNotes": 738
                 },
                 "IN": {
-                    "rating": 15.7,
+                    "rating": 15.5,
                     "charter": "Spy-Simon_Axis | Spy-騎士",
                     "numOfNotes": 1353
                 }
@@ -5961,7 +5859,7 @@
                     "numOfNotes": 1080
                 },
                 "AT": {
-                    "rating": 17.0,
+                    "rating": 16.4,
                     "charter": "imd visual charter \"Rikko\" since 2014",
                     "numOfNotes": 1145
                 }
@@ -5981,12 +5879,12 @@
                     "AT"
                 ],
                 "EZ": {
-                    "rating": 3.0,
+                    "rating": 3.5,
                     "charter": "Rikko",
                     "numOfNotes": 222
                 },
                 "HD": {
-                    "rating": 12.2,
+                    "rating": 12.1,
                     "charter": "Rikko³ [Normal]",
                     "numOfNotes": 761
                 },
@@ -5996,7 +5894,7 @@
                     "numOfNotes": 830
                 },
                 "AT": {
-                    "rating": 16.8,
+                    "rating": 16.4,
                     "charter": "JKy vs StrayCat",
                     "numOfNotes": 1088
                 }
@@ -6025,7 +5923,7 @@
                     "numOfNotes": 925
                 },
                 "IN": {
-                    "rating": 15.7,
+                    "rating": 15.5,
                     "charter": "XMT小咩兔 vs. 上班睡大觉_Sleepyhead",
                     "numOfNotes": 1279
                 }
@@ -6044,12 +5942,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 7.5,
                     "charter": "上班睡大觉_Sleepyhead",
                     "numOfNotes": 328
                 },
                 "HD": {
-                    "rating": 12.4,
+                    "rating": 12.8,
                     "charter": "上班睡大觉_Sleepyhead",
                     "numOfNotes": 555
                 },
@@ -6073,7 +5971,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 3.0,
                     "charter": "RipHall vs. Likey",
                     "numOfNotes": 223
                 },
@@ -6131,7 +6029,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 6.5,
                     "charter": "COC  feat. Su1fuR",
                     "numOfNotes": 376
                 },
@@ -6141,7 +6039,7 @@
                     "numOfNotes": 564
                 },
                 "IN": {
-                    "rating": 15.9,
+                    "rating": 15.8,
                     "charter": "Arenn Salty feat. LDA",
                     "numOfNotes": 886
                 }
@@ -6160,17 +6058,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 7.5,
+                    "rating": 7.0,
                     "charter": "零號宇夜",
                     "numOfNotes": 594
                 },
                 "HD": {
-                    "rating": 12.1,
+                    "rating": 12.3,
                     "charter": "壹號阿爽",
                     "numOfNotes": 1058
                 },
                 "IN": {
-                    "rating": 16.2,
+                    "rating": 15.8,
                     "charter": "Pcat【零】198",
                     "numOfNotes": 1240
                 }
@@ -6189,7 +6087,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.0,
+                    "rating": 5.0,
                     "charter": "RXhuang",
                     "numOfNotes": 202
                 },
@@ -6199,7 +6097,7 @@
                     "numOfNotes": 533
                 },
                 "IN": {
-                    "rating": 14.3,
+                    "rating": 14.6,
                     "charter": "Xlutter guided by three Oaths",
                     "numOfNotes": 789
                 }
@@ -6218,12 +6116,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.5,
+                    "rating": 4.0,
                     "charter": "Salt",
                     "numOfNotes": 200
                 },
                 "HD": {
-                    "rating": 9.3,
+                    "rating": 10.2,
                     "charter": "Salt",
                     "numOfNotes": 400
                 },
@@ -6248,12 +6146,12 @@
                     "AT"
                 ],
                 "EZ": {
-                    "rating": 7.0,
+                    "rating": 7.5,
                     "charter": "Clutter & Barbarianerman",
                     "numOfNotes": 316
                 },
                 "HD": {
-                    "rating": 11.5,
+                    "rating": 11.7,
                     "charter": "Salt & Barbarianerman",
                     "numOfNotes": 733
                 },
@@ -6263,7 +6161,7 @@
                     "numOfNotes": 844
                 },
                 "AT": {
-                    "rating": 16.5,
+                    "rating": 16.1,
                     "charter": "上班睡大觉_Sleepyhead",
                     "numOfNotes": 1207
                 }
@@ -6288,17 +6186,17 @@
                     "numOfNotes": 293
                 },
                 "HD": {
-                    "rating": 11.4,
+                    "rating": 11.1,
                     "charter": "Salt",
                     "numOfNotes": 544
                 },
                 "IN": {
-                    "rating": 14.5,
+                    "rating": 14.7,
                     "charter": "Myna feat.Sleepyhead",
                     "numOfNotes": 858
                 },
                 "AT": {
-                    "rating": 15.7,
+                    "rating": 15.5,
                     "charter": "StupiGGy",
                     "numOfNotes": 938
                 }
@@ -6328,12 +6226,12 @@
                     "numOfNotes": 443
                 },
                 "IN": {
-                    "rating": 14.1,
+                    "rating": 14.4,
                     "charter": "CTYMAX ????",
                     "numOfNotes": 820
                 },
                 "AT": {
-                    "rating": 15.9,
+                    "rating": 15.7,
                     "charter": "TECHNOXMT vs. LATENCYPOLIS",
                     "numOfNotes": 824
                 }
@@ -6353,7 +6251,7 @@
                     "AT"
                 ],
                 "EZ": {
-                    "rating": 7.0,
+                    "rating": 7.5,
                     "charter": "Su1fuRikko \"SouRce of the metaveRse\"",
                     "numOfNotes": 666
                 },
@@ -6363,12 +6261,12 @@
                     "numOfNotes": 1111
                 },
                 "IN": {
-                    "rating": 16.4,
+                    "rating": 15.9,
                     "charter": "兔咩小 VS 咩小兔 VS 小兔咩 VS 咩兔小 VS 兔小咩",
                     "numOfNotes": 2222
                 },
                 "AT": {
-                    "rating": 17.3,
+                    "rating": 16.5,
                     "charter": "フィグロス譜面チーム \"Rikko feat. Ner\" -Pray for \"PHI\"-",
                     "numOfNotes": 2222
                 }
@@ -6387,17 +6285,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.0,
+                    "rating": 5.5,
                     "charter": "jouR.ney with hold",
                     "numOfNotes": 60
                 },
                 "HD": {
-                    "rating": 10.0,
+                    "rating": 10.1,
                     "charter": "jouR.ney to the end【COVERED】",
                     "numOfNotes": 175
                 },
                 "IN": {
-                    "rating": 13.7,
+                    "rating": 13.8,
                     "charter": "Su1fuR -All about YOU & ME-",
                     "numOfNotes": 562
                 }
@@ -6421,7 +6319,7 @@
                     "numOfNotes": 281
                 },
                 "HD": {
-                    "rating": 10.2,
+                    "rating": 10.5,
                     "charter": "迟戈 vs. Likey",
                     "numOfNotes": 863
                 },
@@ -6445,7 +6343,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 5.0,
                     "charter": "Clutter",
                     "numOfNotes": 246
                 },
@@ -6455,7 +6353,7 @@
                     "numOfNotes": 614
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.4,
                     "charter": "ƃuɐnɥs∀ .sʌ uoqsnɐ⅁",
                     "numOfNotes": 820
                 }
@@ -6474,17 +6372,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 5.0,
                     "charter": "JKy as \"Stray Cat\"",
                     "numOfNotes": 324
                 },
                 "HD": {
-                    "rating": 9.8,
+                    "rating": 10.4,
                     "charter": "Stray Cat Around",
                     "numOfNotes": 486
                 },
                 "IN": {
-                    "rating": 14.2,
+                    "rating": 14.5,
                     "charter": "クラッタ・アナザー・ラウンド",
                     "numOfNotes": 908
                 }
@@ -6508,7 +6406,7 @@
                     "numOfNotes": 187
                 },
                 "HD": {
-                    "rating": 9.1,
+                    "rating": 9.9,
                     "charter": "Likey",
                     "numOfNotes": 401
                 },
@@ -6542,7 +6440,7 @@
                     "numOfNotes": 432
                 },
                 "IN": {
-                    "rating": 15.9,
+                    "rating": 15.7,
                     "charter": "C.Max (PBM)",
                     "numOfNotes": 1060
                 }
@@ -6572,12 +6470,12 @@
                     "numOfNotes": 600
                 },
                 "IN": {
-                    "rating": 14.3,
+                    "rating": 14.6,
                     "charter": "L.I.K.E.Y.",
                     "numOfNotes": 897
                 },
                 "AT": {
-                    "rating": 16.2,
+                    "rating": 15.8,
                     "charter": "N.E.R.1.9.8.",
                     "numOfNotes": 1098
                 }
@@ -6630,12 +6528,12 @@
                     "numOfNotes": 491
                 },
                 "HD": {
-                    "rating": 11.1,
+                    "rating": 11.6,
                     "charter": "VikingNexus",
                     "numOfNotes": 968
                 },
                 "IN": {
-                    "rating": 15.6,
+                    "rating": 15.4,
                     "charter": "198 in Kowloon",
                     "numOfNotes": 1150
                 }
@@ -6664,7 +6562,7 @@
                     "numOfNotes": 723
                 },
                 "IN": {
-                    "rating": 15.8,
+                    "rating": 15.6,
                     "charter": "Gausbon vs. XMT小咩兔",
                     "numOfNotes": 1213
                 }
@@ -6689,17 +6587,17 @@
                     "numOfNotes": 492
                 },
                 "HD": {
-                    "rating": 11.6,
+                    "rating": 11.5,
                     "charter": "4D45474142592B45",
                     "numOfNotes": 904
                 },
                 "IN": {
-                    "rating": 16.3,
+                    "rating": 15.9,
                     "charter": "4731474142592B45",
                     "numOfNotes": 1530
                 },
                 "AT": {
-                    "rating": 17.3,
+                    "rating": 16.5,
                     "charter": "2B45524142592B45",
                     "numOfNotes": 1579
                 }
@@ -6723,12 +6621,12 @@
                     "numOfNotes": 289
                 },
                 "HD": {
-                    "rating": 8.7,
+                    "rating": 8.9,
                     "charter": "波",
                     "numOfNotes": 433
                 },
                 "IN": {
-                    "rating": 13.5,
+                    "rating": 13.6,
                     "charter": "P & U",
                     "numOfNotes": 735
                 }
@@ -6747,17 +6645,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.5,
+                    "rating": 5.0,
                     "charter": "Barbarianerman",
                     "numOfNotes": 261
                 },
                 "HD": {
-                    "rating": 9.5,
+                    "rating": 10.4,
                     "charter": "Barbarianerman",
                     "numOfNotes": 480
                 },
                 "IN": {
-                    "rating": 14.1,
+                    "rating": 14.3,
                     "charter": "百九十八 feat. Likey",
                     "numOfNotes": 610
                 }
@@ -6776,7 +6674,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 4.5,
                     "charter": "M3d1uM",
                     "numOfNotes": 345
                 },
@@ -6786,7 +6684,7 @@
                     "numOfNotes": 741
                 },
                 "IN": {
-                    "rating": 15.0,
+                    "rating": 14.8,
                     "charter": "Warning: XMT is infected by Trojan!!",
                     "numOfNotes": 1305
                 }
@@ -6834,7 +6732,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 6.0,
                     "charter": "Barbarianerman",
                     "numOfNotes": 696
                 },
@@ -6844,7 +6742,7 @@
                     "numOfNotes": 924
                 },
                 "IN": {
-                    "rating": 16.3,
+                    "rating": 15.8,
                     "charter": "Hara小兔组",
                     "numOfNotes": 1454
                 }
@@ -6892,7 +6790,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 1.5,
+                    "rating": 2.0,
                     "charter": "Barbarianerman",
                     "numOfNotes": 83
                 },
@@ -6926,12 +6824,12 @@
                     "numOfNotes": 366
                 },
                 "HD": {
-                    "rating": 10.4,
+                    "rating": 10.8,
                     "charter": "逆流而上的小咩兔",
                     "numOfNotes": 520
                 },
                 "IN": {
-                    "rating": 15.1,
+                    "rating": 14.9,
                     "charter": "Hook vs. _鉄",
                     "numOfNotes": 1102
                 }
@@ -6950,7 +6848,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 2.0,
+                    "rating": 3.5,
                     "charter": "『流』年大顺",
                     "numOfNotes": 120
                 },
@@ -6984,12 +6882,12 @@
                     "numOfNotes": 600
                 },
                 "HD": {
-                    "rating": 12.1,
+                    "rating": 11.9,
                     "charter": "Barbarianerman",
                     "numOfNotes": 800
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.3,
                     "charter": "Gino",
                     "numOfNotes": 1000
                 }
@@ -7009,12 +6907,12 @@
                     "AT"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 6.0,
                     "charter": "晨",
                     "numOfNotes": 393
                 },
                 "HD": {
-                    "rating": 10.5,
+                    "rating": 10.3,
                     "charter": "晨",
                     "numOfNotes": 549
                 },
@@ -7024,7 +6922,7 @@
                     "numOfNotes": 840
                 },
                 "AT": {
-                    "rating": 16.2,
+                    "rating": 15.9,
                     "charter": "J0(_)I2|\\|3y'5 3|\\||)",
                     "numOfNotes": 1089
                 }
@@ -7043,12 +6941,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 4.0,
+                    "rating": 4.5,
                     "charter": "波之所杂",
                     "numOfNotes": 226
                 },
                 "HD": {
-                    "rating": 8.2,
+                    "rating": 8.9,
                     "charter": "波之所杂",
                     "numOfNotes": 422
                 },
@@ -7135,12 +7033,12 @@
                     "numOfNotes": 259
                 },
                 "HD": {
-                    "rating": 9.7,
+                    "rating": 10.6,
                     "charter": "RTH",
                     "numOfNotes": 511
                 },
                 "IN": {
-                    "rating": 15.4,
+                    "rating": 15.2,
                     "charter": "Gausbon",
                     "numOfNotes": 1210
                 }
@@ -7164,12 +7062,12 @@
                     "numOfNotes": 519
                 },
                 "HD": {
-                    "rating": 11.6,
+                    "rating": 12.2,
                     "charter": "Nothing But Likey",
                     "numOfNotes": 733
                 },
                 "IN": {
-                    "rating": 15.7,
+                    "rating": 15.5,
                     "charter": "Nothing But Ner & Pcat",
                     "numOfNotes": 1084
                 }
@@ -7199,12 +7097,12 @@
                     "numOfNotes": 762
                 },
                 "IN": {
-                    "rating": 14.1,
+                    "rating": 14.2,
                     "charter": "We are the Miserable",
                     "numOfNotes": 893
                 },
                 "AT": {
-                    "rating": 15.8,
+                    "rating": 15.6,
                     "charter": "Pat Brick Man Mr.C & Mr.B",
                     "numOfNotes": 1344
                 }
@@ -7229,7 +7127,7 @@
                     "numOfNotes": 446
                 },
                 "HD": {
-                    "rating": 10.1,
+                    "rating": 11.1,
                     "charter": "空の希",
                     "numOfNotes": 902
                 },
@@ -7239,7 +7137,7 @@
                     "numOfNotes": 1322
                 },
                 "AT": {
-                    "rating": 16.7,
+                    "rating": 16.4,
                     "charter": "百九十八",
                     "numOfNotes": 1700
                 }
@@ -7292,12 +7190,12 @@
                     "numOfNotes": 283
                 },
                 "HD": {
-                    "rating": 11.0,
+                    "rating": 10.9,
                     "charter": "NerSAN",
                     "numOfNotes": 507
                 },
                 "IN": {
-                    "rating": 14.8,
+                    "rating": 14.7,
                     "charter": "阿爽",
                     "numOfNotes": 588
                 }
@@ -7321,12 +7219,12 @@
                     "numOfNotes": 455
                 },
                 "HD": {
-                    "rating": 9.8,
+                    "rating": 9.2,
                     "charter": "Another cat",
                     "numOfNotes": 715
                 },
                 "IN": {
-                    "rating": 15.6,
+                    "rating": 15.4,
                     "charter": "NerSAN vs. Ctymax as \"泥头鱼\"",
                     "numOfNotes": 1449
                 }
@@ -7345,17 +7243,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.0,
+                    "rating": 4.5,
                     "charter": "XMT小咩兔",
                     "numOfNotes": 308
                 },
                 "HD": {
-                    "rating": 11.3,
+                    "rating": 11.7,
                     "charter": "XMT小咩兔",
                     "numOfNotes": 639
                 },
                 "IN": {
-                    "rating": 15.5,
+                    "rating": 15.4,
                     "charter": "XMT小咩兔",
                     "numOfNotes": 1028
                 }
@@ -7374,17 +7272,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.5,
+                    "rating": 6.0,
                     "charter": "其一 呼吸尚存的标志",
                     "numOfNotes": 499
                 },
                 "HD": {
-                    "rating": 11.2,
+                    "rating": 10.6,
                     "charter": "其二 向前迈进的理由",
                     "numOfNotes": 744
                 },
                 "IN": {
-                    "rating": 16.1,
+                    "rating": 15.8,
                     "charter": "其三 我所存在的证明",
                     "numOfNotes": 1026
                 }
@@ -7432,17 +7330,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.5,
+                    "rating": 6.0,
                     "charter": "Barbarianerman",
                     "numOfNotes": 355
                 },
                 "HD": {
-                    "rating": 11.0,
+                    "rating": 11.8,
                     "charter": "Barbarianerman",
                     "numOfNotes": 604
                 },
                 "IN": {
-                    "rating": 14.1,
+                    "rating": 14.3,
                     "charter": "Barbarianerman vs. Uvernight",
                     "numOfNotes": 931
                 }
@@ -7467,17 +7365,17 @@
                     "numOfNotes": 378
                 },
                 "HD": {
-                    "rating": 10.4,
+                    "rating": 10.8,
                     "charter": "Barbarianerman",
                     "numOfNotes": 697
                 },
                 "IN": {
-                    "rating": 16.0,
+                    "rating": 15.6,
                     "charter": "Gausbon",
                     "numOfNotes": 1333
                 },
                 "AT": {
-                    "rating": 16.1,
+                    "rating": 15.8,
                     "charter": "百九十八 feat. NerSAN",
                     "numOfNotes": 1444
                 }
@@ -7530,12 +7428,12 @@
                     "numOfNotes": 292
                 },
                 "HD": {
-                    "rating": 8.1,
+                    "rating": 7.5,
                     "charter": "Barbarianerman",
                     "numOfNotes": 421
                 },
                 "IN": {
-                    "rating": 13.0,
+                    "rating": 13.4,
                     "charter": "百九十八",
                     "numOfNotes": 459
                 }
@@ -7554,17 +7452,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 5.0,
                     "charter": "StupiGGy",
                     "numOfNotes": 363
                 },
                 "HD": {
-                    "rating": 10.7,
+                    "rating": 10.2,
                     "charter": "StupiGGy",
                     "numOfNotes": 584
                 },
                 "IN": {
-                    "rating": 13.7,
+                    "rating": 13.8,
                     "charter": "StupiGGy",
                     "numOfNotes": 819
                 }
@@ -7589,17 +7487,17 @@
                     "numOfNotes": 1052
                 },
                 "HD": {
-                    "rating": 12.1,
+                    "rating": 11.9,
                     "charter": "Rikko",
                     "numOfNotes": 985
                 },
                 "IN": {
-                    "rating": 14.7,
+                    "rating": 14.6,
                     "charter": "Ctymax in a volcano, very delicious",
                     "numOfNotes": 1178
                 },
                 "AT": {
-                    "rating": 16.6,
+                    "rating": 16.2,
                     "charter": "Alloces",
                     "numOfNotes": 1650
                 }
@@ -7618,17 +7516,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.0,
+                    "rating": 5.5,
                     "charter": "百九十八",
                     "numOfNotes": 295
                 },
                 "HD": {
-                    "rating": 10.0,
+                    "rating": 10.8,
                     "charter": "百九十八",
                     "numOfNotes": 609
                 },
                 "IN": {
-                    "rating": 14.2,
+                    "rating": 14.1,
                     "charter": "百九十八",
                     "numOfNotes": 873
                 }
@@ -7647,12 +7545,12 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 7.5,
+                    "rating": 6.5,
                     "charter": "Gausbounce & 晨",
                     "numOfNotes": 588
                 },
                 "HD": {
-                    "rating": 11.9,
+                    "rating": 11.6,
                     "charter": "Gausbounce",
                     "numOfNotes": 797
                 },
@@ -7686,7 +7584,7 @@
                     "numOfNotes": 805
                 },
                 "IN": {
-                    "rating": 14.9,
+                    "rating": 14.7,
                     "charter": "StupiGGy vs. 阿爽",
                     "numOfNotes": 960
                 }
@@ -7715,7 +7613,7 @@
                     "numOfNotes": 733
                 },
                 "IN": {
-                    "rating": 15.7,
+                    "rating": 15.4,
                     "charter": "晨",
                     "numOfNotes": 1011
                 }
@@ -7734,17 +7632,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 5.0,
+                    "rating": 4.5,
                     "charter": "阿爽",
                     "numOfNotes": 308
                 },
                 "HD": {
-                    "rating": 8.5,
+                    "rating": 8.2,
                     "charter": "阿爽",
                     "numOfNotes": 628
                 },
                 "IN": {
-                    "rating": 16.0,
+                    "rating": 15.7,
                     "charter": "Ctymax vs. 阿爽",
                     "numOfNotes": 1034
                 }
@@ -7763,7 +7661,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.0,
+                    "rating": 3.5,
                     "charter": "晨 vs. 阿爽",
                     "numOfNotes": 164
                 },
@@ -7792,17 +7690,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 5.5,
                     "charter": "Gausbon",
                     "numOfNotes": 444
                 },
                 "HD": {
-                    "rating": 10.3,
+                    "rating": 9.8,
                     "charter": "Gausbon",
                     "numOfNotes": 629
                 },
                 "IN": {
-                    "rating": 14.8,
+                    "rating": 14.7,
                     "charter": "Gausbon",
                     "numOfNotes": 918
                 }
@@ -7826,12 +7724,12 @@
                     "numOfNotes": 517
                 },
                 "HD": {
-                    "rating": 12.6,
+                    "rating": 12.8,
                     "charter": "無†極 fixed by Rikko",
                     "numOfNotes": 892
                 },
                 "IN": {
-                    "rating": 16.4,
+                    "rating": 15.9,
                     "charter": "無†極",
                     "numOfNotes": 1305
                 }
@@ -7855,7 +7753,7 @@
                     "numOfNotes": 318
                 },
                 "HD": {
-                    "rating": 9.3,
+                    "rating": 9.2,
                     "charter": "Another M3",
                     "numOfNotes": 425
                 },
@@ -7879,7 +7777,7 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 3.0,
+                    "rating": 2.5,
                     "charter": "Ctymax",
                     "numOfNotes": 184
                 },
@@ -7889,7 +7787,7 @@
                     "numOfNotes": 500
                 },
                 "IN": {
-                    "rating": 14.9,
+                    "rating": 14.7,
                     "charter": "Ctymax",
                     "numOfNotes": 662
                 }
@@ -7918,7 +7816,7 @@
                     "numOfNotes": 960
                 },
                 "IN": {
-                    "rating": 14.9,
+                    "rating": 14.8,
                     "charter": "百九十八",
                     "numOfNotes": 1065
                 }
@@ -7943,7 +7841,7 @@
                     "numOfNotes": 419
                 },
                 "HD": {
-                    "rating": 9.5,
+                    "rating": 10.1,
                     "charter": "Su1fuR",
                     "numOfNotes": 581
                 },
@@ -7972,17 +7870,17 @@
                     "IN"
                 ],
                 "EZ": {
-                    "rating": 6.0,
+                    "rating": 6.5,
                     "charter": "Uvernight",
                     "numOfNotes": 291
                 },
                 "HD": {
-                    "rating": 10.7,
+                    "rating": 11.2,
                     "charter": "Uvernight",
                     "numOfNotes": 821
                 },
                 "IN": {
-                    "rating": 16.0,
+                    "rating": 15.8,
                     "charter": "Gausbon fixed by XMT",
                     "numOfNotes": 1326
                 }
@@ -7990,5 +7888,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.11.0"
+    "ver": "3.10.5"
 }
