@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
+        "SwingSkipDrop.ミハイル.0",
         "ニライカナイNiraicA_naiMix.roopfromSTR.0",
         "インマイマインド.レシオP.0",
         "贝多芬祝福BeethovenBlessing.Nauts.0",
@@ -261,6 +263,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "宇宙残骸少女CosmicDustyGirl.辻原一郎.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "宇宙残骸少女（Cosmic Dusty Girl）",
+            "composer": "辻原一郎",
+            "illustrator": "TOTOTO ",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 6.0,
+                    "charter": "不喜欢键的COC",
+                    "numOfNotes": 70
+                },
+                "HD": {
+                    "rating": 10.2,
+                    "charter": "不喜欢线的COC",
+                    "numOfNotes": 322
+                },
+                "IN": {
+                    "rating": 13.7,
+                    "charter": "～漂泊者～凹酱",
+                    "numOfNotes": 691
+                }
+            }
+        },
+        "SwingSkipDrop.ミハイル.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Swing Skip Drop",
+            "composer": "ミハイル",
+            "illustrator": "ディン",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "Helabot",
+                    "numOfNotes": 219
+                },
+                "HD": {
+                    "rating": 9.1,
+                    "charter": "Helabot",
+                    "numOfNotes": 327
+                },
+                "IN": {
+                    "rating": 15.5,
+                    "charter": "Swing Salt ♪",
+                    "numOfNotes": 977
+                }
+            }
+        },
         "ニライカナイNiraicA_naiMix.roopfromSTR.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -7990,5 +8050,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.11.1"
+    "ver": "3.11.2"
 }

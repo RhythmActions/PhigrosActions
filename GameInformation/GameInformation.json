@@ -10,28 +10,39 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@02/08/2025 17:00:00 +8:00"
+                            "prev@02/28/2025 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@02/28/2025 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "SwingSkipDrop.ミハイル.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "ニライカナイNiraicA_naiMix.roopfromSTR.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@02/08/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "インマイマインド.レシオP.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@02/08/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "贝多芬祝福BeethovenBlessing.Nauts.0",
                         "unlockType": 1,
@@ -18748,6 +18759,213 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "\"SwingSkipDrop.ミハイル.0",
+                "songsKey": "Swing Skip Drop",
+                "songsName": "Swing Skip Drop",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    8.7,
+                    15.5,
+                    0.0
+                ],
+                "illustrator": "ディン",
+                "charter": [
+                    "Helabot",
+                    "Helabot",
+                    "Swing Salt ?",
+                    ""
+                ],
+                "composer": "ミハイル",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 45.0,
+                "previewEndTime": 0.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "SwingSkipDrop.ミハイル.0",
+                "songsKey": "Swing Skip Drop",
+                "songsName": "Swing Skip Drop",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    9.1,
+                    15.5,
+                    0.0
+                ],
+                "illustrator": "ディン",
+                "charter": [
+                    "Helabot",
+                    "Helabot",
+                    "Swing Salt ♪",
+                    ""
+                ],
+                "composer": "ミハイル",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 45.0,
+                "previewEndTime": 63.5,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
+                "songsKey": "宇宙残骸少女（Cosmic Dusty Girl）",
+                "songsName": "宇宙残骸少女（Cosmic Dusty Girl）",
+                "songsTitle": "",
+                "difficulty": [
+                    6.0,
+                    10.2,
+                    13.7,
+                    0.0
+                ],
+                "illustrator": "TOTOTO ",
+                "charter": [
+                    "不喜欢键的COC",
+                    "不喜欢线的COC",
+                    "～漂泊者～凹酱",
+                    ""
+                ],
+                "composer": "辻原一郎",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 34.0,
+                "previewEndTime": 63.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -20352,6 +20570,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "宇宙残骸少女（Cosmic Dusty Girl）",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Swing Skip Drop",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "ニライカナイ (NiraicA_nai Mix)",
             "unlockedTimes": 0,
@@ -24320,6 +24550,24 @@
         },
         {
             "keyName": "ニライカナイ (NiraicA_nai Mix)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Swing Skip Drop",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Swing Skip Drop",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "宇宙残骸少女（Cosmic Dusty Girl）",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
