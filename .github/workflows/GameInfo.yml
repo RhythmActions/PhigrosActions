@@ -1,14 +1,14 @@
 name: Extract GameInformation
 
 on:
-  schedule:
-    - cron: '55 8 * * *' #大约每日17点05执行任务(gh服务器延迟问题)
+  # schedule:
+  #   - cron: '55 8 * * *' #大约每日17点05执行任务(gh服务器延迟问题)
   watch:
       types: [started]
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  # workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
 
 env:
   PYTHONIOENCODING: utf-8
