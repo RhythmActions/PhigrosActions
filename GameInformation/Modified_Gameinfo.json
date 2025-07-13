@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "FrozenHeart.A39沙包P.0",
+        "Aliceinaxxxxxxxx.Nagiha.0",
         "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
         "SwingSkipDrop.ミハイル.0",
         "ニライカナイNiraicA_naiMix.roopfromSTR.0",
@@ -30,8 +32,6 @@
         "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
         "聖夜讃歌.A39沙包P.0",
         "bye.DingerBox.0",
-        "FracturedAngel.DJRaisei.0",
-        "SilenceisGoldenSpeechisGolden.NIWASHI.0",
         "Bitterblossom.imvi.0",
         "DiamondEyes.SYNTHETIC.0",
         "TriumphRegret.typeMARS.0",
@@ -189,6 +189,18 @@
         "Ramification.rareguyReina.0",
         "DerRichter.Ωμεγα.0",
         "ATHAZA.LeaF.0",
+        "Radiance.Nhato.0",
+        "DiamondDust.MasahiroGodspeedAoki.0",
+        "StardustRAY.kanonevsBlackY.0",
+        "AphroditesChildshortver.RUQOA.0",
+        "DevIAtiOnshortver.polysha.0",
+        "NOx.Juggernaut.0",
+        "SilenceisGoldenSpeechisGolden.NIWASHI.0",
+        "FracturedAngel.DJRaisei.0",
+        "Resolver.Gomadare.0",
+        "LuminousEntitiesLostHeart.NormalMfeatUsagiDenki.0",
+        "KIZUNAResolution.TAG.0",
+        "AbsoluTedisoRdeR.AcuteDisarray.0",
         "君往何处QuoVadis.M2U.0",
         "暗夜苏醒REANIMATE.Warak.0",
         "黄金之城GOLDTOWN.Memme.0",
@@ -263,10 +275,68 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "FrozenHeart.A39沙包P.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Frozen Heart",
+            "composer": "A-39 / 沙包P",
+            "illustrator": "山山奇",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "SantR",
+                    "numOfNotes": 353
+                },
+                "HD": {
+                    "rating": 10.6,
+                    "charter": "SantR",
+                    "numOfNotes": 708
+                },
+                "IN": {
+                    "rating": 14.4,
+                    "charter": "Likey & Gausbon",
+                    "numOfNotes": 939
+                }
+            }
+        },
+        "Aliceinaxxxxxxxx.Nagiha.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Alice in a xxxxxxxx",
+            "composer": "Nagiha",
+            "illustrator": "神居冰绘 feat. 祈莲",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "XMT小咩兔",
+                    "numOfNotes": 239
+                },
+                "HD": {
+                    "rating": 9.7,
+                    "charter": "XMT小咩兔",
+                    "numOfNotes": 433
+                },
+                "IN": {
+                    "rating": 15.7,
+                    "charter": "□MT in a XXXXXXXX",
+                    "numOfNotes": 922
+                }
+            }
+        },
         "宇宙残骸少女CosmicDustyGirl.辻原一郎.0": {
             "chapterCode": "Single",
             "unlockType": 1,
-            "songsName": "宇宙残骸少女（Cosmic Dusty Girl）",
+            "songsName": "宇宙残骸少女 (Cosmic Dusty Girl)",
             "composer": "辻原一郎",
             "illustrator": "TOTOTO ",
             "chartDetail": {
@@ -1142,64 +1212,6 @@
                     "rating": 14.8,
                     "charter": "Ner ~ See you next time ~",
                     "numOfNotes": 725
-                }
-            }
-        },
-        "FracturedAngel.DJRaisei.0": {
-            "chapterCode": "Single",
-            "unlockType": 1,
-            "songsName": "Fractured Angel",
-            "composer": "DJ Raisei",
-            "illustrator": "OsuMe65",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN"
-                ],
-                "EZ": {
-                    "rating": 4.0,
-                    "charter": "Su1fuR",
-                    "numOfNotes": 626
-                },
-                "HD": {
-                    "rating": 10.9,
-                    "charter": "Su1fuR",
-                    "numOfNotes": 796
-                },
-                "IN": {
-                    "rating": 16.3,
-                    "charter": "逆天使の悪魔 【Likey】",
-                    "numOfNotes": 1084
-                }
-            }
-        },
-        "SilenceisGoldenSpeechisGolden.NIWASHI.0": {
-            "chapterCode": "Single",
-            "unlockType": 1,
-            "songsName": "Silence is Golden, Speech is Golden",
-            "composer": "NIWASHI",
-            "illustrator": "Jerry & OsuMe65",
-            "chartDetail": {
-                "level_list": [
-                    "EZ",
-                    "HD",
-                    "IN"
-                ],
-                "EZ": {
-                    "rating": 5.0,
-                    "charter": "Clutter is coppery，Tumult is coppery",
-                    "numOfNotes": 376
-                },
-                "HD": {
-                    "rating": 9.3,
-                    "charter": "XMT is silvery, 小咩兔 is silvery",
-                    "numOfNotes": 795
-                },
-                "IN": {
-                    "rating": 15.6,
-                    "charter": "Hara is golden, Kuma is golden",
-                    "numOfNotes": 1273
                 }
             }
         },
@@ -5876,6 +5888,378 @@
                 }
             }
         },
+        "Radiance.Nhato.0": {
+            "chapterCode": "Ongeki",
+            "unlockType": 0,
+            "songsName": "Radiance",
+            "composer": "Nhato",
+            "illustrator": "SEGA (V17AMax modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 3.5,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 218
+                },
+                "HD": {
+                    "rating": 11.5,
+                    "charter": "Rikko EXPERT Lv.40",
+                    "numOfNotes": 639
+                },
+                "IN": {
+                    "rating": 14.0,
+                    "charter": "XMT小咩兔",
+                    "numOfNotes": 667
+                },
+                "AT": {
+                    "rating": 15.5,
+                    "charter": "Яadiance",
+                    "numOfNotes": 926
+                }
+            }
+        },
+        "DiamondDust.MasahiroGodspeedAoki.0": {
+            "chapterCode": "Ongeki",
+            "unlockType": 0,
+            "songsName": "Diamond Dust",
+            "composer": "Masahiro “Godspeed” Aoki",
+            "illustrator": "SEGA (V17AMax modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Salt",
+                    "numOfNotes": 266
+                },
+                "HD": {
+                    "rating": 10.8,
+                    "charter": "Salt",
+                    "numOfNotes": 646
+                },
+                "IN": {
+                    "rating": 15.3,
+                    "charter": "Gausbon",
+                    "numOfNotes": 986
+                },
+                "AT": {
+                    "rating": 16.7,
+                    "charter": "StupiGGy",
+                    "numOfNotes": 1518
+                }
+            }
+        },
+        "StardustRAY.kanonevsBlackY.0": {
+            "chapterCode": "Ongeki",
+            "unlockType": 0,
+            "songsName": "Stardust:RAY",
+            "composer": "kanone vs. BlackY",
+            "illustrator": "SEGA (V17AMax modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 6.0,
+                    "charter": "Simon_Axis vs. Su1fuR",
+                    "numOfNotes": 399
+                },
+                "HD": {
+                    "rating": 12.5,
+                    "charter": "Su1fuR vs. Simon_Axis",
+                    "numOfNotes": 844
+                },
+                "IN": {
+                    "rating": 16.5,
+                    "charter": "曦枢 vs. 鎏光 -Lv.70 LEAF-",
+                    "numOfNotes": 1392
+                },
+                "AT": {
+                    "rating": 17.2,
+                    "charter": "完璧 vs 癒株 -Autumn Memory-",
+                    "numOfNotes": 1570
+                }
+            }
+        },
+        "AphroditesChildshortver.RUQOA.0": {
+            "chapterCode": "ImmaculeeSekai",
+            "unlockType": 0,
+            "songsName": "Aphrodite's Child (short ver.)",
+            "composer": "RUQOA",
+            "illustrator": "Sin:cK for Immaculée Sekai",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.5,
+                    "charter": "StupiGGy",
+                    "numOfNotes": 251
+                },
+                "HD": {
+                    "rating": 8.1,
+                    "charter": "StupiGGy",
+                    "numOfNotes": 516
+                },
+                "IN": {
+                    "rating": 13.3,
+                    "charter": "StrayCat",
+                    "numOfNotes": 674
+                }
+            }
+        },
+        "DevIAtiOnshortver.polysha.0": {
+            "chapterCode": "ImmaculeeSekai",
+            "unlockType": 0,
+            "songsName": "DevIAtiOn (short ver.)",
+            "composer": "polysha",
+            "illustrator": "cala for Immaculée Sekai",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "COC",
+                    "numOfNotes": 222
+                },
+                "HD": {
+                    "rating": 11.1,
+                    "charter": "COC",
+                    "numOfNotes": 827
+                },
+                "IN": {
+                    "rating": 15.6,
+                    "charter": "Nr3_Official",
+                    "numOfNotes": 1117
+                }
+            }
+        },
+        "NOx.Juggernaut.0": {
+            "chapterCode": "ImmaculeeSekai",
+            "unlockType": 0,
+            "songsName": "NO x",
+            "composer": "Juggernaut.",
+            "illustrator": "cala for Immaculée Sekai",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 198
+                },
+                "HD": {
+                    "rating": 10.3,
+                    "charter": "IUIsauce",
+                    "numOfNotes": 700
+                },
+                "IN": {
+                    "rating": 16.1,
+                    "charter": "StR-1",
+                    "numOfNotes": 1150
+                }
+            }
+        },
+        "SilenceisGoldenSpeechisGolden.NIWASHI.0": {
+            "chapterCode": "EGTS",
+            "unlockType": 0,
+            "songsName": "Silence is Golden, Speech is Golden",
+            "composer": "NIWASHI",
+            "illustrator": "Jerry & OsuMe65",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Clutter is coppery，Tumult is coppery",
+                    "numOfNotes": 376
+                },
+                "HD": {
+                    "rating": 9.3,
+                    "charter": "XMT is silvery, 小咩兔 is silvery",
+                    "numOfNotes": 795
+                },
+                "IN": {
+                    "rating": 15.6,
+                    "charter": "Hara is golden, Kuma is golden",
+                    "numOfNotes": 1273
+                }
+            }
+        },
+        "FracturedAngel.DJRaisei.0": {
+            "chapterCode": "EGTS",
+            "unlockType": 0,
+            "songsName": "Fractured Angel",
+            "composer": "DJ Raisei",
+            "illustrator": "OsuMe65",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 626
+                },
+                "HD": {
+                    "rating": 10.9,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 796
+                },
+                "IN": {
+                    "rating": 16.3,
+                    "charter": "逆天使の悪魔 【Likey】",
+                    "numOfNotes": 1084
+                }
+            }
+        },
+        "Resolver.Gomadare.0": {
+            "chapterCode": "EGTS",
+            "unlockType": 0,
+            "songsName": "Resolver",
+            "composer": "Gomadare",
+            "illustrator": "Transendium",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.0,
+                    "charter": "Salt",
+                    "numOfNotes": 128
+                },
+                "HD": {
+                    "rating": 8.8,
+                    "charter": "Salt",
+                    "numOfNotes": 339
+                },
+                "IN": {
+                    "rating": 14.5,
+                    "charter": "Clutter vs. Salt",
+                    "numOfNotes": 993
+                }
+            }
+        },
+        "LuminousEntitiesLostHeart.NormalMfeatUsagiDenki.0": {
+            "chapterCode": "EGTS",
+            "unlockType": 0,
+            "songsName": "Luminous Entities Lost Heart",
+            "composer": "NormalM feat. Usagi Denki",
+            "illustrator": "Transendium",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "1uminous StaR",
+                    "numOfNotes": 275
+                },
+                "HD": {
+                    "rating": 10.9,
+                    "charter": "1uminous StaR",
+                    "numOfNotes": 461
+                },
+                "IN": {
+                    "rating": 15.2,
+                    "charter": "光る星",
+                    "numOfNotes": 929
+                }
+            }
+        },
+        "KIZUNAResolution.TAG.0": {
+            "chapterCode": "EGTS",
+            "unlockType": 0,
+            "songsName": "KIZUNA Resolution",
+            "composer": "TAG",
+            "illustrator": "Transendium",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 8.0,
+                    "charter": "Likey underground",
+                    "numOfNotes": 262
+                },
+                "HD": {
+                    "rating": 13.4,
+                    "charter": "HD R.esolution",
+                    "numOfNotes": 722
+                },
+                "IN": {
+                    "rating": 16.4,
+                    "charter": "Sempiternal Fxxxxxx Resolution!",
+                    "numOfNotes": 1039
+                }
+            }
+        },
+        "AbsoluTedisoRdeR.AcuteDisarray.0": {
+            "chapterCode": "EGTS",
+            "unlockType": 0,
+            "songsName": "AbsoluTe disoRdeR",
+            "composer": "Acute Disarray",
+            "illustrator": "Kyuare & Wsx",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 6.5,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 766
+                },
+                "HD": {
+                    "rating": 12.3,
+                    "charter": "騎士 vs. Knight ",
+                    "numOfNotes": 1046
+                },
+                "IN": {
+                    "rating": 16.2,
+                    "charter": "Executor-X",
+                    "numOfNotes": 1600
+                },
+                "AT": {
+                    "rating": 17.2,
+                    "charter": "Apocalyptic Dissonance",
+                    "numOfNotes": 2025
+                }
+            }
+        },
         "君往何处QuoVadis.M2U.0": {
             "chapterCode": "RhythmMaster",
             "unlockType": 0,
@@ -8050,5 +8434,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.11.2"
+    "ver": "3.14.1"
 }

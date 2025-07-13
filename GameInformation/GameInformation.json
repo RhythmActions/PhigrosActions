@@ -10,18 +10,29 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@02/28/2025 17:00:00 +8:00"
+                            "prev@06/27/2025 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "FrozenHeart.A39沙包P.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "Aliceinaxxxxxxxx.Nagiha.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@02/28/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "SwingSkipDrop.ミハイル.0",
                         "unlockType": 1,
@@ -220,20 +231,6 @@
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "bye.DingerBox.0",
-                        "unlockType": 1,
-                        "secretType": 0
-                    },
-                    {
-                        "unlockInfo": [],
-                        "secretInfo": [],
-                        "songsId": "FracturedAngel.DJRaisei.0",
-                        "unlockType": 1,
-                        "secretType": 0
-                    },
-                    {
-                        "unlockInfo": [],
-                        "secretInfo": [],
-                        "songsId": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
@@ -1101,8 +1098,8 @@
                 "unlockFlag": "6",
                 "unlockTip": "",
                 "fakeCoverFlag": "unlockFlagOfSpasmodic",
-                "fakeCoverCode": "Assets/Tracks/#ChapterCover/MainStory5Locked.png",
-                "fakeCoverBlurCode": "Assets/Tracks/#ChapterCover/MainStory5LockedBlur.png"
+                "fakeCoverCode": "Assets/Tracks/#ChapterCover/MainStory5Locked.jpg",
+                "fakeCoverBlurCode": "Assets/Tracks/#ChapterCover/MainStory5LockedBlur.jpg"
             }
         },
         {
@@ -1163,8 +1160,8 @@
                 "unlockFlag": "LeaveAllBehind.rider.0",
                 "unlockTip": "",
                 "fakeCoverFlag": "unlockFlagOfIgallta",
-                "fakeCoverCode": "Assets/Tracks/#ChapterCover/MainStory6Locked.png",
-                "fakeCoverBlurCode": "Assets/Tracks/#ChapterCover/MainStory6LockedBlur.png"
+                "fakeCoverCode": "Assets/Tracks/#ChapterCover/MainStory6Locked.jpg",
+                "fakeCoverBlurCode": "Assets/Tracks/#ChapterCover/MainStory6LockedBlur.jpg"
             }
         },
         {
@@ -1225,8 +1222,8 @@
                 "unlockFlag": "Igallta.SeURa.0",
                 "unlockTip": "",
                 "fakeCoverFlag": "unlockFlagOfRrharil",
-                "fakeCoverCode": "Assets/Tracks/#ChapterCover/MainStory7Locked.png",
-                "fakeCoverBlurCode": "Assets/Tracks/#ChapterCover/MainStory7LockedBlur.png"
+                "fakeCoverCode": "Assets/Tracks/#ChapterCover/MainStory7Locked.jpg",
+                "fakeCoverBlurCode": "Assets/Tracks/#ChapterCover/MainStory7LockedBlur.jpg"
             }
         },
         {
@@ -1521,6 +1518,144 @@
             "unlockInfo": {
                 "unlockMode": 4,
                 "unlockFlag": "MOBILYS.Dachs.0",
+                "unlockTip": "",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
+            "chapterCode": "Ongeki",
+            "songInfo": {
+                "title": "\\ChapterOngekiTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "オンゲキ",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "Radiance.Nhato.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "DiamondDust.MasahiroGodspeedAoki.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "StardustRAY.kanonevsBlackY.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
+                "unlockTip": "",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
+            "chapterCode": "ImmaculeeSekai",
+            "songInfo": {
+                "title": "\\ChapterImmaculeeSekaiTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "Immaculée Sekai",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "AphroditesChildshortver.RUQOA.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "DevIAtiOnshortver.polysha.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "NOx.Juggernaut.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
+                "unlockTip": "",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
+            "chapterCode": "EGTS",
+            "songInfo": {
+                "title": "\\ChapterEGTSTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "EGTS",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "FracturedAngel.DJRaisei.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "Resolver.Gomadare.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "LuminousEntitiesLostHeart.NormalMfeatUsagiDenki.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "KIZUNAResolution.TAG.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "AbsoluTedisoRdeR.AcuteDisarray.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "",
                 "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
@@ -18761,75 +18896,6 @@
                 "differentCover": 0
             },
             {
-                "songsId": "\"SwingSkipDrop.ミハイル.0",
-                "songsKey": "Swing Skip Drop",
-                "songsName": "Swing Skip Drop",
-                "songsTitle": "",
-                "difficulty": [
-                    4.5,
-                    8.7,
-                    15.5,
-                    0.0
-                ],
-                "illustrator": "ディン",
-                "charter": [
-                    "Helabot",
-                    "Helabot",
-                    "Swing Salt ?",
-                    ""
-                ],
-                "composer": "ミハイル",
-                "levels": [
-                    "EZ",
-                    "HD",
-                    "IN",
-                    "AT"
-                ],
-                "previewTime": 45.0,
-                "previewEndTime": 0.0,
-                "unlockInfo": [
-                    {
-                        "unlockType": 0,
-                        "unlockInfo": []
-                    },
-                    {
-                        "unlockType": 0,
-                        "unlockInfo": []
-                    },
-                    {
-                        "unlockType": 0,
-                        "unlockInfo": []
-                    },
-                    {
-                        "unlockType": 0,
-                        "unlockInfo": []
-                    }
-                ],
-                "levelMods": [
-                    {
-                        "levelMods": []
-                    },
-                    {
-                        "levelMods": []
-                    },
-                    {
-                        "levelMods": []
-                    },
-                    {
-                        "levelMods": []
-                    },
-                    {
-                        "levelMods": []
-                    }
-                ],
-                "isCnLimited": false,
-                "hasDifferentMusic": false,
-                "differentMusic": 0,
-                "previewClipDifficulty": 0,
-                "hasDifferentCover": 0,
-                "differentCover": 0
-            },
-            {
                 "songsId": "SwingSkipDrop.ミハイル.0",
                 "songsKey": "Swing Skip Drop",
                 "songsName": "Swing Skip Drop",
@@ -18900,8 +18966,8 @@
             },
             {
                 "songsId": "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
-                "songsKey": "宇宙残骸少女（Cosmic Dusty Girl）",
-                "songsName": "宇宙残骸少女（Cosmic Dusty Girl）",
+                "songsKey": "宇宙残骸少女 (Cosmic Dusty Girl)",
+                "songsName": "宇宙残骸少女 (Cosmic Dusty Girl)",
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
@@ -18925,6 +18991,834 @@
                 ],
                 "previewTime": 34.0,
                 "previewEndTime": 63.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Resolver.Gomadare.0",
+                "songsKey": "Resolver",
+                "songsName": "Resolver",
+                "songsTitle": "",
+                "difficulty": [
+                    3.0,
+                    8.8,
+                    14.5,
+                    0.0
+                ],
+                "illustrator": "Transendium",
+                "charter": [
+                    "Salt",
+                    "Salt",
+                    "Clutter vs. Salt",
+                    ""
+                ],
+                "composer": "Gomadare",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 63.5,
+                "previewEndTime": 79.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "LuminousEntitiesLostHeart.NormalMfeatUsagiDenki.0",
+                "songsKey": "Luminous Entities Lost Heart",
+                "songsName": "Luminous Entities Lost Heart",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    10.9,
+                    15.2,
+                    0.0
+                ],
+                "illustrator": "Transendium",
+                "charter": [
+                    "1uminous StaR",
+                    "1uminous StaR",
+                    "光る星",
+                    ""
+                ],
+                "composer": "NormalM feat. Usagi Denki",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 100.0,
+                "previewEndTime": 124.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "KIZUNAResolution.TAG.0",
+                "songsKey": "KIZUNA Resolution",
+                "songsName": "KIZUNA Resolution",
+                "songsTitle": "",
+                "difficulty": [
+                    8.0,
+                    13.4,
+                    16.4,
+                    0.0
+                ],
+                "illustrator": "Transendium",
+                "charter": [
+                    "Likey underground",
+                    "HD R.esolution",
+                    "Sempiternal Fxxxxxx Resolution!",
+                    ""
+                ],
+                "composer": "TAG",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 70.5,
+                "previewEndTime": 87.5,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "AbsoluTedisoRdeR.AcuteDisarray.0",
+                "songsKey": "AbsoluTe disoRdeR",
+                "songsName": "AbsoluTe disoRdeR",
+                "songsTitle": "",
+                "difficulty": [
+                    6.5,
+                    12.3,
+                    16.2,
+                    17.2
+                ],
+                "illustrator": "Kyuare & Wsx",
+                "charter": [
+                    "Su1fuR",
+                    "騎士 vs. Knight ",
+                    "Executor-X",
+                    "Apocalyptic Dissonance"
+                ],
+                "composer": "Acute Disarray",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 1.875,
+                "previewEndTime": 18.75,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "AphroditesChildshortver.RUQOA.0",
+                "songsKey": "Aphrodite's Child (short ver.)",
+                "songsName": "Aphrodite's Child (short ver.)",
+                "songsTitle": "",
+                "difficulty": [
+                    3.5,
+                    8.1,
+                    13.3,
+                    0.0
+                ],
+                "illustrator": "Sin:cK for Immaculée Sekai",
+                "charter": [
+                    "StupiGGy",
+                    "StupiGGy",
+                    "StrayCat",
+                    ""
+                ],
+                "composer": "RUQOA",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 31.875,
+                "previewEndTime": 46.875,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "DevIAtiOnshortver.polysha.0",
+                "songsKey": "DevIAtiOn (short ver.)",
+                "songsName": "DevIAtiOn (short ver.)",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    11.1,
+                    15.6,
+                    0.0
+                ],
+                "illustrator": "cala for Immaculée Sekai",
+                "charter": [
+                    "COC",
+                    "COC",
+                    "Nr3_Official",
+                    ""
+                ],
+                "composer": "polysha",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 105.83799743652344,
+                "previewEndTime": 119.2249984741211,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "NOx.Juggernaut.0",
+                "songsKey": "NO x",
+                "songsName": "NO x",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    10.3,
+                    16.1,
+                    0.0
+                ],
+                "illustrator": "cala for Immaculée Sekai",
+                "charter": [
+                    "Su1fuR",
+                    "IUIsauce",
+                    "StR-1",
+                    ""
+                ],
+                "composer": "Juggernaut.",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 100.0,
+                "previewEndTime": 125.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Aliceinaxxxxxxxx.Nagiha.0",
+                "songsKey": "Alice in a xxxxxxxx",
+                "songsName": "Alice in a xxxxxxxx",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    9.7,
+                    15.7,
+                    0.0
+                ],
+                "illustrator": "神居冰绘 feat. 祈莲",
+                "charter": [
+                    "XMT小咩兔",
+                    "XMT小咩兔",
+                    "□MT in a XXXXXXXX",
+                    ""
+                ],
+                "composer": "Nagiha",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 104.16600036621094,
+                "previewEndTime": 118.33300018310547,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Radiance.Nhato.0",
+                "songsKey": "Radiance",
+                "songsName": "Radiance",
+                "songsTitle": "",
+                "difficulty": [
+                    3.5,
+                    11.5,
+                    14.0,
+                    15.5
+                ],
+                "illustrator": "SEGA (V17AMax modified)",
+                "charter": [
+                    "Su1fuR",
+                    "Rikko EXPERT Lv.40",
+                    "XMT小咩兔",
+                    "Яadiance"
+                ],
+                "composer": "Nhato",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 1.934999942779541,
+                "previewEndTime": 26.708999633789062,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "DiamondDust.MasahiroGodspeedAoki.0",
+                "songsKey": "Diamond Dust",
+                "songsName": "Diamond Dust",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    10.8,
+                    15.3,
+                    16.7
+                ],
+                "illustrator": "SEGA (V17AMax modified)",
+                "charter": [
+                    "Salt",
+                    "Salt",
+                    "Gausbon",
+                    "StupiGGy"
+                ],
+                "composer": "Masahiro “Godspeed” Aoki",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 58.79999923706055,
+                "previewEndTime": 79.19999694824219,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "StardustRAY.kanonevsBlackY.0",
+                "songsKey": "Stardust:RAY",
+                "songsName": "Stardust:RAY",
+                "songsTitle": "",
+                "difficulty": [
+                    6.0,
+                    12.5,
+                    16.5,
+                    17.2
+                ],
+                "illustrator": "SEGA (V17AMax modified)",
+                "charter": [
+                    "Simon_Axis vs. Su1fuR",
+                    "Su1fuR vs. Simon_Axis",
+                    "曦枢 vs. 鎏光 -Lv.70 LEAF-",
+                    "完璧 vs 癒株 -Autumn Memory-"
+                ],
+                "composer": "kanone vs. BlackY",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 111.21900177001953,
+                "previewEndTime": 135.36500549316406,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "FrozenHeart.A39沙包P.0",
+                "songsKey": "Frozen Heart",
+                "songsName": "Frozen Heart",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    10.6,
+                    14.4,
+                    0.0
+                ],
+                "illustrator": "山山奇",
+                "charter": [
+                    "SantR",
+                    "SantR",
+                    "Likey & Gausbon",
+                    ""
+                ],
+                "composer": "A-39 / 沙包P",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 41.599998474121094,
+                "previewEndTime": 63.36000061035156,
                 "unlockInfo": [
                     {
                         "unlockType": 0,
@@ -20571,7 +21465,19 @@
     },
     "keyStore": [
         {
-            "keyName": "宇宙残骸少女（Cosmic Dusty Girl）",
+            "keyName": "Frozen Heart",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Alice in a xxxxxxxx",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "宇宙残骸少女 (Cosmic Dusty Girl)",
             "unlockedTimes": 0,
             "kindOfKey": 0,
             "unlockTimes": 1
@@ -20746,18 +21652,6 @@
         },
         {
             "keyName": "bye",
-            "unlockedTimes": 0,
-            "kindOfKey": 0,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "Fractured Angel",
-            "unlockedTimes": 0,
-            "kindOfKey": 0,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "Silence is Golden, Speech is Golden",
             "unlockedTimes": 0,
             "kindOfKey": 0,
             "unlockTimes": 1
@@ -24561,13 +25455,79 @@
             "unlockTimes": 1
         },
         {
-            "keyName": "Swing Skip Drop",
+            "keyName": "宇宙残骸少女 (Cosmic Dusty Girl)",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
         },
         {
-            "keyName": "宇宙残骸少女（Cosmic Dusty Girl）",
+            "keyName": "Resolver",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Luminous Entities Lost Heart",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "KIZUNA Resolution",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "AbsoluTe disoRdeR",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Aphrodite's Child (short ver.)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "DevIAtiOn (short ver.)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "NO x",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Alice in a xxxxxxxx",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Radiance",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Diamond Dust",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Stardust:RAY",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Frozen Heart",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
@@ -25198,6 +26158,18 @@
         },
         {
             "keyName": "ShineAfter-鸠和水青-Special",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "鸠-一周年相聚",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "水青-一周年相聚",
             "unlockedTimes": 0,
             "kindOfKey": 3,
             "unlockTimes": 1
