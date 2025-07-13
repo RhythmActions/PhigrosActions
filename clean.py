@@ -15,36 +15,36 @@ if __name__ == "__main__":
     
     if "updated" not in config:
         print(json.dumps(config, indent=4, ensure_ascii=False))
-        config["updated"] = True
+        config["updated"] = False
         
     if config["updated"] == True:
         try:
-            shutil.rmtree(os.path.join(cur_path, "Tracks"))
-            shutil.rmtree(os.path.join(cur_path, "GameInformation"))
-            shutil.rmtree(os.path.join(cur_path, "ConstantTable"))
-            shutil.rmtree(os.path.join(cur_path, "Avatar"))
-            shutil.rmtree(os.path.join(cur_path, "PrehandledIllu"))
+            shutil.rmtree(os.path.join(cur_path, "Tracks"), ignore_errors=True)
+            shutil.rmtree(os.path.join(cur_path, "GameInformation"), ignore_errors=True)
+            shutil.rmtree(os.path.join(cur_path, "ConstantTable"), ignore_errors=True)
+            shutil.rmtree(os.path.join(cur_path, "Avatar"), ignore_errors=True)
+            shutil.rmtree(os.path.join(cur_path, "PrehandledIllu"), ignore_errors=True)
         except:
             pass
 
         print("正在移动曲绘文件")
-        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/Tracks"), os.path.join(cur_path, "Tracks"), ignore=shutil.ignore_patterns('*.wav', "IllustrationBlur*"))
+        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/Tracks"), os.path.join(cur_path, "Tracks"), ignore=shutil.ignore_patterns('*.wav', "IllustrationBlur*"), ignore_errors=True)
         print("移动完成")
 
         print("正在移动GameInformation")
-        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/GameInformation"), os.path.join(cur_path, "GameInformation"))
+        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/GameInformation"), os.path.join(cur_path, "GameInformation"), ignore_errors=True)
         print("移动完成")
 
         print("正在移动定数表")
-        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/ConstantTable/Generated"), os.path.join(cur_path, "ConstantTable"))
+        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/ConstantTable/Generated"), os.path.join(cur_path, "ConstantTable"), ignore_errors=True)
         print("移动完成")
         
         print("正在移动头像")
-        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/avatar"), os.path.join(cur_path, "Avatar"))
+        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/Assets/avatar"), os.path.join(cur_path, "Avatar"), ignore_errors=True)
         print("移动完成")
         
         print("正在移动裁切后曲绘")
-        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/prehandle"), os.path.join(cur_path, "PrehandledIllu"))
+        shutil.copytree(os.path.join(cur_path, "Phigros_Extractor/prehandle"), os.path.join(cur_path, "PrehandledIllu"), ignore_errors=True)
         print("移动完成")
 
     t = datetime.utcnow().replace(tzinfo=timezone.utc)
