@@ -13,6 +13,10 @@ if __name__ == "__main__":
         config = json.load(f)
     ver = config["version"]
     
+    if "updated" not in config:
+        print(json.dumps(config, indent=4, ensure_ascii=False))
+        config["updated"] = True
+        
     if config["updated"] == True:
         try:
             shutil.rmtree(os.path.join(cur_path, "Tracks"))
