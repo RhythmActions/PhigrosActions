@@ -10,8 +10,15 @@
                     {
                         "unlockInfo": [
                             "4",
-                            "prev@06/27/2025 17:00:00 +8:00"
+                            "prev@07/18/2025 17:00:00 +8:00"
                         ],
+                        "secretInfo": [],
+                        "songsId": "Helios.NOABotaNya.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "FrozenHeart.A39沙包P.0",
                         "unlockType": 1,
@@ -19860,6 +19867,75 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "Helios.NOABotaNya.0",
+                "songsKey": "Helios",
+                "songsName": "Helios",
+                "songsTitle": "",
+                "difficulty": [
+                    4.5,
+                    9.2,
+                    14.1,
+                    0.0
+                ],
+                "illustrator": "Spectro",
+                "charter": [
+                    "jeitie goes outside",
+                    "jeitie touches grass",
+                    "jeitie gets sent to the sun",
+                    ""
+                ],
+                "composer": "NOA(Cortrix) & BotaNya",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 27.975000381469727,
+                "previewEndTime": 44.79999923706055,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -21464,6 +21540,12 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Helios",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Frozen Heart",
             "unlockedTimes": 0,
@@ -25528,6 +25610,12 @@
         },
         {
             "keyName": "Frozen Heart",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Helios",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1

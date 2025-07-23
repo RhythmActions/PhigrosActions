@@ -1,5 +1,6 @@
 {
     "allSongs": [
+        "Helios.NOABotaNya.0",
         "FrozenHeart.A39沙包P.0",
         "Aliceinaxxxxxxxx.Nagiha.0",
         "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
@@ -275,6 +276,35 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "Helios.NOABotaNya.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "Helios",
+            "composer": "NOA(Cortrix) & BotaNya",
+            "illustrator": "Spectro",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.5,
+                    "charter": "jeitie goes outside",
+                    "numOfNotes": 188
+                },
+                "HD": {
+                    "rating": 9.2,
+                    "charter": "jeitie touches grass",
+                    "numOfNotes": 391
+                },
+                "IN": {
+                    "rating": 14.1,
+                    "charter": "jeitie gets sent to the sun",
+                    "numOfNotes": 786
+                }
+            }
+        },
         "FrozenHeart.A39沙包P.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -8434,5 +8464,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.14.1"
+    "ver": "3.14.2"
 }
