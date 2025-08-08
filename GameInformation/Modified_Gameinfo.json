@@ -254,6 +254,9 @@
         "AnotherMe.DAAN.0",
         "DontNeverAround.HAMA.0",
         "RESSiSTANCE.ぐるたみん.0",
+        "FlutterEcho.Cansol.0",
+        "Rebirth.ああああ.0",
+        "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0",
         "XING.ginkiha.0",
         "FinalStep.Lime.0",
         "Cthugha.USAO.0",
@@ -7864,6 +7867,99 @@
                 }
             }
         },
+        "FlutterEcho.Cansol.0": {
+            "chapterCode": "KALPA",
+            "unlockType": 0,
+            "songsName": "Flutter Echo",
+            "composer": "Cansol",
+            "illustrator": "Taurell",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.5,
+                    "charter": "Rikko",
+                    "numOfNotes": 222
+                },
+                "HD": {
+                    "rating": 9.8,
+                    "charter": "|R|I|K|K|O| NORMAL",
+                    "numOfNotes": 555
+                },
+                "IN": {
+                    "rating": 14.9,
+                    "charter": "Clutter Echo",
+                    "numOfNotes": 1046
+                }
+            }
+        },
+        "Rebirth.ああああ.0": {
+            "chapterCode": "KALPA",
+            "unlockType": 0,
+            "songsName": "Re：birth",
+            "composer": "ああああ",
+            "illustrator": "QueseraGames Co., Ltd.",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 6.0,
+                    "charter": "啊哒咔哟 & 小咩兔 & COC",
+                    "numOfNotes": 321
+                },
+                "HD": {
+                    "rating": 12.3,
+                    "charter": "啊哒咔哟 & 小咩兔 & COC",
+                    "numOfNotes": 733
+                },
+                "IN": {
+                    "rating": 15.4,
+                    "charter": "Gausbon & StupiGGy",
+                    "numOfNotes": 939
+                }
+            }
+        },
+        "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0": {
+            "chapterCode": "KALPA",
+            "unlockType": 0,
+            "songsName": "Avataar~Reincarnation of Kalpa~",
+            "composer": "Scarlette a.k.a CrYmson",
+            "illustrator": "QueseraGames Co., Ltd.",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 2.0,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 122
+                },
+                "HD": {
+                    "rating": 8.2,
+                    "charter": "Su1fuR",
+                    "numOfNotes": 887
+                },
+                "IN": {
+                    "rating": 13.4,
+                    "charter": "Salt",
+                    "numOfNotes": 979
+                },
+                "AT": {
+                    "rating": 16.6,
+                    "charter": "XMT & Salt",
+                    "numOfNotes": 1074
+                }
+            }
+        },
         "XING.ginkiha.0": {
             "chapterCode": "MUSEDASH",
             "unlockType": 0,
@@ -8464,5 +8560,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.14.2"
+    "ver": "3.15.0"
 }

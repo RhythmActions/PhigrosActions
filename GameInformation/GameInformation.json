@@ -8,10 +8,7 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@07/18/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Helios.NOABotaNya.0",
                         "unlockType": 1,
@@ -2237,6 +2234,33 @@
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "RESSiSTANCE.ぐるたみん.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@08/08/2025 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "FlutterEcho.Cansol.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@08/08/2025 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "Rebirth.ああああ.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "prev@08/08/2025 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0",
                         "unlockType": 0,
                         "secretType": 0
                     }
@@ -19936,6 +19960,213 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "FlutterEcho.Cansol.0",
+                "songsKey": "Flutter Echo",
+                "songsName": "Flutter Echo",
+                "songsTitle": "",
+                "difficulty": [
+                    3.5,
+                    9.8,
+                    14.9,
+                    0.0
+                ],
+                "illustrator": "Taurell",
+                "charter": [
+                    "Rikko",
+                    "|R|I|K|K|O| NORMAL",
+                    "Clutter Echo",
+                    ""
+                ],
+                "composer": "Cansol",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 102.73999786376953,
+                "previewEndTime": 122.45999908447266,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Rebirth.ああああ.0",
+                "songsKey": "Re：birth",
+                "songsName": "Re：birth",
+                "songsTitle": "",
+                "difficulty": [
+                    6.0,
+                    12.3,
+                    15.4,
+                    0.0
+                ],
+                "illustrator": "QueseraGames Co., Ltd.",
+                "charter": [
+                    "啊哒咔哟 & 小咩兔 & COC",
+                    "啊哒咔哟 & 小咩兔 & COC",
+                    "Gausbon & StupiGGy",
+                    ""
+                ],
+                "composer": "ああああ",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 27.85700035095215,
+                "previewEndTime": 48.367000579833984,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0",
+                "songsKey": "Avataar~Reincarnation of Kalpa~",
+                "songsName": "Avataar~Reincarnation of Kalpa~",
+                "songsTitle": "",
+                "difficulty": [
+                    2.0,
+                    8.2,
+                    13.4,
+                    16.6
+                ],
+                "illustrator": "QueseraGames Co., Ltd.",
+                "charter": [
+                    "Su1fuR",
+                    "Su1fuR",
+                    "Salt",
+                    "XMT & Salt"
+                ],
+                "composer": "Scarlette a.k.a CrYmson",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 58.66600036621094,
+                "previewEndTime": 79.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -25616,6 +25847,24 @@
         },
         {
             "keyName": "Helios",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Flutter Echo",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Re：birth",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Avataar~Reincarnation of Kalpa~",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
