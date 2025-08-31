@@ -8,6 +8,26 @@
                 "banner": "Single",
                 "songs": [
                     {
+                        "unlockInfo": [
+                            "4",
+                            "prev@08/31/2025 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "RetributionCycleofRedemption.ArdolfvsDaily天利.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4",
+                            "prev@08/31/2025 17:00:00 +8:00"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "雪降り雪が降っている.AiSSw夜輪ft結月ゆかり.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Helios.NOABotaNya.0",
@@ -2238,27 +2258,21 @@
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@08/08/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "FlutterEcho.Cansol.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@08/08/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "Rebirth.ああああ.0",
                         "unlockType": 0,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "prev@08/08/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0",
                         "unlockType": 0,
@@ -2934,7 +2948,7 @@
                 "difficulty": [
                     3.5,
                     8.2,
-                    13.4,
+                    13.3,
                     0.0
                 ],
                 "illustrator": "翠冷兮",
@@ -3013,7 +3027,7 @@
                     "Barbarianerman feat. Gausbon",
                     ""
                 ],
-                "composer": "Tetrajectory feat.Ctymax",
+                "composer": "Tetrajectory feat. Ctymax",
                 "levels": [
                     "EZ",
                     "HD",
@@ -4881,7 +4895,7 @@
                 "difficulty": [
                     3.5,
                     9.8,
-                    13.8,
+                    13.9,
                     0.0
                 ],
                 "illustrator": "幽灵星",
@@ -6344,7 +6358,7 @@
                 "difficulty": [
                     6.5,
                     11.7,
-                    15.3,
+                    15.4,
                     0.0
                 ],
                 "illustrator": "何呵",
@@ -6699,7 +6713,7 @@
                     "A.S.H&晨",
                     ""
                 ],
-                "composer": "朔(Apo11o program vs. お月さま交響曲) ft. kuroa×荒巻",
+                "composer": "朔(Apo11o program vs. お月さま交響曲) ft. kuroa*×荒巻",
                 "levels": [
                     "EZ",
                     "HD",
@@ -7248,7 +7262,7 @@
                 "difficulty": [
                     3.5,
                     9.4,
-                    13.2,
+                    13.1,
                     0.0
                 ],
                 "illustrator": "knife美工刀",
@@ -8221,7 +8235,7 @@
                 "difficulty": [
                     5.0,
                     10.0,
-                    14.2,
+                    14.3,
                     0.0
                 ],
                 "illustrator": "Ctymax feat. EBIMAYO",
@@ -8290,7 +8304,7 @@
                 "difficulty": [
                     7.5,
                     11.9,
-                    14.4,
+                    14.5,
                     0.0
                 ],
                 "illustrator": "EBIMAYO",
@@ -8704,7 +8718,7 @@
                 "difficulty": [
                     5.5,
                     7.5,
-                    14.1,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "何呵",
@@ -9117,7 +9131,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    9.7,
+                    9.9,
                     13.7,
                     0.0
                 ],
@@ -9808,7 +9822,7 @@
                 "difficulty": [
                     6.0,
                     10.7,
-                    13.7,
+                    13.8,
                     0.0
                 ],
                 "illustrator": "あおお/A-ZERO, morph",
@@ -10359,7 +10373,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.0,
-                    9.6,
+                    10.4,
                     13.8,
                     0.0
                 ],
@@ -11533,7 +11547,7 @@
                 "difficulty": [
                     4.5,
                     11.0,
-                    14.3,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "Keiby.comics",
@@ -11670,7 +11684,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    9.8,
+                    9.7,
                     14.6,
                     0.0
                 ],
@@ -12438,7 +12452,7 @@
                 "difficulty": [
                     6.0,
                     11.8,
-                    14.6,
+                    14.5,
                     0.0
                 ],
                 "illustrator": "Photonskyto",
@@ -12507,7 +12521,7 @@
                 "difficulty": [
                     6.5,
                     10.5,
-                    14.5,
+                    14.6,
                     16.2
                 ],
                 "illustrator": "御坂果子",
@@ -12856,7 +12870,7 @@
                 "difficulty": [
                     1.5,
                     4.5,
-                    13.3,
+                    13.4,
                     0.0
                 ],
                 "illustrator": "茶鸣拾贰律",
@@ -12925,7 +12939,7 @@
                 "difficulty": [
                     5.0,
                     10.4,
-                    15.1,
+                    15.2,
                     0.0
                 ],
                 "illustrator": "茶鸣拾贰律",
@@ -13270,7 +13284,7 @@
                 "difficulty": [
                     2.5,
                     8.9,
-                    14.5,
+                    14.6,
                     0.0
                 ],
                 "illustrator": "圆规compasses",
@@ -14650,7 +14664,7 @@
                 "difficulty": [
                     5.0,
                     12.3,
-                    15.8,
+                    15.9,
                     0.0
                 ],
                 "illustrator": "上倉エク",
@@ -14927,7 +14941,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    11.1,
+                    11.4,
                     15.6,
                     0.0
                 ],
@@ -15480,7 +15494,7 @@
                 "difficulty": [
                     5.0,
                     10.2,
-                    14.6,
+                    14.7,
                     0.0
                 ],
                 "illustrator": "Juice Black (青鸟 modified)",
@@ -15963,7 +15977,7 @@
                 "difficulty": [
                     6.0,
                     9.8,
-                    14.2,
+                    14.3,
                     0.0
                 ],
                 "illustrator": "伊恩 (青鸟 modified)",
@@ -16032,7 +16046,7 @@
                 "difficulty": [
                     4.0,
                     9.1,
-                    14.7,
+                    14.6,
                     0.0
                 ],
                 "illustrator": "阿清 (青鸟 modified)",
@@ -16169,7 +16183,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    9.5,
+                    9.7,
                     15.8,
                     0.0
                 ],
@@ -16239,7 +16253,7 @@
                 "difficulty": [
                     4.0,
                     10.5,
-                    15.2,
+                    15.1,
                     0.0
                 ],
                 "illustrator": "笔记RE",
@@ -16446,7 +16460,7 @@
                 "difficulty": [
                     4.0,
                     8.5,
-                    14.3,
+                    14.2,
                     0.0
                 ],
                 "illustrator": "2AI4wU4",
@@ -16791,7 +16805,7 @@
                 "difficulty": [
                     4.0,
                     9.7,
-                    14.4,
+                    14.6,
                     0.0
                 ],
                 "illustrator": "海里狄七 feat. 存艺",
@@ -16998,7 +17012,7 @@
                 "difficulty": [
                     4.5,
                     12.1,
-                    15.6,
+                    15.5,
                     0.0
                 ],
                 "illustrator": "中本ひょうり",
@@ -17066,7 +17080,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    11.3,
+                    11.1,
                     15.9,
                     0.0
                 ],
@@ -17485,7 +17499,7 @@
                 "difficulty": [
                     4.0,
                     8.6,
-                    14.2,
+                    14.1,
                     0.0
                 ],
                 "illustrator": "LRAY (青鸟 modified)",
@@ -17554,7 +17568,7 @@
                 "difficulty": [
                     5.0,
                     12.8,
-                    15.4,
+                    15.3,
                     0.0
                 ],
                 "illustrator": "MHK (青鸟 modified)",
@@ -17761,7 +17775,7 @@
                 "difficulty": [
                     1.0,
                     9.3,
-                    14.6,
+                    14.5,
                     0.0
                 ],
                 "illustrator": "Keiby.comics",
@@ -17968,7 +17982,7 @@
                 "difficulty": [
                     5.5,
                     9.6,
-                    15.1,
+                    15.2,
                     17.0
                 ],
                 "illustrator": "RM Design Team (青鸟 modified)",
@@ -18037,7 +18051,7 @@
                 "difficulty": [
                     4.5,
                     10.6,
-                    15.2,
+                    15.1,
                     0.0
                 ],
                 "illustrator": "验光蒸鱼",
@@ -18174,7 +18188,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    10.8,
+                    10.9,
                     14.5,
                     0.0
                 ],
@@ -18451,7 +18465,7 @@
                 "difficulty": [
                     4.5,
                     9.6,
-                    13.9,
+                    13.7,
                     0.0
                 ],
                 "illustrator": "Shimoruchiko",
@@ -18589,7 +18603,7 @@
                 "difficulty": [
                     3.5,
                     8.8,
-                    13.1,
+                    13.2,
                     0.0
                 ],
                 "illustrator": "诡异童话",
@@ -18657,7 +18671,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     4.5,
-                    10.7,
+                    10.8,
                     15.5,
                     0.0
                 ],
@@ -18863,7 +18877,7 @@
                 "songsName": "ニライカナイ (NiraicA_nai Mix)",
                 "songsTitle": "",
                 "difficulty": [
-                    2.5,
+                    3.0,
                     8.3,
                     13.5,
                     0.0
@@ -19071,8 +19085,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.0,
-                    8.8,
-                    14.5,
+                    8.4,
+                    14.4,
                     0.0
                 ],
                 "illustrator": "Transendium",
@@ -19140,7 +19154,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    10.9,
+                    10.7,
                     15.2,
                     0.0
                 ],
@@ -19278,8 +19292,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.5,
-                    12.3,
-                    16.2,
+                    12.4,
+                    16.3,
                     17.2
                 ],
                 "illustrator": "Kyuare & Wsx",
@@ -19415,9 +19429,9 @@
                 "songsName": "DevIAtiOn (short ver.)",
                 "songsTitle": "",
                 "difficulty": [
-                    5.0,
+                    4.5,
                     11.1,
-                    15.6,
+                    15.7,
                     0.0
                 ],
                 "illustrator": "cala for Immaculée Sekai",
@@ -19554,8 +19568,8 @@
                 "songsTitle": "",
                 "difficulty": [
                     5.0,
-                    9.7,
-                    15.7,
+                    9.5,
+                    15.8,
                     0.0
                 ],
                 "illustrator": "神居冰绘 feat. 祈莲",
@@ -19623,9 +19637,9 @@
                 "songsTitle": "",
                 "difficulty": [
                     3.5,
-                    11.5,
+                    11.9,
                     14.0,
-                    15.5
+                    15.6
                 ],
                 "illustrator": "SEGA (V17AMax modified)",
                 "charter": [
@@ -19831,7 +19845,7 @@
                 "difficulty": [
                     5.0,
                     10.6,
-                    14.4,
+                    14.6,
                     0.0
                 ],
                 "illustrator": "山山奇",
@@ -19898,8 +19912,8 @@
                 "songsName": "Helios",
                 "songsTitle": "",
                 "difficulty": [
-                    4.5,
-                    9.2,
+                    5.5,
+                    9.0,
                     14.1,
                     0.0
                 ],
@@ -20102,7 +20116,7 @@
             {
                 "songsId": "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0",
                 "songsKey": "Avataar~Reincarnation of Kalpa~",
-                "songsName": "Avataar~Reincarnation of Kalpa~",
+                "songsName": "Avataar ~Reincarnation of Kalpa~",
                 "songsTitle": "",
                 "difficulty": [
                     2.0,
@@ -20167,6 +20181,144 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "雪降り雪が降っている.AiSSw夜輪ft結月ゆかり.0",
+                "songsKey": "雪降り ~雪が降っている~",
+                "songsName": "雪降り ~雪が降っている~",
+                "songsTitle": "",
+                "difficulty": [
+                    1.5,
+                    7.5,
+                    12.0,
+                    14.0
+                ],
+                "illustrator": "Vios.NoFurry.git",
+                "charter": [
+                    "Su1fuR",
+                    "Su1fuR",
+                    "XMT after BarbarNerSAN",
+                    "小咩兔的多指课堂 vs. 上课睡大觉"
+                ],
+                "composer": "AiSS w/ 夜輪 ft. 結月ゆかり",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 112.30699920654297,
+                "previewEndTime": 129.61500549316406,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "RetributionCycleofRedemption.ArdolfvsDaily天利.0",
+                "songsKey": "Retribution ~ Cycle of Redemption ~ ",
+                "songsName": "Retribution ~ Cycle of Redemption ~ ",
+                "songsTitle": "",
+                "difficulty": [
+                    6.0,
+                    11.3,
+                    16.2,
+                    0.0
+                ],
+                "illustrator": "死と花の大祭司(ʌᴉoƨმᴉϝ);;",
+                "charter": [
+                    "StR-1 & 右果_Ary",
+                    "StR-1 & 右果_Ary",
+                    "Simon_Axis vs. Likey [Respect Ner as \"SP∆DE\"]",
+                    ""
+                ],
+                "composer": "Ardolf vs. Daily天利",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 83.0,
+                "previewEndTime": 100.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -20177,7 +20329,7 @@
                 "songsTitle": "",
                 "difficulty": [
                     6.0,
-                    8.4,
+                    8.8,
                     12.8,
                     16.2
                 ],
@@ -20668,7 +20820,7 @@
                 "difficulty": [
                     5.5,
                     11.7,
-                    14.3,
+                    14.4,
                     0.0
                 ],
                 "illustrator": "Tsuioku",
@@ -21152,14 +21304,14 @@
                     6.5,
                     11.5,
                     15.4,
-                    0.0
+                    16.4
                 ],
                 "illustrator": "百九十八",
                 "charter": [
                     "Barianic Baradise",
                     "Barianic Baradise",
                     "Su1fuR -FAISEURS DE PANIQUE-",
-                    ""
+                    "StR-1"
                 ],
                 "composer": "DJ SHION.Y",
                 "levels": [
@@ -21427,7 +21579,7 @@
                 "difficulty": [
                     4.0,
                     10.6,
-                    14.6,
+                    14.3,
                     0.0
                 ],
                 "illustrator": "青鸟",
@@ -21566,14 +21718,14 @@
                     5.5,
                     11.4,
                     15.6,
-                    0.0
+                    16.9
                 ],
                 "illustrator": "森灵",
                 "charter": [
                     "Min(C,t,y)",
                     "Max(C,t,y)",
                     "Absolute(6)",
-                    ""
+                    "Concat(Ramification,Richter)"
                 ],
                 "composer": "Ωμεγα",
                 "levels": [
@@ -21771,6 +21923,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "Retribution ~ Cycle of Redemption ~ ",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "雪降り ~雪が降っている~",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Helios",
             "unlockedTimes": 0,
@@ -25865,6 +26029,18 @@
         },
         {
             "keyName": "Avataar~Reincarnation of Kalpa~",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "雪降り ~雪が降っている~",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Retribution ~ Cycle of Redemption ~ ",
             "unlockedTimes": 0,
             "kindOfKey": 2,
             "unlockTimes": 1
