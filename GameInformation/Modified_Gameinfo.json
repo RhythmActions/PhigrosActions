@@ -192,6 +192,10 @@
         "Ramification.rareguyReina.0",
         "DerRichter.Ωμεγα.0",
         "ATHAZA.LeaF.0",
+        "アンビバレンス.すりぃ相沢.0",
+        "Komplexe.雄之助featSennzai.0",
+        "slips.rintarosoma.0",
+        "QZKagoRequiem.tpazolite.0",
         "Radiance.Nhato.0",
         "DiamondDust.MasahiroGodspeedAoki.0",
         "StardustRAY.kanonevsBlackY.0",
@@ -5999,6 +6003,134 @@
                 }
             }
         },
+        "アンビバレンス.すりぃ相沢.0": {
+            "chapterCode": "Maimai",
+            "unlockType": 0,
+            "songsName": "アンビバレンス",
+            "composer": "すりぃ×相沢",
+            "illustrator": "SEGA (祈莲 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 3.5,
+                    "charter": "XMT小咩兔",
+                    "numOfNotes": 299
+                },
+                "HD": {
+                    "rating": 8.7,
+                    "charter": "XMT小咩兔",
+                    "numOfNotes": 579
+                },
+                "IN": {
+                    "rating": 14.1,
+                    "charter": "弧光 With Opposition",
+                    "numOfNotes": 1128
+                }
+            }
+        },
+        "Komplexe.雄之助featSennzai.0": {
+            "chapterCode": "Maimai",
+            "unlockType": 0,
+            "songsName": "Komplexe",
+            "composer": "雄之助 feat. Sennzai",
+            "illustrator": "SEGA (祈莲 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 4.0,
+                    "charter": "Helabot",
+                    "numOfNotes": 238
+                },
+                "HD": {
+                    "rating": 9.6,
+                    "charter": "右果_Ary",
+                    "numOfNotes": 485
+                },
+                "IN": {
+                    "rating": 14.3,
+                    "charter": "Likey",
+                    "numOfNotes": 1051
+                }
+            }
+        },
+        "slips.rintarosoma.0": {
+            "chapterCode": "Maimai",
+            "unlockType": 0,
+            "songsName": "sølips",
+            "composer": "rintaro soma",
+            "illustrator": "SEGA (祈莲 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 7.5,
+                    "charter": "Helabot",
+                    "numOfNotes": 363
+                },
+                "HD": {
+                    "rating": 12.8,
+                    "charter": "Salt",
+                    "numOfNotes": 935
+                },
+                "IN": {
+                    "rating": 15.8,
+                    "charter": "St2.1GHz -Før The Pigeons-",
+                    "numOfNotes": 1128
+                },
+                "AT": {
+                    "rating": 16.8,
+                    "charter": "ø",
+                    "numOfNotes": 1175
+                }
+            }
+        },
+        "QZKagoRequiem.tpazolite.0": {
+            "chapterCode": "Maimai",
+            "unlockType": 0,
+            "songsName": "QZKago Requiem",
+            "composer": "t+pazolite",
+            "illustrator": "SEGA (祈莲 modified)",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "EZ": {
+                    "rating": 7.0,
+                    "charter": "-",
+                    "numOfNotes": 296
+                },
+                "HD": {
+                    "rating": 13.3,
+                    "charter": "Rikko EXPERT Life:999",
+                    "numOfNotes": 1007
+                },
+                "IN": {
+                    "rating": 16.4,
+                    "charter": "Gausbon",
+                    "numOfNotes": 1259
+                },
+                "AT": {
+                    "rating": 17.4,
+                    "charter": "Salt feat. M3ow",
+                    "numOfNotes": 1723
+                }
+            }
+        },
         "Radiance.Nhato.0": {
             "chapterCode": "Ongeki",
             "unlockType": 0,
@@ -8638,5 +8770,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.15.1"
+    "ver": "3.16.0"
 }

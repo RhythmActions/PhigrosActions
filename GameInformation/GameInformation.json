@@ -8,20 +8,14 @@
                 "banner": "Single",
                 "songs": [
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@08/31/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "RetributionCycleofRedemption.ArdolfvsDaily天利.0",
                         "unlockType": 1,
                         "secretType": 0
                     },
                     {
-                        "unlockInfo": [
-                            "4",
-                            "prev@08/31/2025 17:00:00 +8:00"
-                        ],
+                        "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "雪降り雪が降っている.AiSSw夜輪ft結月ゆかり.0",
                         "unlockType": 1,
@@ -1542,6 +1536,52 @@
             "unlockInfo": {
                 "unlockMode": 4,
                 "unlockFlag": "MOBILYS.Dachs.0",
+                "unlockTip": "",
+                "fakeCoverFlag": "",
+                "fakeCoverCode": "",
+                "fakeCoverBlurCode": ""
+            }
+        },
+        {
+            "chapterCode": "Maimai",
+            "songInfo": {
+                "title": "\\ChapterMaimaiTitle",
+                "subTitle": "\\ChapterExtraSubTitle",
+                "banner": "maimai",
+                "songs": [
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "アンビバレンス.すりぃ相沢.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "Komplexe.雄之助featSennzai.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "slips.rintarosoma.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [],
+                        "secretInfo": [],
+                        "songsId": "QZKagoRequiem.tpazolite.0",
+                        "unlockType": 0,
+                        "secretType": 0
+                    }
+                ]
+            },
+            "unlockInfo": {
+                "unlockMode": 0,
+                "unlockFlag": "prev@08/31/2025 17:00:00 +8:00",
                 "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
@@ -20319,6 +20359,282 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "アンビバレンス.すりぃ相沢.0",
+                "songsKey": "アンビバレンス",
+                "songsName": "アンビバレンス",
+                "songsTitle": "",
+                "difficulty": [
+                    3.5,
+                    8.7,
+                    14.1,
+                    0.0
+                ],
+                "illustrator": "SEGA (祈莲 modified)",
+                "charter": [
+                    "XMT小咩兔",
+                    "XMT小咩兔",
+                    "弧光 With Opposition",
+                    ""
+                ],
+                "composer": "すりぃ×相沢",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 41.707000732421875,
+                "previewEndTime": 57.75,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "Komplexe.雄之助featSennzai.0",
+                "songsKey": "Komplexe",
+                "songsName": "Komplexe",
+                "songsTitle": "",
+                "difficulty": [
+                    4.0,
+                    9.6,
+                    14.3,
+                    0.0
+                ],
+                "illustrator": "SEGA (祈莲 modified)",
+                "charter": [
+                    "Helabot",
+                    "右果_Ary",
+                    "Likey",
+                    ""
+                ],
+                "composer": "雄之助 feat. Sennzai",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 83.0,
+                "previewEndTime": 96.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "slips.rintarosoma.0",
+                "songsKey": "sølips",
+                "songsName": "sølips",
+                "songsTitle": "",
+                "difficulty": [
+                    7.5,
+                    12.8,
+                    15.8,
+                    16.8
+                ],
+                "illustrator": "SEGA (祈莲 modified)",
+                "charter": [
+                    "Helabot",
+                    "Salt",
+                    "St2.1GHz -Før The Pigeons-",
+                    "ø"
+                ],
+                "composer": "rintaro soma",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 37.0,
+                "previewEndTime": 57.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "QZKagoRequiem.tpazolite.0",
+                "songsKey": "QZKago Requiem",
+                "songsName": "QZKago Requiem",
+                "songsTitle": "",
+                "difficulty": [
+                    7.0,
+                    13.3,
+                    16.4,
+                    17.4
+                ],
+                "illustrator": "SEGA (祈莲 modified)",
+                "charter": [
+                    "-",
+                    "Rikko EXPERT Life:999",
+                    "Gausbon",
+                    "Salt feat. M3ow"
+                ],
+                "composer": "t+pazolite",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 0.20000000298023224,
+                "previewEndTime": 28.200000762939453,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -26046,6 +26362,30 @@
             "unlockTimes": 1
         },
         {
+            "keyName": "アンビバレンス",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Komplexe",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "sølips",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "QZKago Requiem",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
             "keyName": "Introduction",
             "unlockedTimes": 0,
             "kindOfKey": 2,
@@ -26683,6 +27023,42 @@
         },
         {
             "keyName": "水青-一周年相聚",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "アンビバレンス1",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "アンビバレンス2",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "Komplexe",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "QZKago Requiem1",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "QZKago Requiem2",
+            "unlockedTimes": 0,
+            "kindOfKey": 3,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "sølips",
             "unlockedTimes": 0,
             "kindOfKey": 3,
             "unlockTimes": 1
