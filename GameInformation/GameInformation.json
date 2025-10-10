@@ -8,6 +8,24 @@
                 "banner": "Single",
                 "songs": [
                     {
+                        "unlockInfo": [
+                            "4"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "000AinSophAur.Yumeji.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
+                        "unlockInfo": [
+                            "4"
+                        ],
+                        "secretInfo": [],
+                        "songsId": "SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔.0",
+                        "unlockType": 1,
+                        "secretType": 0
+                    },
+                    {
                         "unlockInfo": [],
                         "secretInfo": [],
                         "songsId": "RetributionCycleofRedemption.ArdolfvsDaily天利.0",
@@ -1581,7 +1599,7 @@
             },
             "unlockInfo": {
                 "unlockMode": 0,
-                "unlockFlag": "prev@08/31/2025 17:00:00 +8:00",
+                "unlockFlag": "",
                 "unlockTip": "",
                 "fakeCoverFlag": "",
                 "fakeCoverCode": "",
@@ -20635,6 +20653,144 @@
                 "previewClipDifficulty": 0,
                 "hasDifferentCover": 0,
                 "differentCover": 0
+            },
+            {
+                "songsId": "SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔.0",
+                "songsKey": "So laggy! (feat. Uzumaki)",
+                "songsName": "So laggy! (feat. Uzumaki)",
+                "songsTitle": "",
+                "difficulty": [
+                    5.0,
+                    9.5,
+                    14.8,
+                    0.0
+                ],
+                "illustrator": "塩焼とまと",
+                "charter": [
+                    "Salt",
+                    "Salt",
+                    "Salt",
+                    ""
+                ],
+                "composer": "ShrimpCats. (はぁち×後藤涼輔)",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 46.5,
+                "previewEndTime": 68.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
+            },
+            {
+                "songsId": "000AinSophAur.Yumeji.0",
+                "songsKey": "000 -Ain Soph Aur-",
+                "songsName": "000 -Ain Soph Aur-",
+                "songsTitle": "",
+                "difficulty": [
+                    2.5,
+                    8.4,
+                    14.4,
+                    0.0
+                ],
+                "illustrator": "NerSAN",
+                "charter": [
+                    "Magazet",
+                    "Magazet",
+                    "啊0哒0咔0哟 & Dilated",
+                    ""
+                ],
+                "composer": "Yumeji",
+                "levels": [
+                    "EZ",
+                    "HD",
+                    "IN",
+                    "AT"
+                ],
+                "previewTime": 107.0,
+                "previewEndTime": 127.0,
+                "unlockInfo": [
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    },
+                    {
+                        "unlockType": 0,
+                        "unlockInfo": []
+                    }
+                ],
+                "levelMods": [
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    },
+                    {
+                        "levelMods": []
+                    }
+                ],
+                "isCnLimited": false,
+                "hasDifferentMusic": false,
+                "differentMusic": 0,
+                "previewClipDifficulty": 0,
+                "hasDifferentCover": 0,
+                "differentCover": 0
             }
         ],
         "sideStorySongs": [
@@ -22239,6 +22395,18 @@
         ]
     },
     "keyStore": [
+        {
+            "keyName": "000 -Ain Soph Aur-",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "So laggy! (feat. Uzumaki)",
+            "unlockedTimes": 0,
+            "kindOfKey": 0,
+            "unlockTimes": 1
+        },
         {
             "keyName": "Retribution ~ Cycle of Redemption ~ ",
             "unlockedTimes": 0,
@@ -26386,6 +26554,18 @@
             "unlockTimes": 1
         },
         {
+            "keyName": "So laggy! (feat. Uzumaki)",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
+            "keyName": "000 -Ain Soph Aur-",
+            "unlockedTimes": 0,
+            "kindOfKey": 2,
+            "unlockTimes": 1
+        },
+        {
             "keyName": "Introduction",
             "unlockedTimes": 0,
             "kindOfKey": 2,
@@ -27023,42 +27203,6 @@
         },
         {
             "keyName": "水青-一周年相聚",
-            "unlockedTimes": 0,
-            "kindOfKey": 3,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "アンビバレンス1",
-            "unlockedTimes": 0,
-            "kindOfKey": 3,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "アンビバレンス2",
-            "unlockedTimes": 0,
-            "kindOfKey": 3,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "Komplexe",
-            "unlockedTimes": 0,
-            "kindOfKey": 3,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "QZKago Requiem1",
-            "unlockedTimes": 0,
-            "kindOfKey": 3,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "QZKago Requiem2",
-            "unlockedTimes": 0,
-            "kindOfKey": 3,
-            "unlockTimes": 1
-        },
-        {
-            "keyName": "sølips",
             "unlockedTimes": 0,
             "kindOfKey": 3,
             "unlockTimes": 1

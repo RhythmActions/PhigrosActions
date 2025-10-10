@@ -1,5 +1,7 @@
 {
     "allSongs": [
+        "000AinSophAur.Yumeji.0",
+        "SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔.0",
         "RetributionCycleofRedemption.ArdolfvsDaily天利.0",
         "雪降り雪が降っている.AiSSw夜輪ft結月ゆかり.0",
         "Helios.NOABotaNya.0",
@@ -285,6 +287,64 @@
         "Chronostasis.黒皇帝.0"
     ],
     "regularSongs": {
+        "000AinSophAur.Yumeji.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "000 -Ain Soph Aur-",
+            "composer": "Yumeji",
+            "illustrator": "NerSAN",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 2.5,
+                    "charter": "Magazet",
+                    "numOfNotes": 171
+                },
+                "HD": {
+                    "rating": 8.4,
+                    "charter": "Magazet",
+                    "numOfNotes": 371
+                },
+                "IN": {
+                    "rating": 14.4,
+                    "charter": "啊0哒0咔0哟 & Dilated",
+                    "numOfNotes": 689
+                }
+            }
+        },
+        "SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔.0": {
+            "chapterCode": "Single",
+            "unlockType": 1,
+            "songsName": "So laggy! (feat. Uzumaki)",
+            "composer": "ShrimpCats. (はぁち×後藤涼輔)",
+            "illustrator": "塩焼とまと",
+            "chartDetail": {
+                "level_list": [
+                    "EZ",
+                    "HD",
+                    "IN"
+                ],
+                "EZ": {
+                    "rating": 5.0,
+                    "charter": "Salt",
+                    "numOfNotes": 218
+                },
+                "HD": {
+                    "rating": 9.5,
+                    "charter": "Salt",
+                    "numOfNotes": 445
+                },
+                "IN": {
+                    "rating": 14.8,
+                    "charter": "Salt",
+                    "numOfNotes": 825
+                }
+            }
+        },
         "RetributionCycleofRedemption.ArdolfvsDaily天利.0": {
             "chapterCode": "Single",
             "unlockType": 1,
@@ -8770,5 +8830,5 @@
         }
     },
     "otherSongs": {},
-    "ver": "3.16.0"
+    "ver": "3.16.1"
 }
